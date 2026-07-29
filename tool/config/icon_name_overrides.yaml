@@ -1,0 +1,12 @@
+# Manual overrides for icon names that the automatic Dart-identifier
+# resolution (tool/lib/src/name_utils.dart) can't handle safely, or where the
+# automatic "append Icon" fallback produces an undesirable name.
+#
+# Format: <kebab-case source name>: <desired lowerCamelCase Dart identifier>
+#
+# Known Dart-reserved-word collisions in the current icon set (export,
+# import, case) are already handled automatically via the "Icon" suffix
+# fallback (export -> exportIcon, import -> importIcon, case -> caseIcon) and
+# do NOT need an entry here. Add entries only when the generator throws
+# UnsafeIconNameException, or when you want a nicer name than the automatic
+# fallback produces.

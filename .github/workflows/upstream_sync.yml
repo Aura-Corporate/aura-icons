@@ -1,0 +1,87 @@
+name: Sync upstream icons
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # daily at 06:00 UTC
+  workflow_dispatch: {} # manual "Run workflow" button in the Actions tab
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Get Flutter version from .fvmrc
+        id: fvm-version
+        run: echo "version=$(jq -r .flutter .fvmrc)" >> "$GITHUB_OUTPUT"
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: ${{ steps.fvm-version.outputs.version }}
+          cache: true
+
+      - name: Check for a new upstream commit
+        id: check
+        run: |
+          current=$(grep "upstreamCommitSha = " tool/lib/src/config.dart | sed -E "s/.*'([0-9a-f]{40})'.*/\1/")
+          latest=$(git ls-remote https://github.com/saoudi-h/solar-icons HEAD | cut -f1)
+          echo "current=$current" >> "$GITHUB_OUTPUT"
+          echo "latest=$latest" >> "$GITHUB_OUTPUT"
+          if [ "$current" = "$latest" ]; then
+            echo "Already up to date at $current."
+            echo "up_to_date=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "New upstream commit: $current -> $latest"
+            echo "up_to_date=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Bump the pinned commit
+        if: steps.check.outputs.up_to_date == 'false'
+        run: |
+          sed -i "s/${{ steps.check.outputs.current }}/${{ steps.check.outputs.latest }}/" tool/lib/src/config.dart
+          sed -i "s/${{ steps.check.outputs.current }}/${{ steps.check.outputs.latest }}/" THIRD_PARTY_NOTICES.md
+
+      - name: Regenerate icons
+        if: steps.check.outputs.up_to_date == 'false'
+        working-directory: tool
+        run: |
+          dart pub get
+          dart run generate_icons.dart
+
+      - name: Generate GitHub App Token
+        if: steps.check.outputs.up_to_date == 'false'
+        id: app-token
+        uses: actions/create-github-app-token@v3.2.0
+        with:
+          client-id: ${{ vars.CLIENT_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+
+      - name: Open pull request
+        if: steps.check.outputs.up_to_date == 'false'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ steps.app-token.outputs.token }}
+          branch: chore/bump-upstream-icons
+          commit-message: "chore: bump upstream solar-icons to ${{ steps.check.outputs.latest }}"
+          title: "chore: bump upstream solar-icons to ${{ steps.check.outputs.latest }}"
+          labels: upstream-sync
+          body: |
+            Automated bump of the pinned upstream commit used to generate the icons.
+
+            - From: `${{ steps.check.outputs.current }}`
+            - To: `${{ steps.check.outputs.latest }}`
+            - Compare: https://github.com/saoudi-h/solar-icons/compare/${{ steps.check.outputs.current }}...${{ steps.check.outputs.latest }}
+
+            Review the diff in `lib/src/generated/**` and `assets/vectors/**` for
+            new/renamed/removed icons before merging. `Quality Check` runs
+            automatically on this PR (it re-regenerates from the new commit and
+            fails if the committed output doesn't match, or if analyze/test fail).
+
+            **Do not merge without reviewing** — this bumps a third-party data
+            source; a bad or malicious upstream commit would flow straight
+            through otherwise.

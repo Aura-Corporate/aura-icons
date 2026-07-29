@@ -1,0 +1,29 @@
+name: aura_icons
+description: "Solar icon set (Outline, Linear, Bold, Broken, BoldDuotone, LineDuotone) packaged as native Flutter vector assets."
+version: 0.1.0
+homepage: https://github.com/Aura-Corporate/aura-icons
+repository: https://github.com/Aura-Corporate/aura-icons
+
+environment:
+  sdk: ^3.11.0
+  flutter: ">=3.41.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  vector_graphics: ^1.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+# The following section is specific to Flutter packages.
+flutter:
+  assets:
+    - assets/vectors/outline/
+    - assets/vectors/linear/
+    - assets/vectors/bold/
+    - assets/vectors/broken/
+    - assets/vectors/bold_duotone/
+    - assets/vectors/line_duotone/
