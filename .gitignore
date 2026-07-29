@@ -39,3 +39,7 @@ coverage/
 # aura-icons codegen: vendored upstream sources and intermediate build
 # artifacts are never committed — only generated Dart and .vec output.
 tool/.cache/
+
+# Diff images flutter_test writes when a golden comparison fails — a local
+# debugging artifact, not something to commit.
+test/golden/failures/
