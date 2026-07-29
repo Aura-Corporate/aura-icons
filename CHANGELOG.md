@@ -13,6 +13,13 @@
   runtime, so the stroke-to-fill conversion that existed only to produce
   font glyphs is no longer needed. The pipeline is now pure Dart.
 
+## [1.0.1](https://github.com/Aura-Corporate/aura-icons/compare/v1.0.0...v1.0.1) (2026-07-29)
+
+
+### Bug Fixes
+
+* Exclude tool/ from published package and rename to aura_solar_icons ([#2](https://github.com/Aura-Corporate/aura-icons/issues/2)) ([a911f5c](https://github.com/Aura-Corporate/aura-icons/commit/a911f5c3ad47caaea1d2461070ba63eda074e3b6))
+
 ## 1.0.0 (2026-07-29)
 
 
