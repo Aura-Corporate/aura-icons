@@ -12,43 +12,34 @@ const _sampleIconNames = [
   'settings',
 ];
 
-class _GalleryTile extends StatelessWidget {
-  const _GalleryTile({required this.label, required this.child});
-  final String label;
-  final Widget child;
-
-  @override
-  Widget build(BuildContext context) {
-    return Column(
-      mainAxisSize: MainAxisSize.min,
-      children: [
-        SizedBox(width: 48, height: 48, child: Center(child: child)),
-        Text(label, style: const TextStyle(fontSize: 10)),
-      ],
-    );
-  }
-}
-
 const _galleryKey = Key('icon-gallery');
 
+/// Icons only — no text labels. Text rasterizes differently across
+/// platforms (font fallback/hinting differs between macOS and the Linux CI
+/// runner), which made this golden flaky across machines even though the
+/// vector icon rendering itself is deterministic. Keeping the captured
+/// region to pure vector shapes makes the golden meaningful cross-platform.
 Widget _gallery() {
   return RepaintBoundary(
     key: _galleryKey,
-    child: Material(
+    child: ColoredBox(
+      color: Colors.white,
       child: Wrap(
         children: [
           for (final name in _sampleIconNames) ...[
-            _GalleryTile(label: '$name/Outline', child: AuraIcon(AuraIconsOutline.all[name]!, size: 32)),
-            _GalleryTile(label: '$name/Linear', child: AuraIcon(AuraIconsLinear.all[name]!, size: 32)),
-            _GalleryTile(label: '$name/Bold', child: AuraIcon(AuraIconsBold.all[name]!, size: 32)),
-            _GalleryTile(label: '$name/Broken', child: AuraIcon(AuraIconsBroken.all[name]!, size: 32)),
-            _GalleryTile(
-              label: '$name/BoldDuotone',
-              child: AuraIcon(AuraIconsBoldDuotone.all[name]!, size: 32),
+            SizedBox(width: 40, height: 40, child: Center(child: AuraIcon(AuraIconsOutline.all[name]!, size: 32))),
+            SizedBox(width: 40, height: 40, child: Center(child: AuraIcon(AuraIconsLinear.all[name]!, size: 32))),
+            SizedBox(width: 40, height: 40, child: Center(child: AuraIcon(AuraIconsBold.all[name]!, size: 32))),
+            SizedBox(width: 40, height: 40, child: Center(child: AuraIcon(AuraIconsBroken.all[name]!, size: 32))),
+            SizedBox(
+              width: 40,
+              height: 40,
+              child: Center(child: AuraIcon(AuraIconsBoldDuotone.all[name]!, size: 32)),
             ),
-            _GalleryTile(
-              label: '$name/LineDuotone',
-              child: AuraIcon(AuraIconsLineDuotone.all[name]!, size: 32),
+            SizedBox(
+              width: 40,
+              height: 40,
+              child: Center(child: AuraIcon(AuraIconsLineDuotone.all[name]!, size: 32)),
             ),
           ],
         ],
