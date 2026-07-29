@@ -31,4 +31,4 @@ jobs:
         if: ${{ steps.release.outputs.pr != '' }}
         env:
           GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
-        run: gh pr edit ${{ fromJson(steps.release.outputs.pr).number }} --add-assignee ${{ github.actor }}
+        run: gh pr edit ${{ fromJson(steps.release.outputs.pr).number }} --repo ${{ github.repository }} --add-assignee ${{ github.actor }}
