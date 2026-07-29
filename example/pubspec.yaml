@@ -1,5 +1,5 @@
-name: aura_icons_example
-description: "Example usage of the aura_icons package."
+name: aura_solar_icons_example
+description: "Example usage of the aura_solar_icons package."
 publish_to: 'none'
 
 environment:
@@ -8,7 +8,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  aura_icons:
+  aura_solar_icons:
     path: ../
 
 dev_dependencies:

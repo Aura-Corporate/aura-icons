@@ -1,4 +1,4 @@
-# aura_icons
+# aura_solar_icons
 
 Solar icon set packaged as a native Flutter/Dart package, generated from the
 community-maintained SVG source at
@@ -31,7 +31,7 @@ no different from how `color` works for the 4 single-tone styles.
 ## Usage
 
 ```dart
-import 'package:aura_icons/aura_icons.dart';
+import 'package:aura_solar_icons/aura_solar_icons.dart';
 
 AuraIcon(AuraIconsOutline.home, size: 24, color: Colors.black);
 AuraIcon(AuraIconsBold.home, size: 24, color: Colors.black);

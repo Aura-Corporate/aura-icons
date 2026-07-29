@@ -18,7 +18,7 @@
 
 ### Features
 
-* aura_icons vector icon package ([4403fe4](https://github.com/Aura-Corporate/aura-icons/commit/4403fe4449851c125815aab2364ee8cf037dc7db))
+* aura_solar_icons vector icon package ([4403fe4](https://github.com/Aura-Corporate/aura-icons/commit/4403fe4449851c125815aab2364ee8cf037dc7db))
 
 
 ### Bug Fixes

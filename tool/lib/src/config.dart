@@ -1,4 +1,4 @@
-/// Central configuration for the aura_icons codegen pipeline.
+/// Central configuration for the aura_solar_icons codegen pipeline.
 ///
 /// Bumping [upstreamCommitSha] and re-running `dart run generate_icons.dart`
 /// is the only thing needed to pull in new/fixed upstream icons.
@@ -25,37 +25,37 @@ enum IconStyle {
   outline(
     folder: 'Outline',
     dartClassName: 'AuraIconsOutline',
-    fileBaseName: 'aura_icons_outline',
+    fileBaseName: 'aura_solar_icons_outline',
     assetSubdir: 'outline',
   ),
   linear(
     folder: 'Linear',
     dartClassName: 'AuraIconsLinear',
-    fileBaseName: 'aura_icons_linear',
+    fileBaseName: 'aura_solar_icons_linear',
     assetSubdir: 'linear',
   ),
   bold(
     folder: 'Bold',
     dartClassName: 'AuraIconsBold',
-    fileBaseName: 'aura_icons_bold',
+    fileBaseName: 'aura_solar_icons_bold',
     assetSubdir: 'bold',
   ),
   broken(
     folder: 'Broken',
     dartClassName: 'AuraIconsBroken',
-    fileBaseName: 'aura_icons_broken',
+    fileBaseName: 'aura_solar_icons_broken',
     assetSubdir: 'broken',
   ),
   boldDuotone(
     folder: 'BoldDuotone',
     dartClassName: 'AuraIconsBoldDuotone',
-    fileBaseName: 'aura_icons_bold_duotone',
+    fileBaseName: 'aura_solar_icons_bold_duotone',
     assetSubdir: 'bold_duotone',
   ),
   lineDuotone(
     folder: 'LineDuotone',
     dartClassName: 'AuraIconsLineDuotone',
-    fileBaseName: 'aura_icons_line_duotone',
+    fileBaseName: 'aura_solar_icons_line_duotone',
     assetSubdir: 'line_duotone',
   );
 
@@ -73,7 +73,7 @@ enum IconStyle {
   final String dartClassName;
 
   /// Generated file basename under `lib/src/generated/`, e.g.
-  /// `aura_icons_outline` (becomes `aura_icons_outline.g.dart`).
+  /// `aura_solar_icons_outline` (becomes `aura_solar_icons_outline.g.dart`).
   final String fileBaseName;
 
   /// Subdirectory under `assets/vectors/` holding this style's `.vec` files.

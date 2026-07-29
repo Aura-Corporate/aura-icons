@@ -1,4 +1,4 @@
-import 'package:aura_icons/aura_icons.dart';
+import 'package:aura_solar_icons/aura_solar_icons.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 

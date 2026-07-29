@@ -1,5 +1,5 @@
-import 'package:aura_icons_tool/src/codegen_dart.dart';
-import 'package:aura_icons_tool/src/config.dart';
+import 'package:aura_solar_icons_tool/src/codegen_dart.dart';
+import 'package:aura_solar_icons_tool/src/config.dart';
 import 'package:test/test.dart';
 
 void main() {

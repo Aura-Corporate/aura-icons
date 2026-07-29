@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:aura_icons/aura_icons.dart';
+import 'package:aura_solar_icons/aura_solar_icons.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 /// Total distinct icons in the upstream set, at the pinned commit

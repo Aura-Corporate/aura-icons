@@ -1,0 +1,6 @@
+# Dev-only codegen tool — its own separate Dart package (own pubspec.yaml,
+# own dependencies pub.dev has no knowledge of when validating this
+# package). Never needed by consumers of aura_icons; excluding it avoids
+# spurious "unlisted dependency" warnings during `dart pub publish` and
+# keeps the published package archive lean.
+/tool/

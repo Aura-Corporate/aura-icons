@@ -1,4 +1,4 @@
-import 'package:aura_icons_tool/src/name_utils.dart';
+import 'package:aura_solar_icons_tool/src/name_utils.dart';
 import 'package:test/test.dart';
 
 void main() {

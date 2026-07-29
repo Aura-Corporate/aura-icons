@@ -1,6 +1,6 @@
 /// A reference to a precompiled vector icon asset — analogous to Flutter's
 /// [IconData], but backed by a `vector_graphics` `.vec` asset instead of a
-/// font glyph. Every `aura_icons` style (Outline, Linear, Bold, Broken,
+/// font glyph. Every `aura_solar_icons` style (Outline, Linear, Bold, Broken,
 /// BoldDuotone, LineDuotone) uses this same type; there is no font-backed
 /// alternative.
 ///
@@ -10,9 +10,9 @@
 class AuraIconData {
   const AuraIconData(this.assetPath);
 
-  /// Bare (no `packages/aura_icons/` prefix) asset path, e.g.
+  /// Bare (no `packages/aura_solar_icons/` prefix) asset path, e.g.
   /// `assets/vectors/outline/home.vec`. [AuraIcon] supplies
-  /// `packageName: 'aura_icons'` to `AssetBytesLoader`, which adds that
+  /// `packageName: 'aura_solar_icons'` to `AssetBytesLoader`, which adds that
   /// prefix itself — baking it into both places double-prefixes the path.
   final String assetPath;
 

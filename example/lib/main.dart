@@ -1,4 +1,4 @@
-import 'package:aura_icons/aura_icons.dart';
+import 'package:aura_solar_icons/aura_solar_icons.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(const AuraIconsExampleApp());
@@ -9,7 +9,7 @@ class AuraIconsExampleApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'aura_icons example',
+      title: 'aura_solar_icons example',
       home: const _HomePage(),
     );
   }
@@ -24,7 +24,7 @@ class _HomePage extends StatelessWidget {
       length: 6,
       child: Scaffold(
         appBar: AppBar(
-          title: const Text('aura_icons'),
+          title: const Text('aura_solar_icons'),
           bottom: const TabBar(
             isScrollable: true,
             tabs: [

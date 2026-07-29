@@ -77,8 +77,8 @@ String generateIconStyleFile({
 
   for (final kebabName in sortedByIdentifier) {
     final identifier = identifiers[kebabName]!;
-    // Bare path (no "packages/aura_icons/" prefix) — AuraIcon supplies
-    // `packageName: 'aura_icons'` to AssetBytesLoader itself, which adds
+    // Bare path (no "packages/aura_solar_icons/" prefix) — AuraIcon supplies
+    // `packageName: 'aura_solar_icons'` to AssetBytesLoader itself, which adds
     // that prefix internally. Baking the prefix into both places at once
     // double-prefixes the path and the asset silently fails to load.
     final assetPath = 'assets/vectors/${style.assetSubdir}/$kebabName.vec';

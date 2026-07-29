@@ -1,8 +1,8 @@
 import 'dart:io';
 import 'dart:typed_data';
 
-import 'package:aura_icons_tool/src/svg_normalizer.dart';
-import 'package:aura_icons_tool/src/vector_compiler.dart';
+import 'package:aura_solar_icons_tool/src/svg_normalizer.dart';
+import 'package:aura_solar_icons_tool/src/vector_compiler.dart';
 import 'package:path/path.dart' as p;
 import 'package:test/test.dart';
 
@@ -15,7 +15,7 @@ void main() {
     late Directory tmpDir;
 
     setUp(() async {
-      tmpDir = await Directory.systemTemp.createTemp('aura_icons_vector_compiler_test_');
+      tmpDir = await Directory.systemTemp.createTemp('aura_solar_icons_vector_compiler_test_');
     });
 
     tearDown(() async {
