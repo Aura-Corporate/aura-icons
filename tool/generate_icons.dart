@@ -1,4 +1,4 @@
-/// Single entrypoint for the aura_icons codegen pipeline.
+/// Single entrypoint for the aura_solar_icons codegen pipeline.
 ///
 /// Usage:
 ///   dart run generate_icons.dart                  # full run, all categories
@@ -12,11 +12,11 @@ library;
 
 import 'dart:io';
 
-import 'package:aura_icons_tool/src/codegen_dart.dart';
-import 'package:aura_icons_tool/src/config.dart';
-import 'package:aura_icons_tool/src/fetch_upstream.dart';
-import 'package:aura_icons_tool/src/svg_normalizer.dart';
-import 'package:aura_icons_tool/src/vector_compiler.dart';
+import 'package:aura_solar_icons_tool/src/codegen_dart.dart';
+import 'package:aura_solar_icons_tool/src/config.dart';
+import 'package:aura_solar_icons_tool/src/fetch_upstream.dart';
+import 'package:aura_solar_icons_tool/src/svg_normalizer.dart';
+import 'package:aura_solar_icons_tool/src/vector_compiler.dart';
 import 'package:path/path.dart' as p;
 import 'package:yaml/yaml.dart';
 

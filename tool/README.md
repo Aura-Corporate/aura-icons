@@ -1,4 +1,4 @@
-# aura_icons codegen tool
+# aura_solar_icons codegen tool
 
 Pulls the SVG source from a pinned commit of
 [`saoudi-h/solar-icons`](https://github.com/saoudi-h/solar-icons), normalizes

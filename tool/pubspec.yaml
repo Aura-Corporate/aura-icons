@@ -1,5 +1,5 @@
-name: aura_icons_tool
-description: "Codegen tool for aura_icons: pulls upstream SVG source, normalizes, compiles vector assets, and generates Dart bindings. Dev-only, never a dependency of aura_icons itself."
+name: aura_solar_icons_tool
+description: "Codegen tool for aura_solar_icons: pulls upstream SVG source, normalizes, compiles vector assets, and generates Dart bindings. Dev-only, never a dependency of aura_solar_icons itself."
 publish_to: 'none'
 
 environment:

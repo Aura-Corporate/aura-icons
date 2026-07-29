@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:aura_icons_tool/src/svg_normalizer.dart';
+import 'package:aura_solar_icons_tool/src/svg_normalizer.dart';
 import 'package:path/path.dart' as p;
 import 'package:test/test.dart';
 

@@ -3,7 +3,7 @@ import 'package:vector_graphics/vector_graphics.dart';
 
 import 'icon_data.dart';
 
-/// Renders an `aura_icons` icon from a precompiled `vector_graphics` asset,
+/// Renders an `aura_solar_icons` icon from a precompiled `vector_graphics` asset,
 /// with an [Icon]-like API. Used for all 6 styles (Outline, Linear, Bold,
 /// Broken, BoldDuotone, LineDuotone) — none of them are font-backed.
 ///
@@ -42,7 +42,7 @@ class AuraIcon extends StatelessWidget {
     final resolvedColor = color ?? iconTheme.color ?? const Color(0xFF000000);
 
     return VectorGraphic(
-      loader: AssetBytesLoader(icon.assetPath, packageName: 'aura_icons'),
+      loader: AssetBytesLoader(icon.assetPath, packageName: 'aura_solar_icons'),
       width: resolvedSize,
       height: resolvedSize,
       colorFilter: ColorFilter.mode(resolvedColor, BlendMode.srcIn),
