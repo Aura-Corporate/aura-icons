@@ -1,0 +1,14 @@
+<svg width="46" height="46" viewBox="0 0 46 46" fill="none" xmlns="http://www.w3.org/2000/svg" style="" xmlns:bx="https://boxy-svg.com">
+    <defs>
+        <linearGradient id="jetbrains_amber" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#DB6B48"></stop>
+            <stop offset="50%" stop-color="#C15838"></stop>
+            <stop offset="100%" stop-color="#A64528"></stop>
+        </linearGradient>
+    </defs>
+    <path d="M39.3028 28.9C39.3028 28.9 36.5195 39.5086 24.2471 45.4C5.49896 36.4 5.5 19.9 5.5 9.39999C10.187 4.89999 24.2471 0.399994 24.2471 0.399994C24.2471 0.399994 28.8475 1.67863 32.5422 3.39999C36.2369 5.12135 29.162 4.89999 29.162 10.9C29.1619 15.7458 34.2324 22.9 35.9225 24.4C38.5949 26.7717 39.3028 27.4 39.3028 28.9Z"
+        fill="url(#jetbrains_amber)" stroke="url(#jetbrains_amber)" stroke-width="0.5">
+    </path>
+    <path d="M 36.157 20.545 C 33.339 16.608 28.392 7.42 36.199 7.42 C 44.005 7.42 39.263 16.608 36.157 20.545 Z M 36.203 9.52 C 32.649 9.52 33.538 13.895 36.203 13.895 C 38.868 13.895 39.757 9.52 36.203 9.52 Z"
+        fill="url(#jetbrains_amber)" stroke="url(#jetbrains_amber)" stroke-width="0.5"></path>
+</svg>
