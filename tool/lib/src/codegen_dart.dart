@@ -63,6 +63,9 @@ String generateIconStyleFile({
   required IconStyle style,
   required List<String> sortedIconNames,
   required Map<String, String> overrides,
+  // kebab icon name -> accentRenderedFirst, for icons with a
+  // separately-compiled accent asset (see svg_normalizer.dart).
+  Map<String, bool> accentIconNames = const {},
 }) {
   final identifiers = resolveAllIdentifiers(sortedIconNames, overrides);
   final sortedByIdentifier = sortedIconNames.sortedBy((n) => identifiers[n]!);
@@ -82,9 +85,19 @@ String generateIconStyleFile({
     // that prefix internally. Baking the prefix into both places at once
     // double-prefixes the path and the asset silently fails to load.
     final assetPath = 'assets/vectors/${style.assetSubdir}/$kebabName.vec';
-    buffer.writeln(
-      "  static const AuraIconData $identifier = AuraIconData('$assetPath');",
-    );
+    if (accentIconNames.containsKey(kebabName)) {
+      final accentAssetPath = 'assets/vectors/${style.assetSubdir}/$kebabName-accent.vec';
+      final accentRenderedFirst = accentIconNames[kebabName]!;
+      final accentBehindMainArg = accentRenderedFirst ? ', accentBehindMain: true' : '';
+      buffer.writeln(
+        "  static const AuraIconData $identifier = AuraIconData('$assetPath', "
+        "accentAssetPath: '$accentAssetPath'$accentBehindMainArg);",
+      );
+    } else {
+      buffer.writeln(
+        "  static const AuraIconData $identifier = AuraIconData('$assetPath');",
+      );
+    }
   }
 
   buffer

@@ -109,22 +109,42 @@ Future<void> main(List<String> args) async {
 
   stderr.writeln('== 3/4 Compiling vector assets (all 6 styles) ==');
   final vectorCompiler = VectorCompiler();
+  // iconName -> accentRenderedFirst, per style, for icons with a
+  // separately-compiled accent asset. Only ever non-empty for
+  // BoldDuotone/LineDuotone (see svg_normalizer.dart).
+  final accentIconNamesByStyle = <IconStyle, Map<String, bool>>{
+    for (final style in IconStyle.values) style: {},
+  };
   for (final style in IconStyle.values) {
     final outDir = Directory(p.join(_packageRoot.path, 'assets', 'vectors', style.assetSubdir));
     if (onlyCategory == null && outDir.existsSync()) {
       await outDir.delete(recursive: true);
     }
-    final jobs = normalizedByStyle[style]!.entries.map((entry) {
-      // includeAccent is a no-op for the 4 single-tone styles — their
-      // duotoneAccentInner is always null (see svg_normalizer.dart).
-      final svg = assembleSvg(entry.value, includeAccent: true);
-      return VectorCompileJob(
+    final jobs = <VectorCompileJob>[];
+    final accentIconNames = <String, bool>{};
+    for (final entry in normalizedByStyle[style]!.entries) {
+      // The accent sub-path (if any) is compiled as its own separate asset
+      // below rather than merged in here, so AuraIcon can tint main shape
+      // and accent independently (see icon.dart's `accentColor`).
+      final mainSvg = assembleSvg(entry.value, includeAccent: false);
+      jobs.add(VectorCompileJob(
         iconName: entry.key,
-        svg: svg,
+        svg: mainSvg,
         output: File(p.join(outDir.path, '${entry.key}.vec')),
-      );
-    }).toList();
+      ));
+
+      final accentSvg = assembleAccentSvg(entry.value);
+      if (accentSvg != null) {
+        accentIconNames[entry.key] = entry.value.accentRenderedFirst;
+        jobs.add(VectorCompileJob(
+          iconName: '${entry.key}-accent',
+          svg: accentSvg,
+          output: File(p.join(outDir.path, '${entry.key}-accent.vec')),
+        ));
+      }
+    }
     await vectorCompiler.compileAll(jobs);
+    accentIconNamesByStyle[style] = accentIconNames;
     stderr.writeln('   ${style.name}: ${jobs.length} assets -> ${outDir.path}');
   }
 
@@ -139,6 +159,7 @@ Future<void> main(List<String> args) async {
       style: style,
       sortedIconNames: names,
       overrides: overrides,
+      accentIconNames: accentIconNamesByStyle[style]!,
     );
     await File(p.join(generatedDir.path, '${style.fileBaseName}.g.dart')).writeAsString(content);
   }

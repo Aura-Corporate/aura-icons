@@ -43,6 +43,31 @@ void main() {
       expect(result.inner, isNot(contains('opacity="0.5"')));
       expect(result.inner, contains('M6.00002 13.25'));
       expect(result.duotoneAccentInner, contains('M12 3.25'));
+
+      // Fixture's accent path is the first element in the document -> it
+      // should be painted first/behind, main drawn on top of it.
+      expect(result.accentRenderedFirst, isTrue);
+    });
+
+    test('main-first icon: accentRenderedFirst is false when the accent comes last', () {
+      const raw = '''
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1 1L2 2" fill="#1C274C"/>
+<path opacity="0.4" d="M3 3L4 4" fill="#1C274C"/>
+</svg>
+''';
+      final result = normalizeSvg(raw);
+
+      expect(result.duotoneAccentInner, isNotNull);
+      expect(result.duotoneAccentInner, contains('opacity="0.4"'));
+      expect(result.accentRenderedFirst, isFalse);
+    });
+
+    test('non-duotone icon: accentRenderedFirst defaults to false', () {
+      final result = normalizeSvg(_fixture('outline_arrow_down.svg'));
+
+      expect(result.duotoneAccentInner, isNull);
+      expect(result.accentRenderedFirst, isFalse);
     });
   });
 
@@ -76,6 +101,25 @@ void main() {
 
       final withAccent = assembleSvg(normalized, includeAccent: true);
       expect(withAccent, contains('opacity="0.5"'));
+    });
+  });
+
+  group('assembleAccentSvg', () {
+    test('wraps only the accent sub-path into its own standalone svg', () {
+      final normalized = normalizeSvg(_fixture('bold_duotone_arrow_down.svg'));
+      final assembled = assembleAccentSvg(normalized);
+
+      expect(assembled, isNotNull);
+      expect(assembled, contains('viewBox="0 0 24 24"'));
+      expect(assembled, contains('opacity="0.5"'));
+      expect(assembled, contains('M12 3.25'));
+      // The main (non-accent) path must not leak into the accent-only svg.
+      expect(assembled, isNot(contains('M6.00002 13.25')));
+    });
+
+    test('returns null when the icon has no accent sub-path', () {
+      final normalized = normalizeSvg(_fixture('outline_arrow_down.svg'));
+      expect(assembleAccentSvg(normalized), isNull);
     });
   });
 }

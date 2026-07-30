@@ -13,15 +13,21 @@ final _svgCloseRegex = RegExp(r'</svg>');
 final _emptyRectRegex = RegExp(r'<rect\s+width="24[\d,.]+"\s+height="24[\d,.]+"\s+fill="none"[^>]*/>\s*');
 final _titleRegex = RegExp(r'<title[\s\S]*?</title>\s*');
 final _defaultStrokeWidthRegex = RegExp(r'\s+stroke-width=["' "'" r']1\.5["' "'" r']');
+// Matches any fractional opacity, not just 0.5 — a lone upstream icon
+// (BoldDuotone/users/user-block.svg) uses 0.4 for its accent instead.
 final _duotoneAccentRegex = RegExp(
-  r'(?:<g[^>]*\sopacity="0\.5"[^>]*>[\s\S]*?</g>|<\w[^>]*\sopacity="0\.5"[^>]*/>)\s*',
+  r'(?:<g[^>]*\sopacity="0\.\d+"[^>]*>[\s\S]*?</g>|<\w[^>]*\sopacity="0\.\d+"[^>]*/>)\s*',
 );
 final _hexColorRegex = RegExp(r'"#[0-9a-f]{6}"', caseSensitive: false);
 
 /// Result of normalizing one raw upstream SVG. Mirrors upstream's
 /// `ParsedIcon.inner` / `ParsedIcon.duotoneAccentInner`.
 class NormalizedIcon {
-  const NormalizedIcon({required this.inner, required this.duotoneAccentInner});
+  const NormalizedIcon({
+    required this.inner,
+    required this.duotoneAccentInner,
+    this.accentRenderedFirst = false,
+  });
 
   /// The SVG body (no `<svg>` wrapper), main shape(s) only, hex colors
   /// replaced with `currentColor`. For duotone sources, the accent
@@ -29,9 +35,17 @@ class NormalizedIcon {
   /// [duotoneAccentInner].
   final String inner;
 
-  /// The extracted `opacity="0.5"` accent sub-path(s), joined with `\n`, or
-  /// `null` if the source had none (non-duotone styles).
+  /// The extracted accent sub-path(s) (lower opacity than the main shape),
+  /// joined with `\n`, or `null` if the source had none (non-duotone
+  /// styles).
   final String? duotoneAccentInner;
+
+  /// Whether the accent sub-path(s) appeared BEFORE the main shape(s) in the
+  /// original upstream document — i.e. should be painted first/behind, with
+  /// the main shape drawn on top of it. Roughly a 50/50 split upstream (no
+  /// universal convention), so this is tracked per icon rather than assumed.
+  /// Meaningless when [duotoneAccentInner] is `null`.
+  final bool accentRenderedFirst;
 }
 
 /// Normalizes a raw upstream SVG file's contents, mirroring
@@ -47,9 +61,14 @@ NormalizedIcon normalizeSvg(String raw) {
       .trim();
 
   String? duotoneAccentInner;
-  final duotoneMatches = _duotoneAccentRegex.allMatches(body).map((m) => m.group(0)!).toList();
+  var accentRenderedFirst = false;
+  final duotoneMatches = _duotoneAccentRegex.allMatches(body).toList();
   if (duotoneMatches.isNotEmpty) {
-    duotoneAccentInner = duotoneMatches.join('\n').trim();
+    // body is already trimmed above, so a match starting at 0 means the
+    // accent was the very first element in the document — i.e. painted
+    // first/behind, with the main shape(s) drawn on top of it.
+    accentRenderedFirst = duotoneMatches.first.start == 0;
+    duotoneAccentInner = duotoneMatches.map((m) => m.group(0)!).join('\n').trim();
     body = body.replaceAll(_duotoneAccentRegex, '').trim();
   }
 
@@ -58,7 +77,11 @@ NormalizedIcon normalizeSvg(String raw) {
     duotoneAccentInner = duotoneAccentInner.replaceAll(_hexColorRegex, '"currentColor"');
   }
 
-  return NormalizedIcon(inner: body, duotoneAccentInner: duotoneAccentInner);
+  return NormalizedIcon(
+    inner: body,
+    duotoneAccentInner: duotoneAccentInner,
+    accentRenderedFirst: accentRenderedFirst,
+  );
 }
 
 final _malformedNumericRegex = RegExp(r'-?nan|-?infinity|-?inf\b', caseSensitive: false);
@@ -101,5 +124,22 @@ String assembleSvg(NormalizedIcon icon, {bool includeAccent = false}) {
     buffer.writeln(icon.duotoneAccentInner);
   }
   buffer.writeln('</svg>');
+  return buffer.toString();
+}
+
+/// Reassembles ONLY the duotone accent sub-path(s) into a standalone SVG
+/// document, so it can be compiled as its own independently-colorable
+/// `vector_graphics` asset (see `AuraIconData.accentAssetPath`). Returns
+/// `null` when the icon has no accent sub-path (always the case for the 4
+/// single-tone styles, and possibly true for a duotone icon whose source
+/// has no reduced-opacity region).
+String? assembleAccentSvg(NormalizedIcon icon) {
+  final accent = icon.duotoneAccentInner;
+  if (accent == null) return null;
+
+  final buffer = StringBuffer()
+    ..writeln('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">')
+    ..writeln(accent)
+    ..writeln('</svg>');
   return buffer.toString();
 }
