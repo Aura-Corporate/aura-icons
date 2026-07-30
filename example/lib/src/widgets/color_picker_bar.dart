@@ -13,6 +13,7 @@ class ColorPickerBar extends StatelessWidget {
     required this.selectedColor,
     required this.onHexChanged,
     required this.onPresetSelected,
+    this.label = 'Color (hex)',
   });
 
   final TextEditingController hexController;
@@ -20,6 +21,7 @@ class ColorPickerBar extends StatelessWidget {
   final Color selectedColor;
   final ValueChanged<String> onHexChanged;
   final ValueChanged<ColorPreset> onPresetSelected;
+  final String label;
 
   @override
   Widget build(BuildContext context) {
@@ -36,7 +38,7 @@ class ColorPickerBar extends StatelessWidget {
               maxLength: 8,
               decoration: InputDecoration(
                 prefixText: '#',
-                labelText: 'Color (hex)',
+                labelText: label,
                 isDense: true,
                 counterText: '',
                 border: const OutlineInputBorder(),

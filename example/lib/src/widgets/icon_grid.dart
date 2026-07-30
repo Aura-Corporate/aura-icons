@@ -10,12 +10,14 @@ class IconGrid extends StatelessWidget {
     required this.style,
     required this.query,
     required this.color,
+    this.accentColor,
     required this.onIconTap,
   });
 
   final IconStyle style;
   final String query;
   final Color color;
+  final Color? accentColor;
   final void Function(String className, String name) onIconTap;
 
   @override
@@ -45,6 +47,7 @@ class IconGrid extends StatelessWidget {
         return IconTile(
           name: entry.key,
           color: color,
+          accentColor: accentColor,
           icon: entry.value,
           onTap: () => onIconTap(style.className, entry.key),
         );

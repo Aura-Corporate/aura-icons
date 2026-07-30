@@ -7,12 +7,16 @@ class IconTile extends StatelessWidget {
     super.key,
     required this.name,
     required this.color,
+    this.accentColor,
     required this.icon,
     required this.onTap,
   });
 
   final String name;
   final Color color;
+
+  /// Ignored by [AuraIcon] for single-tone icons (no accent layer exists).
+  final Color? accentColor;
   final AuraIconData icon;
   final VoidCallback onTap;
 
@@ -24,7 +28,7 @@ class IconTile extends StatelessWidget {
       child: Column(
         mainAxisSize: MainAxisSize.min,
         children: [
-          AuraIcon(icon, size: 32, color: color),
+          AuraIcon(icon, size: 32, color: color, accentColor: accentColor),
           const SizedBox(height: 4),
           Text(
             name,
