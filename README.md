@@ -23,10 +23,10 @@ All 6 styles are precompiled `vector_graphics` assets, rendered through the
 | BoldDuotone | `AuraIcon(AuraIconsBoldDuotone.<name>)` |
 | LineDuotone | `AuraIcon(AuraIconsLineDuotone.<name>)` |
 
-For the duotone styles, the accent region is the same hue as the rest of the
-icon at a lower baked-in opacity (not a second distinct color), so a single
-`color` parameter recolors the whole icon while preserving that contrast —
-no different from how `color` works for the 4 single-tone styles.
+For the duotone styles, the accent region (the lower-opacity sub-shape) is
+compiled as its own asset and can be tinted independently via `accentColor`.
+When `accentColor` is omitted it defaults to `color`, matching how the 4
+single-tone styles behave with `color` alone.
 
 ## Usage
 
@@ -36,6 +36,7 @@ import 'package:aura_solar_icons/aura_solar_icons.dart';
 AuraIcon(AuraIconsOutline.home, size: 24, color: Colors.black);
 AuraIcon(AuraIconsBold.home, size: 24, color: Colors.black);
 AuraIcon(AuraIconsBoldDuotone.home, size: 24, color: Colors.black);
+AuraIcon(AuraIconsBoldDuotone.home, size: 24, color: Colors.black, accentColor: Colors.orange);
 ```
 
 ## Regenerating

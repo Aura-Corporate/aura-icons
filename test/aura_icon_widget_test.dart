@@ -29,6 +29,44 @@ void main() {
     expect(tester.takeException(), isNull);
   });
 
+  testWidgets('AuraIcon renders main + accent layers with independent colors (duotone style)', (
+    tester,
+  ) async {
+    await tester.pumpWidget(
+      Directionality(
+        textDirection: TextDirection.ltr,
+        child: AuraIcon(
+          AuraIconsBoldDuotone.all['home']!,
+          size: 40,
+          color: Colors.black,
+          accentColor: Colors.orange,
+        ),
+      ),
+    );
+    await tester.pumpAndSettle();
+
+    expect(find.byType(AuraIcon), findsOneWidget);
+    expect(tester.takeException(), isNull);
+  });
+
+  testWidgets('AuraIcon ignores accentColor on single-tone styles without error', (tester) async {
+    await tester.pumpWidget(
+      Directionality(
+        textDirection: TextDirection.ltr,
+        child: AuraIcon(
+          AuraIconsOutline.all['home']!,
+          size: 40,
+          color: Colors.black,
+          accentColor: Colors.orange,
+        ),
+      ),
+    );
+    await tester.pumpAndSettle();
+
+    expect(find.byType(AuraIcon), findsOneWidget);
+    expect(tester.takeException(), isNull);
+  });
+
   testWidgets('AuraIcon falls back to the ambient IconTheme when size/color are omitted', (tester) async {
     await tester.pumpWidget(
       Directionality(

@@ -70,5 +70,70 @@ void main() {
         ),
       );
     });
+
+    test('emits accentAssetPath only for icons in accentIconNames', () {
+      final content = generateIconStyleFile(
+        style: IconStyle.boldDuotone,
+        sortedIconNames: ['arrow-down', 'home'],
+        overrides: const {},
+        accentIconNames: {'home': false},
+      );
+
+      expect(
+        content,
+        contains(
+          "static const AuraIconData home = AuraIconData("
+          "'assets/vectors/bold_duotone/home.vec', "
+          "accentAssetPath: 'assets/vectors/bold_duotone/home-accent.vec');",
+        ),
+      );
+      // Not in accentIconNames -> single-argument form, no accentAssetPath.
+      expect(
+        content,
+        contains(
+          "static const AuraIconData arrowDown = AuraIconData("
+          "'assets/vectors/bold_duotone/arrow-down.vec');",
+        ),
+      );
+    });
+
+    test('emits accentBehindMain: true only when the accent was rendered first', () {
+      final content = generateIconStyleFile(
+        style: IconStyle.boldDuotone,
+        sortedIconNames: ['arrow-down', 'home'],
+        overrides: const {},
+        accentIconNames: {'arrow-down': true, 'home': false},
+      );
+
+      expect(
+        content,
+        contains(
+          "static const AuraIconData arrowDown = AuraIconData("
+          "'assets/vectors/bold_duotone/arrow-down.vec', "
+          "accentAssetPath: 'assets/vectors/bold_duotone/arrow-down-accent.vec', "
+          "accentBehindMain: true);",
+        ),
+      );
+      // accentRenderedFirst: false -> no accentBehindMain arg (defaults to
+      // false on AuraIconData).
+      expect(
+        content,
+        contains(
+          "static const AuraIconData home = AuraIconData("
+          "'assets/vectors/bold_duotone/home.vec', "
+          "accentAssetPath: 'assets/vectors/bold_duotone/home-accent.vec');",
+        ),
+      );
+    });
+
+    test('emits no accentAssetPath for single-tone styles (empty accentIconNames)', () {
+      final content = generateIconStyleFile(
+        style: IconStyle.outline,
+        sortedIconNames: ['home'],
+        overrides: const {},
+      );
+
+      expect(content, isNot(contains('accentAssetPath')));
+    });
   });
 }
