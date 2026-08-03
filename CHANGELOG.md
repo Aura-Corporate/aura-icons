@@ -13,6 +13,14 @@
   runtime, so the stroke-to-fill conversion that existed only to produce
   font glyphs is no longer needed. The pipeline is now pure Dart.
 
+## [1.1.0](https://github.com/Aura-Corporate/aura-icons/compare/v1.0.1...v1.1.0) (2026-08-03)
+
+
+### Features
+
+* Add search, color switching, and new icons to example app ([#6](https://github.com/Aura-Corporate/aura-icons/issues/6)) ([2589335](https://github.com/Aura-Corporate/aura-icons/commit/2589335f6bba20d429b79d3430b86d94598a435d))
+* Handle accent color for DuoTone styles ([#8](https://github.com/Aura-Corporate/aura-icons/issues/8)) ([fa3bd17](https://github.com/Aura-Corporate/aura-icons/commit/fa3bd175366335481063ca56f5d880132eb80c19))
+
 ## [1.0.1](https://github.com/Aura-Corporate/aura-icons/compare/v1.0.0...v1.0.1) (2026-07-29)
 
 
