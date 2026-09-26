@@ -1,6 +1,6 @@
 // GENERATED FILE — DO NOT EDIT BY HAND.
 //
-// Source: saoudi-h/solar-icons @ 750ab81d2c31164463d168bdfd52e8a7632deeaf
+// Source: saoudi-h/solar-icons @ 867d816f3980a6265032bc03f7f50f948530a56d
 // Regenerate: `cd tool && dart pub get && dart run generate_icons.dart`
 //
 // ignore_for_file: type=lint
@@ -11,13 +11,14 @@ class AuraIconsLineDuotone {
   AuraIconsLineDuotone._();
 
   static const AuraIconData accessibility = AuraIconData('assets/vectors/line_duotone/accessibility.vec', accentAssetPath: 'assets/vectors/line_duotone/accessibility-accent.vec', accentBehindMain: true);
+  static const AuraIconData add = AuraIconData('assets/vectors/line_duotone/add.vec', accentAssetPath: 'assets/vectors/line_duotone/add-accent.vec');
   static const AuraIconData addCircle = AuraIconData('assets/vectors/line_duotone/add-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/add-circle-accent.vec', accentBehindMain: true);
   static const AuraIconData addFolder = AuraIconData('assets/vectors/line_duotone/add-folder.vec', accentAssetPath: 'assets/vectors/line_duotone/add-folder-accent.vec', accentBehindMain: true);
   static const AuraIconData addSquare = AuraIconData('assets/vectors/line_duotone/add-square.vec', accentAssetPath: 'assets/vectors/line_duotone/add-square-accent.vec', accentBehindMain: true);
   static const AuraIconData adhesivePlaster = AuraIconData('assets/vectors/line_duotone/adhesive-plaster.vec', accentAssetPath: 'assets/vectors/line_duotone/adhesive-plaster-accent.vec');
   static const AuraIconData adhesivePlaster2 = AuraIconData('assets/vectors/line_duotone/adhesive-plaster-2.vec', accentAssetPath: 'assets/vectors/line_duotone/adhesive-plaster-2-accent.vec');
   static const AuraIconData airbuds = AuraIconData('assets/vectors/line_duotone/airbuds.vec', accentAssetPath: 'assets/vectors/line_duotone/airbuds-accent.vec');
-  static const AuraIconData airbudsCase = AuraIconData('assets/vectors/line_duotone/airbuds-case.vec', accentAssetPath: 'assets/vectors/line_duotone/airbuds-case-accent.vec');
+  static const AuraIconData airbudsCase = AuraIconData('assets/vectors/line_duotone/airbuds-case.vec', accentAssetPath: 'assets/vectors/line_duotone/airbuds-case-accent.vec', accentBehindMain: true);
   static const AuraIconData airbudsCaseCharge = AuraIconData('assets/vectors/line_duotone/airbuds-case-charge.vec', accentAssetPath: 'assets/vectors/line_duotone/airbuds-case-charge-accent.vec', accentBehindMain: true);
   static const AuraIconData airbudsCaseMinimalistic = AuraIconData('assets/vectors/line_duotone/airbuds-case-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/airbuds-case-minimalistic-accent.vec', accentBehindMain: true);
   static const AuraIconData airbudsCaseOpen = AuraIconData('assets/vectors/line_duotone/airbuds-case-open.vec', accentAssetPath: 'assets/vectors/line_duotone/airbuds-case-open-accent.vec');
@@ -42,31 +43,41 @@ class AuraIconsLineDuotone {
   static const AuraIconData alignTop = AuraIconData('assets/vectors/line_duotone/align-top.vec', accentAssetPath: 'assets/vectors/line_duotone/align-top-accent.vec', accentBehindMain: true);
   static const AuraIconData alignVerticalCenter = AuraIconData('assets/vectors/line_duotone/align-vertical-center.vec', accentAssetPath: 'assets/vectors/line_duotone/align-vertical-center-accent.vec', accentBehindMain: true);
   static const AuraIconData alignVerticalSpacing = AuraIconData('assets/vectors/line_duotone/align-vertical-spacing.vec', accentAssetPath: 'assets/vectors/line_duotone/align-vertical-spacing-accent.vec', accentBehindMain: true);
-  static const AuraIconData altArrowDown = AuraIconData('assets/vectors/line_duotone/alt-arrow-down.vec');
-  static const AuraIconData altArrowLeft = AuraIconData('assets/vectors/line_duotone/alt-arrow-left.vec');
-  static const AuraIconData altArrowRight = AuraIconData('assets/vectors/line_duotone/alt-arrow-right.vec');
-  static const AuraIconData altArrowUp = AuraIconData('assets/vectors/line_duotone/alt-arrow-up.vec');
+  static const AuraIconData altArrowDown = AuraIconData('assets/vectors/line_duotone/alt-arrow-down.vec', accentAssetPath: 'assets/vectors/line_duotone/alt-arrow-down-accent.vec', accentBehindMain: true);
+  static const AuraIconData altArrowLeft = AuraIconData('assets/vectors/line_duotone/alt-arrow-left.vec', accentAssetPath: 'assets/vectors/line_duotone/alt-arrow-left-accent.vec', accentBehindMain: true);
+  static const AuraIconData altArrowRight = AuraIconData('assets/vectors/line_duotone/alt-arrow-right.vec', accentAssetPath: 'assets/vectors/line_duotone/alt-arrow-right-accent.vec', accentBehindMain: true);
+  static const AuraIconData altArrowUp = AuraIconData('assets/vectors/line_duotone/alt-arrow-up.vec', accentAssetPath: 'assets/vectors/line_duotone/alt-arrow-up-accent.vec', accentBehindMain: true);
   static const AuraIconData archive = AuraIconData('assets/vectors/line_duotone/archive.vec', accentAssetPath: 'assets/vectors/line_duotone/archive-accent.vec');
   static const AuraIconData archiveCheck = AuraIconData('assets/vectors/line_duotone/archive-check.vec', accentAssetPath: 'assets/vectors/line_duotone/archive-check-accent.vec', accentBehindMain: true);
+  static const AuraIconData archiveClose = AuraIconData('assets/vectors/line_duotone/archive-close.vec', accentAssetPath: 'assets/vectors/line_duotone/archive-close-accent.vec', accentBehindMain: true);
   static const AuraIconData archiveDown = AuraIconData('assets/vectors/line_duotone/archive-down.vec', accentAssetPath: 'assets/vectors/line_duotone/archive-down-accent.vec', accentBehindMain: true);
   static const AuraIconData archiveDownMinimalistic = AuraIconData('assets/vectors/line_duotone/archive-down-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/archive-down-minimalistic-accent.vec', accentBehindMain: true);
   static const AuraIconData archiveMinimalistic = AuraIconData('assets/vectors/line_duotone/archive-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/archive-minimalistic-accent.vec', accentBehindMain: true);
+  static const AuraIconData archiveMinimalisticClose = AuraIconData('assets/vectors/line_duotone/archive-minimalistic-close.vec', accentAssetPath: 'assets/vectors/line_duotone/archive-minimalistic-close-accent.vec');
   static const AuraIconData archiveUp = AuraIconData('assets/vectors/line_duotone/archive-up.vec', accentAssetPath: 'assets/vectors/line_duotone/archive-up-accent.vec');
   static const AuraIconData archiveUpMinimalistic = AuraIconData('assets/vectors/line_duotone/archive-up-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/archive-up-minimalistic-accent.vec', accentBehindMain: true);
-  static const AuraIconData armchair = AuraIconData('assets/vectors/line_duotone/armchair.vec', accentAssetPath: 'assets/vectors/line_duotone/armchair-accent.vec');
+  static const AuraIconData armchair = AuraIconData('assets/vectors/line_duotone/armchair.vec', accentAssetPath: 'assets/vectors/line_duotone/armchair-accent.vec', accentBehindMain: true);
   static const AuraIconData armchair2 = AuraIconData('assets/vectors/line_duotone/armchair-2.vec', accentAssetPath: 'assets/vectors/line_duotone/armchair-2-accent.vec');
   static const AuraIconData arrowDown = AuraIconData('assets/vectors/line_duotone/arrow-down.vec', accentAssetPath: 'assets/vectors/line_duotone/arrow-down-accent.vec', accentBehindMain: true);
+  static const AuraIconData arrowDownFromLine = AuraIconData('assets/vectors/line_duotone/arrow-down-from-line.vec', accentAssetPath: 'assets/vectors/line_duotone/arrow-down-from-line-accent.vec');
+  static const AuraIconData arrowDownToLine = AuraIconData('assets/vectors/line_duotone/arrow-down-to-line.vec', accentAssetPath: 'assets/vectors/line_duotone/arrow-down-to-line-accent.vec');
   static const AuraIconData arrowLeft = AuraIconData('assets/vectors/line_duotone/arrow-left.vec', accentAssetPath: 'assets/vectors/line_duotone/arrow-left-accent.vec', accentBehindMain: true);
   static const AuraIconData arrowLeftDown = AuraIconData('assets/vectors/line_duotone/arrow-left-down.vec', accentAssetPath: 'assets/vectors/line_duotone/arrow-left-down-accent.vec', accentBehindMain: true);
+  static const AuraIconData arrowLeftFromLine = AuraIconData('assets/vectors/line_duotone/arrow-left-from-line.vec', accentAssetPath: 'assets/vectors/line_duotone/arrow-left-from-line-accent.vec');
+  static const AuraIconData arrowLeftToLine = AuraIconData('assets/vectors/line_duotone/arrow-left-to-line.vec', accentAssetPath: 'assets/vectors/line_duotone/arrow-left-to-line-accent.vec');
   static const AuraIconData arrowLeftUp = AuraIconData('assets/vectors/line_duotone/arrow-left-up.vec', accentAssetPath: 'assets/vectors/line_duotone/arrow-left-up-accent.vec', accentBehindMain: true);
   static const AuraIconData arrowRight = AuraIconData('assets/vectors/line_duotone/arrow-right.vec', accentAssetPath: 'assets/vectors/line_duotone/arrow-right-accent.vec', accentBehindMain: true);
   static const AuraIconData arrowRightDown = AuraIconData('assets/vectors/line_duotone/arrow-right-down.vec', accentAssetPath: 'assets/vectors/line_duotone/arrow-right-down-accent.vec', accentBehindMain: true);
+  static const AuraIconData arrowRightFromLine = AuraIconData('assets/vectors/line_duotone/arrow-right-from-line.vec', accentAssetPath: 'assets/vectors/line_duotone/arrow-right-from-line-accent.vec');
+  static const AuraIconData arrowRightToLine = AuraIconData('assets/vectors/line_duotone/arrow-right-to-line.vec', accentAssetPath: 'assets/vectors/line_duotone/arrow-right-to-line-accent.vec');
   static const AuraIconData arrowRightUp = AuraIconData('assets/vectors/line_duotone/arrow-right-up.vec', accentAssetPath: 'assets/vectors/line_duotone/arrow-right-up-accent.vec', accentBehindMain: true);
   static const AuraIconData arrowToDownLeft = AuraIconData('assets/vectors/line_duotone/arrow-to-down-left.vec', accentAssetPath: 'assets/vectors/line_duotone/arrow-to-down-left-accent.vec');
   static const AuraIconData arrowToDownRight = AuraIconData('assets/vectors/line_duotone/arrow-to-down-right.vec', accentAssetPath: 'assets/vectors/line_duotone/arrow-to-down-right-accent.vec');
   static const AuraIconData arrowToTopLeft = AuraIconData('assets/vectors/line_duotone/arrow-to-top-left.vec', accentAssetPath: 'assets/vectors/line_duotone/arrow-to-top-left-accent.vec');
   static const AuraIconData arrowToTopRight = AuraIconData('assets/vectors/line_duotone/arrow-to-top-right.vec', accentAssetPath: 'assets/vectors/line_duotone/arrow-to-top-right-accent.vec');
   static const AuraIconData arrowUp = AuraIconData('assets/vectors/line_duotone/arrow-up.vec', accentAssetPath: 'assets/vectors/line_duotone/arrow-up-accent.vec', accentBehindMain: true);
+  static const AuraIconData arrowUpFromLine = AuraIconData('assets/vectors/line_duotone/arrow-up-from-line.vec', accentAssetPath: 'assets/vectors/line_duotone/arrow-up-from-line-accent.vec');
+  static const AuraIconData arrowUpToLine = AuraIconData('assets/vectors/line_duotone/arrow-up-to-line.vec', accentAssetPath: 'assets/vectors/line_duotone/arrow-up-to-line-accent.vec');
   static const AuraIconData asteroid = AuraIconData('assets/vectors/line_duotone/asteroid.vec', accentAssetPath: 'assets/vectors/line_duotone/asteroid-accent.vec');
   static const AuraIconData atom = AuraIconData('assets/vectors/line_duotone/atom.vec', accentAssetPath: 'assets/vectors/line_duotone/atom-accent.vec');
   static const AuraIconData augmentedReality = AuraIconData('assets/vectors/line_duotone/augmented-reality.vec', accentAssetPath: 'assets/vectors/line_duotone/augmented-reality-accent.vec', accentBehindMain: true);
@@ -76,19 +87,21 @@ class AuraIconsLineDuotone {
   static const AuraIconData bag = AuraIconData('assets/vectors/line_duotone/bag.vec', accentAssetPath: 'assets/vectors/line_duotone/bag-accent.vec');
   static const AuraIconData bag2 = AuraIconData('assets/vectors/line_duotone/bag-2.vec', accentAssetPath: 'assets/vectors/line_duotone/bag-2-accent.vec');
   static const AuraIconData bag3 = AuraIconData('assets/vectors/line_duotone/bag-3.vec', accentAssetPath: 'assets/vectors/line_duotone/bag-3-accent.vec');
-  static const AuraIconData bag4 = AuraIconData('assets/vectors/line_duotone/bag-4.vec', accentAssetPath: 'assets/vectors/line_duotone/bag-4-accent.vec');
+  static const AuraIconData bag4 = AuraIconData('assets/vectors/line_duotone/bag-4.vec', accentAssetPath: 'assets/vectors/line_duotone/bag-4-accent.vec', accentBehindMain: true);
   static const AuraIconData bag5 = AuraIconData('assets/vectors/line_duotone/bag-5.vec', accentAssetPath: 'assets/vectors/line_duotone/bag-5-accent.vec');
   static const AuraIconData bagCheck = AuraIconData('assets/vectors/line_duotone/bag-check.vec', accentAssetPath: 'assets/vectors/line_duotone/bag-check-accent.vec');
   static const AuraIconData bagCross = AuraIconData('assets/vectors/line_duotone/bag-cross.vec', accentAssetPath: 'assets/vectors/line_duotone/bag-cross-accent.vec');
   static const AuraIconData bagHeart = AuraIconData('assets/vectors/line_duotone/bag-heart.vec', accentAssetPath: 'assets/vectors/line_duotone/bag-heart-accent.vec');
   static const AuraIconData bagMusic = AuraIconData('assets/vectors/line_duotone/bag-music.vec', accentAssetPath: 'assets/vectors/line_duotone/bag-music-accent.vec');
-  static const AuraIconData bagMusic2 = AuraIconData('assets/vectors/line_duotone/bag-music-2.vec', accentAssetPath: 'assets/vectors/line_duotone/bag-music-2-accent.vec');
-  static const AuraIconData bagSmile = AuraIconData('assets/vectors/line_duotone/bag-smile.vec', accentAssetPath: 'assets/vectors/line_duotone/bag-smile-accent.vec');
+  static const AuraIconData bagMusic2 = AuraIconData('assets/vectors/line_duotone/bag-music-2.vec', accentAssetPath: 'assets/vectors/line_duotone/bag-music-2-accent.vec', accentBehindMain: true);
+  static const AuraIconData bagSmile = AuraIconData('assets/vectors/line_duotone/bag-smile.vec', accentAssetPath: 'assets/vectors/line_duotone/bag-smile-accent.vec', accentBehindMain: true);
   static const AuraIconData balloon = AuraIconData('assets/vectors/line_duotone/balloon.vec', accentAssetPath: 'assets/vectors/line_duotone/balloon-accent.vec');
-  static const AuraIconData balls = AuraIconData('assets/vectors/line_duotone/balls.vec', accentAssetPath: 'assets/vectors/line_duotone/balls-accent.vec');
+  static const AuraIconData balls = AuraIconData('assets/vectors/line_duotone/balls.vec', accentAssetPath: 'assets/vectors/line_duotone/balls-accent.vec', accentBehindMain: true);
   static const AuraIconData banknote = AuraIconData('assets/vectors/line_duotone/banknote.vec', accentAssetPath: 'assets/vectors/line_duotone/banknote-accent.vec', accentBehindMain: true);
-  static const AuraIconData banknote2 = AuraIconData('assets/vectors/line_duotone/banknote-2.vec', accentAssetPath: 'assets/vectors/line_duotone/banknote-2-accent.vec');
+  static const AuraIconData banknote2 = AuraIconData('assets/vectors/line_duotone/banknote-2.vec', accentAssetPath: 'assets/vectors/line_duotone/banknote-2-accent.vec', accentBehindMain: true);
   static const AuraIconData barChair = AuraIconData('assets/vectors/line_duotone/bar-chair.vec', accentAssetPath: 'assets/vectors/line_duotone/bar-chair-accent.vec');
+  static const AuraIconData barcode = AuraIconData('assets/vectors/line_duotone/barcode.vec', accentAssetPath: 'assets/vectors/line_duotone/barcode-accent.vec');
+  static const AuraIconData barcodeScan = AuraIconData('assets/vectors/line_duotone/barcode-scan.vec', accentAssetPath: 'assets/vectors/line_duotone/barcode-scan-accent.vec', accentBehindMain: true);
   static const AuraIconData basketball = AuraIconData('assets/vectors/line_duotone/basketball.vec', accentAssetPath: 'assets/vectors/line_duotone/basketball-accent.vec');
   static const AuraIconData bath = AuraIconData('assets/vectors/line_duotone/bath.vec', accentAssetPath: 'assets/vectors/line_duotone/bath-accent.vec');
   static const AuraIconData batteryCharge = AuraIconData('assets/vectors/line_duotone/battery-charge.vec', accentAssetPath: 'assets/vectors/line_duotone/battery-charge-accent.vec');
@@ -115,14 +128,16 @@ class AuraIconsLineDuotone {
   static const AuraIconData billCheck = AuraIconData('assets/vectors/line_duotone/bill-check.vec', accentAssetPath: 'assets/vectors/line_duotone/bill-check-accent.vec', accentBehindMain: true);
   static const AuraIconData billCross = AuraIconData('assets/vectors/line_duotone/bill-cross.vec', accentAssetPath: 'assets/vectors/line_duotone/bill-cross-accent.vec', accentBehindMain: true);
   static const AuraIconData billList = AuraIconData('assets/vectors/line_duotone/bill-list.vec', accentAssetPath: 'assets/vectors/line_duotone/bill-list-accent.vec', accentBehindMain: true);
+  static const AuraIconData binoculars = AuraIconData('assets/vectors/line_duotone/binoculars.vec', accentAssetPath: 'assets/vectors/line_duotone/binoculars-accent.vec', accentBehindMain: true);
   static const AuraIconData blackHole = AuraIconData('assets/vectors/line_duotone/black-hole.vec', accentAssetPath: 'assets/vectors/line_duotone/black-hole-accent.vec');
   static const AuraIconData blackHole2 = AuraIconData('assets/vectors/line_duotone/black-hole-2.vec', accentAssetPath: 'assets/vectors/line_duotone/black-hole-2-accent.vec');
   static const AuraIconData blackHole3 = AuraIconData('assets/vectors/line_duotone/black-hole-3.vec', accentAssetPath: 'assets/vectors/line_duotone/black-hole-3-accent.vec');
+  static const AuraIconData blocks = AuraIconData('assets/vectors/line_duotone/blocks.vec', accentAssetPath: 'assets/vectors/line_duotone/blocks-accent.vec', accentBehindMain: true);
   static const AuraIconData bluetooth = AuraIconData('assets/vectors/line_duotone/bluetooth.vec', accentAssetPath: 'assets/vectors/line_duotone/bluetooth-accent.vec');
   static const AuraIconData bluetoothCircle = AuraIconData('assets/vectors/line_duotone/bluetooth-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/bluetooth-circle-accent.vec', accentBehindMain: true);
   static const AuraIconData bluetoothSquare = AuraIconData('assets/vectors/line_duotone/bluetooth-square.vec', accentAssetPath: 'assets/vectors/line_duotone/bluetooth-square-accent.vec');
   static const AuraIconData bluetoothWave = AuraIconData('assets/vectors/line_duotone/bluetooth-wave.vec', accentAssetPath: 'assets/vectors/line_duotone/bluetooth-wave-accent.vec');
-  static const AuraIconData body = AuraIconData('assets/vectors/line_duotone/body.vec');
+  static const AuraIconData body = AuraIconData('assets/vectors/line_duotone/body.vec', accentAssetPath: 'assets/vectors/line_duotone/body-accent.vec', accentBehindMain: true);
   static const AuraIconData bodyShape = AuraIconData('assets/vectors/line_duotone/body-shape.vec', accentAssetPath: 'assets/vectors/line_duotone/body-shape-accent.vec');
   static const AuraIconData bodyShapeMinimalistic = AuraIconData('assets/vectors/line_duotone/body-shape-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/body-shape-minimalistic-accent.vec');
   static const AuraIconData bolt = AuraIconData('assets/vectors/line_duotone/bolt.vec', accentAssetPath: 'assets/vectors/line_duotone/bolt-accent.vec');
@@ -130,30 +145,39 @@ class AuraIconsLineDuotone {
   static const AuraIconData bomb = AuraIconData('assets/vectors/line_duotone/bomb.vec', accentAssetPath: 'assets/vectors/line_duotone/bomb-accent.vec');
   static const AuraIconData bombEmoji = AuraIconData('assets/vectors/line_duotone/bomb-emoji.vec', accentAssetPath: 'assets/vectors/line_duotone/bomb-emoji-accent.vec');
   static const AuraIconData bombMinimalistic = AuraIconData('assets/vectors/line_duotone/bomb-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/bomb-minimalistic-accent.vec');
-  static const AuraIconData bone = AuraIconData('assets/vectors/line_duotone/bone.vec', accentAssetPath: 'assets/vectors/line_duotone/bone-accent.vec');
+  static const AuraIconData bone = AuraIconData('assets/vectors/line_duotone/bone.vec', accentAssetPath: 'assets/vectors/line_duotone/bone-accent.vec', accentBehindMain: true);
   static const AuraIconData boneCrack = AuraIconData('assets/vectors/line_duotone/bone-crack.vec', accentAssetPath: 'assets/vectors/line_duotone/bone-crack-accent.vec');
   static const AuraIconData boneFracture = AuraIconData('assets/vectors/line_duotone/bone-fracture.vec', accentAssetPath: 'assets/vectors/line_duotone/bone-fracture-accent.vec');
-  static const AuraIconData bones = AuraIconData('assets/vectors/line_duotone/bones.vec', accentAssetPath: 'assets/vectors/line_duotone/bones-accent.vec');
+  static const AuraIconData bones = AuraIconData('assets/vectors/line_duotone/bones.vec', accentAssetPath: 'assets/vectors/line_duotone/bones-accent.vec', accentBehindMain: true);
   static const AuraIconData bonfire = AuraIconData('assets/vectors/line_duotone/bonfire.vec', accentAssetPath: 'assets/vectors/line_duotone/bonfire-accent.vec');
   static const AuraIconData book = AuraIconData('assets/vectors/line_duotone/book.vec', accentAssetPath: 'assets/vectors/line_duotone/book-accent.vec');
-  static const AuraIconData book2 = AuraIconData('assets/vectors/line_duotone/book-2.vec', accentAssetPath: 'assets/vectors/line_duotone/book-2-accent.vec');
+  static const AuraIconData book2 = AuraIconData('assets/vectors/line_duotone/book-2.vec', accentAssetPath: 'assets/vectors/line_duotone/book-2-accent.vec', accentBehindMain: true);
   static const AuraIconData bookBookmark = AuraIconData('assets/vectors/line_duotone/book-bookmark.vec', accentAssetPath: 'assets/vectors/line_duotone/book-bookmark-accent.vec');
   static const AuraIconData bookBookmarkMinimalistic = AuraIconData('assets/vectors/line_duotone/book-bookmark-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/book-bookmark-minimalistic-accent.vec');
   static const AuraIconData bookMinimalistic = AuraIconData('assets/vectors/line_duotone/book-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/book-minimalistic-accent.vec');
   static const AuraIconData bookmark = AuraIconData('assets/vectors/line_duotone/bookmark.vec', accentAssetPath: 'assets/vectors/line_duotone/bookmark-accent.vec');
+  static const AuraIconData bookmarkCheck = AuraIconData('assets/vectors/line_duotone/bookmark-check.vec', accentAssetPath: 'assets/vectors/line_duotone/bookmark-check-accent.vec');
   static const AuraIconData bookmarkCircle = AuraIconData('assets/vectors/line_duotone/bookmark-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/bookmark-circle-accent.vec');
+  static const AuraIconData bookmarkMinus = AuraIconData('assets/vectors/line_duotone/bookmark-minus.vec', accentAssetPath: 'assets/vectors/line_duotone/bookmark-minus-accent.vec');
+  static const AuraIconData bookmarkOff = AuraIconData('assets/vectors/line_duotone/bookmark-off.vec', accentAssetPath: 'assets/vectors/line_duotone/bookmark-off-accent.vec');
   static const AuraIconData bookmarkOpened = AuraIconData('assets/vectors/line_duotone/bookmark-opened.vec', accentAssetPath: 'assets/vectors/line_duotone/bookmark-opened-accent.vec', accentBehindMain: true);
+  static const AuraIconData bookmarkPlus = AuraIconData('assets/vectors/line_duotone/bookmark-plus.vec', accentAssetPath: 'assets/vectors/line_duotone/bookmark-plus-accent.vec');
   static const AuraIconData bookmarkSquare = AuraIconData('assets/vectors/line_duotone/bookmark-square.vec', accentAssetPath: 'assets/vectors/line_duotone/bookmark-square-accent.vec');
   static const AuraIconData bookmarkSquareMinimalistic = AuraIconData('assets/vectors/line_duotone/bookmark-square-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/bookmark-square-minimalistic-accent.vec');
+  static const AuraIconData bookmarkX = AuraIconData('assets/vectors/line_duotone/bookmark-x.vec', accentAssetPath: 'assets/vectors/line_duotone/bookmark-x-accent.vec');
   static const AuraIconData boombox = AuraIconData('assets/vectors/line_duotone/boombox.vec', accentAssetPath: 'assets/vectors/line_duotone/boombox-accent.vec', accentBehindMain: true);
-  static const AuraIconData bottle = AuraIconData('assets/vectors/line_duotone/bottle.vec', accentAssetPath: 'assets/vectors/line_duotone/bottle-accent.vec');
+  static const AuraIconData bot = AuraIconData('assets/vectors/line_duotone/bot.vec', accentAssetPath: 'assets/vectors/line_duotone/bot-accent.vec');
+  static const AuraIconData bottle = AuraIconData('assets/vectors/line_duotone/bottle.vec', accentAssetPath: 'assets/vectors/line_duotone/bottle-accent.vec', accentBehindMain: true);
   static const AuraIconData bowling = AuraIconData('assets/vectors/line_duotone/bowling.vec', accentAssetPath: 'assets/vectors/line_duotone/bowling-accent.vec');
   static const AuraIconData box = AuraIconData('assets/vectors/line_duotone/box.vec', accentAssetPath: 'assets/vectors/line_duotone/box-accent.vec');
   static const AuraIconData boxMinimalistic = AuraIconData('assets/vectors/line_duotone/box-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/box-minimalistic-accent.vec');
+  static const AuraIconData braces = AuraIconData('assets/vectors/line_duotone/braces.vec', accentAssetPath: 'assets/vectors/line_duotone/braces-accent.vec', accentBehindMain: true);
+  static const AuraIconData brackets = AuraIconData('assets/vectors/line_duotone/brackets.vec', accentAssetPath: 'assets/vectors/line_duotone/brackets-accent.vec');
+  static const AuraIconData brain = AuraIconData('assets/vectors/line_duotone/brain.vec', accentAssetPath: 'assets/vectors/line_duotone/brain-accent.vec', accentBehindMain: true);
   static const AuraIconData branchingPathsDown = AuraIconData('assets/vectors/line_duotone/branching-paths-down.vec', accentAssetPath: 'assets/vectors/line_duotone/branching-paths-down-accent.vec', accentBehindMain: true);
   static const AuraIconData branchingPathsUp = AuraIconData('assets/vectors/line_duotone/branching-paths-up.vec', accentAssetPath: 'assets/vectors/line_duotone/branching-paths-up-accent.vec', accentBehindMain: true);
   static const AuraIconData broom = AuraIconData('assets/vectors/line_duotone/broom.vec', accentAssetPath: 'assets/vectors/line_duotone/broom-accent.vec');
-  static const AuraIconData bug = AuraIconData('assets/vectors/line_duotone/bug.vec', accentAssetPath: 'assets/vectors/line_duotone/bug-accent.vec');
+  static const AuraIconData bug = AuraIconData('assets/vectors/line_duotone/bug.vec', accentAssetPath: 'assets/vectors/line_duotone/bug-accent.vec', accentBehindMain: true);
   static const AuraIconData bugMinimalistic = AuraIconData('assets/vectors/line_duotone/bug-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/bug-minimalistic-accent.vec');
   static const AuraIconData buildings = AuraIconData('assets/vectors/line_duotone/buildings.vec', accentAssetPath: 'assets/vectors/line_duotone/buildings-accent.vec');
   static const AuraIconData buildings2 = AuraIconData('assets/vectors/line_duotone/buildings-2.vec', accentAssetPath: 'assets/vectors/line_duotone/buildings-2-accent.vec');
@@ -168,7 +192,7 @@ class AuraIconsLineDuotone {
   static const AuraIconData calendarMinimalistic = AuraIconData('assets/vectors/line_duotone/calendar-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/calendar-minimalistic-accent.vec');
   static const AuraIconData calendarSearch = AuraIconData('assets/vectors/line_duotone/calendar-search.vec', accentAssetPath: 'assets/vectors/line_duotone/calendar-search-accent.vec');
   static const AuraIconData callCancel = AuraIconData('assets/vectors/line_duotone/call-cancel.vec', accentAssetPath: 'assets/vectors/line_duotone/call-cancel-accent.vec');
-  static const AuraIconData callCancelRounded = AuraIconData('assets/vectors/line_duotone/call-cancel-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/call-cancel-rounded-accent.vec');
+  static const AuraIconData callCancelRounded = AuraIconData('assets/vectors/line_duotone/call-cancel-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/call-cancel-rounded-accent.vec', accentBehindMain: true);
   static const AuraIconData callChat = AuraIconData('assets/vectors/line_duotone/call-chat.vec', accentAssetPath: 'assets/vectors/line_duotone/call-chat-accent.vec');
   static const AuraIconData callChatRounded = AuraIconData('assets/vectors/line_duotone/call-chat-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/call-chat-rounded-accent.vec');
   static const AuraIconData callDropped = AuraIconData('assets/vectors/line_duotone/call-dropped.vec', accentAssetPath: 'assets/vectors/line_duotone/call-dropped-accent.vec');
@@ -178,8 +202,10 @@ class AuraIconsLineDuotone {
   static const AuraIconData camera = AuraIconData('assets/vectors/line_duotone/camera.vec', accentAssetPath: 'assets/vectors/line_duotone/camera-accent.vec');
   static const AuraIconData cameraAdd = AuraIconData('assets/vectors/line_duotone/camera-add.vec', accentAssetPath: 'assets/vectors/line_duotone/camera-add-accent.vec');
   static const AuraIconData cameraMinimalistic = AuraIconData('assets/vectors/line_duotone/camera-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/camera-minimalistic-accent.vec');
+  static const AuraIconData cameraOff = AuraIconData('assets/vectors/line_duotone/camera-off.vec', accentAssetPath: 'assets/vectors/line_duotone/camera-off-accent.vec', accentBehindMain: true);
   static const AuraIconData cameraRotate = AuraIconData('assets/vectors/line_duotone/camera-rotate.vec', accentAssetPath: 'assets/vectors/line_duotone/camera-rotate-accent.vec', accentBehindMain: true);
   static const AuraIconData cameraSquare = AuraIconData('assets/vectors/line_duotone/camera-square.vec', accentAssetPath: 'assets/vectors/line_duotone/camera-square-accent.vec', accentBehindMain: true);
+  static const AuraIconData car = AuraIconData('assets/vectors/line_duotone/car.vec', accentAssetPath: 'assets/vectors/line_duotone/car-accent.vec', accentBehindMain: true);
   static const AuraIconData carBattery = AuraIconData('assets/vectors/line_duotone/car-battery.vec', accentAssetPath: 'assets/vectors/line_duotone/car-battery-accent.vec');
   static const AuraIconData card = AuraIconData('assets/vectors/line_duotone/card.vec', accentAssetPath: 'assets/vectors/line_duotone/card-accent.vec');
   static const AuraIconData card2 = AuraIconData('assets/vectors/line_duotone/card-2.vec', accentAssetPath: 'assets/vectors/line_duotone/card-2-accent.vec');
@@ -188,9 +214,9 @@ class AuraIconsLineDuotone {
   static const AuraIconData cardSend = AuraIconData('assets/vectors/line_duotone/card-send.vec', accentAssetPath: 'assets/vectors/line_duotone/card-send-accent.vec');
   static const AuraIconData cardTransfer = AuraIconData('assets/vectors/line_duotone/card-transfer.vec', accentAssetPath: 'assets/vectors/line_duotone/card-transfer-accent.vec');
   static const AuraIconData cardholder = AuraIconData('assets/vectors/line_duotone/cardholder.vec', accentAssetPath: 'assets/vectors/line_duotone/cardholder-accent.vec', accentBehindMain: true);
-  static const AuraIconData cart = AuraIconData('assets/vectors/line_duotone/cart.vec', accentAssetPath: 'assets/vectors/line_duotone/cart-accent.vec');
-  static const AuraIconData cart2 = AuraIconData('assets/vectors/line_duotone/cart-2.vec', accentAssetPath: 'assets/vectors/line_duotone/cart-2-accent.vec');
-  static const AuraIconData cart3 = AuraIconData('assets/vectors/line_duotone/cart-3.vec', accentAssetPath: 'assets/vectors/line_duotone/cart-3-accent.vec');
+  static const AuraIconData cart = AuraIconData('assets/vectors/line_duotone/cart.vec', accentAssetPath: 'assets/vectors/line_duotone/cart-accent.vec', accentBehindMain: true);
+  static const AuraIconData cart2 = AuraIconData('assets/vectors/line_duotone/cart-2.vec', accentAssetPath: 'assets/vectors/line_duotone/cart-2-accent.vec', accentBehindMain: true);
+  static const AuraIconData cart3 = AuraIconData('assets/vectors/line_duotone/cart-3.vec', accentAssetPath: 'assets/vectors/line_duotone/cart-3-accent.vec', accentBehindMain: true);
   static const AuraIconData cart4 = AuraIconData('assets/vectors/line_duotone/cart-4.vec', accentAssetPath: 'assets/vectors/line_duotone/cart-4-accent.vec');
   static const AuraIconData cart5 = AuraIconData('assets/vectors/line_duotone/cart-5.vec', accentAssetPath: 'assets/vectors/line_duotone/cart-5-accent.vec');
   static const AuraIconData cartCheck = AuraIconData('assets/vectors/line_duotone/cart-check.vec', accentAssetPath: 'assets/vectors/line_duotone/cart-check-accent.vec', accentBehindMain: true);
@@ -202,9 +228,9 @@ class AuraIconsLineDuotone {
   static const AuraIconData cartLargeMinimalistic = AuraIconData('assets/vectors/line_duotone/cart-large-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/cart-large-minimalistic-accent.vec', accentBehindMain: true);
   static const AuraIconData cartPlus = AuraIconData('assets/vectors/line_duotone/cart-plus.vec', accentAssetPath: 'assets/vectors/line_duotone/cart-plus-accent.vec', accentBehindMain: true);
   static const AuraIconData caseIcon = AuraIconData('assets/vectors/line_duotone/case.vec', accentAssetPath: 'assets/vectors/line_duotone/case-accent.vec', accentBehindMain: true);
-  static const AuraIconData caseMinimalistic = AuraIconData('assets/vectors/line_duotone/case-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/case-minimalistic-accent.vec');
+  static const AuraIconData caseMinimalistic = AuraIconData('assets/vectors/line_duotone/case-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/case-minimalistic-accent.vec', accentBehindMain: true);
   static const AuraIconData caseRound = AuraIconData('assets/vectors/line_duotone/case-round.vec', accentAssetPath: 'assets/vectors/line_duotone/case-round-accent.vec', accentBehindMain: true);
-  static const AuraIconData caseRoundMinimalistic = AuraIconData('assets/vectors/line_duotone/case-round-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/case-round-minimalistic-accent.vec');
+  static const AuraIconData caseRoundMinimalistic = AuraIconData('assets/vectors/line_duotone/case-round-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/case-round-minimalistic-accent.vec', accentBehindMain: true);
   static const AuraIconData cashOut = AuraIconData('assets/vectors/line_duotone/cash-out.vec', accentAssetPath: 'assets/vectors/line_duotone/cash-out-accent.vec', accentBehindMain: true);
   static const AuraIconData cassette = AuraIconData('assets/vectors/line_duotone/cassette.vec', accentAssetPath: 'assets/vectors/line_duotone/cassette-accent.vec');
   static const AuraIconData cassette2 = AuraIconData('assets/vectors/line_duotone/cassette-2.vec', accentAssetPath: 'assets/vectors/line_duotone/cassette-2-accent.vec');
@@ -215,25 +241,41 @@ class AuraIconsLineDuotone {
   static const AuraIconData chart = AuraIconData('assets/vectors/line_duotone/chart.vec', accentAssetPath: 'assets/vectors/line_duotone/chart-accent.vec');
   static const AuraIconData chart2 = AuraIconData('assets/vectors/line_duotone/chart-2.vec', accentAssetPath: 'assets/vectors/line_duotone/chart-2-accent.vec', accentBehindMain: true);
   static const AuraIconData chartSquare = AuraIconData('assets/vectors/line_duotone/chart-square.vec', accentAssetPath: 'assets/vectors/line_duotone/chart-square-accent.vec', accentBehindMain: true);
-  static const AuraIconData chatDots = AuraIconData('assets/vectors/line_duotone/chat-dots.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-dots-accent.vec', accentBehindMain: true);
-  static const AuraIconData chatLine = AuraIconData('assets/vectors/line_duotone/chat-line.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-line-accent.vec', accentBehindMain: true);
-  static const AuraIconData chatRound = AuraIconData('assets/vectors/line_duotone/chat-round.vec');
+  static const AuraIconData chartSquare2 = AuraIconData('assets/vectors/line_duotone/chart-square-2.vec', accentAssetPath: 'assets/vectors/line_duotone/chart-square-2-accent.vec', accentBehindMain: true);
+  static const AuraIconData chatRound = AuraIconData('assets/vectors/line_duotone/chat-round.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-round-accent.vec', accentBehindMain: true);
+  static const AuraIconData chatRoundAdd = AuraIconData('assets/vectors/line_duotone/chat-round-add.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-round-add-accent.vec');
   static const AuraIconData chatRoundCall = AuraIconData('assets/vectors/line_duotone/chat-round-call.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-round-call-accent.vec');
   static const AuraIconData chatRoundCheck = AuraIconData('assets/vectors/line_duotone/chat-round-check.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-round-check-accent.vec');
+  static const AuraIconData chatRoundClose = AuraIconData('assets/vectors/line_duotone/chat-round-close.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-round-close-accent.vec');
+  static const AuraIconData chatRoundCode = AuraIconData('assets/vectors/line_duotone/chat-round-code.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-round-code-accent.vec');
   static const AuraIconData chatRoundDots = AuraIconData('assets/vectors/line_duotone/chat-round-dots.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-round-dots-accent.vec');
   static const AuraIconData chatRoundLike = AuraIconData('assets/vectors/line_duotone/chat-round-like.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-round-like-accent.vec');
   static const AuraIconData chatRoundLine = AuraIconData('assets/vectors/line_duotone/chat-round-line.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-round-line-accent.vec');
   static const AuraIconData chatRoundMoney = AuraIconData('assets/vectors/line_duotone/chat-round-money.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-round-money-accent.vec');
+  static const AuraIconData chatRoundOff = AuraIconData('assets/vectors/line_duotone/chat-round-off.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-round-off-accent.vec');
+  static const AuraIconData chatRoundQuestionMark = AuraIconData('assets/vectors/line_duotone/chat-round-question-mark.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-round-question-mark-accent.vec');
+  static const AuraIconData chatRoundQuote = AuraIconData('assets/vectors/line_duotone/chat-round-quote.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-round-quote-accent.vec');
+  static const AuraIconData chatRoundReplay = AuraIconData('assets/vectors/line_duotone/chat-round-replay.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-round-replay-accent.vec');
   static const AuraIconData chatRoundUnread = AuraIconData('assets/vectors/line_duotone/chat-round-unread.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-round-unread-accent.vec');
   static const AuraIconData chatRoundVideo = AuraIconData('assets/vectors/line_duotone/chat-round-video.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-round-video-accent.vec');
-  static const AuraIconData chatSquare = AuraIconData('assets/vectors/line_duotone/chat-square.vec');
-  static const AuraIconData chatSquare2 = AuraIconData('assets/vectors/line_duotone/chat-square-2.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-square-2-accent.vec', accentBehindMain: true);
+  static const AuraIconData chatRoundWarning = AuraIconData('assets/vectors/line_duotone/chat-round-warning.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-round-warning-accent.vec');
+  static const AuraIconData chatSquare = AuraIconData('assets/vectors/line_duotone/chat-square.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-square-accent.vec', accentBehindMain: true);
+  static const AuraIconData chatSquareAdd = AuraIconData('assets/vectors/line_duotone/chat-square-add.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-square-add-accent.vec');
   static const AuraIconData chatSquareArrow = AuraIconData('assets/vectors/line_duotone/chat-square-arrow.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-square-arrow-accent.vec', accentBehindMain: true);
   static const AuraIconData chatSquareCall = AuraIconData('assets/vectors/line_duotone/chat-square-call.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-square-call-accent.vec', accentBehindMain: true);
   static const AuraIconData chatSquareCheck = AuraIconData('assets/vectors/line_duotone/chat-square-check.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-square-check-accent.vec', accentBehindMain: true);
+  static const AuraIconData chatSquareClose = AuraIconData('assets/vectors/line_duotone/chat-square-close.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-square-close-accent.vec');
   static const AuraIconData chatSquareCode = AuraIconData('assets/vectors/line_duotone/chat-square-code.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-square-code-accent.vec', accentBehindMain: true);
+  static const AuraIconData chatSquareDots = AuraIconData('assets/vectors/line_duotone/chat-square-dots.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-square-dots-accent.vec', accentBehindMain: true);
   static const AuraIconData chatSquareLike = AuraIconData('assets/vectors/line_duotone/chat-square-like.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-square-like-accent.vec', accentBehindMain: true);
-  static const AuraIconData chatUnread = AuraIconData('assets/vectors/line_duotone/chat-unread.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-unread-accent.vec');
+  static const AuraIconData chatSquareLine = AuraIconData('assets/vectors/line_duotone/chat-square-line.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-square-line-accent.vec', accentBehindMain: true);
+  static const AuraIconData chatSquareOff = AuraIconData('assets/vectors/line_duotone/chat-square-off.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-square-off-accent.vec');
+  static const AuraIconData chatSquareQuestionMark = AuraIconData('assets/vectors/line_duotone/chat-square-question-mark.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-square-question-mark-accent.vec');
+  static const AuraIconData chatSquareQuote = AuraIconData('assets/vectors/line_duotone/chat-square-quote.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-square-quote-accent.vec');
+  static const AuraIconData chatSquareReplay = AuraIconData('assets/vectors/line_duotone/chat-square-replay.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-square-replay-accent.vec');
+  static const AuraIconData chatSquareUnread = AuraIconData('assets/vectors/line_duotone/chat-square-unread.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-square-unread-accent.vec');
+  static const AuraIconData chatSquareWarning = AuraIconData('assets/vectors/line_duotone/chat-square-warning.vec', accentAssetPath: 'assets/vectors/line_duotone/chat-square-warning-accent.vec');
+  static const AuraIconData check = AuraIconData('assets/vectors/line_duotone/check.vec', accentAssetPath: 'assets/vectors/line_duotone/check-accent.vec', accentBehindMain: true);
   static const AuraIconData checkCircle = AuraIconData('assets/vectors/line_duotone/check-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/check-circle-accent.vec', accentBehindMain: true);
   static const AuraIconData checkRead = AuraIconData('assets/vectors/line_duotone/check-read.vec', accentAssetPath: 'assets/vectors/line_duotone/check-read-accent.vec', accentBehindMain: true);
   static const AuraIconData checkSquare = AuraIconData('assets/vectors/line_duotone/check-square.vec', accentAssetPath: 'assets/vectors/line_duotone/check-square-accent.vec', accentBehindMain: true);
@@ -242,8 +284,18 @@ class AuraIconsLineDuotone {
   static const AuraIconData chefHat = AuraIconData('assets/vectors/line_duotone/chef-hat.vec', accentAssetPath: 'assets/vectors/line_duotone/chef-hat-accent.vec', accentBehindMain: true);
   static const AuraIconData chefHatHeart = AuraIconData('assets/vectors/line_duotone/chef-hat-heart.vec', accentAssetPath: 'assets/vectors/line_duotone/chef-hat-heart-accent.vec', accentBehindMain: true);
   static const AuraIconData chefHatMinimalistic = AuraIconData('assets/vectors/line_duotone/chef-hat-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/chef-hat-minimalistic-accent.vec', accentBehindMain: true);
+  static const AuraIconData chevronFirst = AuraIconData('assets/vectors/line_duotone/chevron-first.vec', accentAssetPath: 'assets/vectors/line_duotone/chevron-first-accent.vec', accentBehindMain: true);
+  static const AuraIconData chevronLast = AuraIconData('assets/vectors/line_duotone/chevron-last.vec', accentAssetPath: 'assets/vectors/line_duotone/chevron-last-accent.vec', accentBehindMain: true);
+  static const AuraIconData chevronsDownUp = AuraIconData('assets/vectors/line_duotone/chevrons-down-up.vec', accentAssetPath: 'assets/vectors/line_duotone/chevrons-down-up-accent.vec', accentBehindMain: true);
+  static const AuraIconData chevronsLeftRight = AuraIconData('assets/vectors/line_duotone/chevrons-left-right.vec', accentAssetPath: 'assets/vectors/line_duotone/chevrons-left-right-accent.vec', accentBehindMain: true);
+  static const AuraIconData chevronsLeftRightEllipsis = AuraIconData('assets/vectors/line_duotone/chevrons-left-right-ellipsis.vec', accentAssetPath: 'assets/vectors/line_duotone/chevrons-left-right-ellipsis-accent.vec');
+  static const AuraIconData chevronsRightLeft = AuraIconData('assets/vectors/line_duotone/chevrons-right-left.vec', accentAssetPath: 'assets/vectors/line_duotone/chevrons-right-left-accent.vec', accentBehindMain: true);
+  static const AuraIconData chevronsUpDown = AuraIconData('assets/vectors/line_duotone/chevrons-up-down.vec', accentAssetPath: 'assets/vectors/line_duotone/chevrons-up-down-accent.vec', accentBehindMain: true);
   static const AuraIconData circleBottomDown = AuraIconData('assets/vectors/line_duotone/circle-bottom-down.vec', accentAssetPath: 'assets/vectors/line_duotone/circle-bottom-down-accent.vec');
   static const AuraIconData circleBottomUp = AuraIconData('assets/vectors/line_duotone/circle-bottom-up.vec', accentAssetPath: 'assets/vectors/line_duotone/circle-bottom-up-accent.vec');
+  static const AuraIconData circleDashed = AuraIconData('assets/vectors/line_duotone/circle-dashed.vec', accentAssetPath: 'assets/vectors/line_duotone/circle-dashed-accent.vec');
+  static const AuraIconData circleDot = AuraIconData('assets/vectors/line_duotone/circle-dot.vec', accentAssetPath: 'assets/vectors/line_duotone/circle-dot-accent.vec', accentBehindMain: true);
+  static const AuraIconData circleDotDashed = AuraIconData('assets/vectors/line_duotone/circle-dot-dashed.vec', accentAssetPath: 'assets/vectors/line_duotone/circle-dot-dashed-accent.vec', accentBehindMain: true);
   static const AuraIconData circleTopDown = AuraIconData('assets/vectors/line_duotone/circle-top-down.vec', accentAssetPath: 'assets/vectors/line_duotone/circle-top-down-accent.vec');
   static const AuraIconData circleTopUp = AuraIconData('assets/vectors/line_duotone/circle-top-up.vec', accentAssetPath: 'assets/vectors/line_duotone/circle-top-up-accent.vec');
   static const AuraIconData city = AuraIconData('assets/vectors/line_duotone/city.vec', accentAssetPath: 'assets/vectors/line_duotone/city-accent.vec');
@@ -256,12 +308,18 @@ class AuraIconsLineDuotone {
   static const AuraIconData clipboard = AuraIconData('assets/vectors/line_duotone/clipboard.vec', accentAssetPath: 'assets/vectors/line_duotone/clipboard-accent.vec', accentBehindMain: true);
   static const AuraIconData clipboardAdd = AuraIconData('assets/vectors/line_duotone/clipboard-add.vec', accentAssetPath: 'assets/vectors/line_duotone/clipboard-add-accent.vec', accentBehindMain: true);
   static const AuraIconData clipboardCheck = AuraIconData('assets/vectors/line_duotone/clipboard-check.vec', accentAssetPath: 'assets/vectors/line_duotone/clipboard-check-accent.vec', accentBehindMain: true);
+  static const AuraIconData clipboardClock = AuraIconData('assets/vectors/line_duotone/clipboard-clock.vec', accentAssetPath: 'assets/vectors/line_duotone/clipboard-clock-accent.vec', accentBehindMain: true);
+  static const AuraIconData clipboardCopy = AuraIconData('assets/vectors/line_duotone/clipboard-copy.vec', accentAssetPath: 'assets/vectors/line_duotone/clipboard-copy-accent.vec', accentBehindMain: true);
   static const AuraIconData clipboardHeart = AuraIconData('assets/vectors/line_duotone/clipboard-heart.vec', accentAssetPath: 'assets/vectors/line_duotone/clipboard-heart-accent.vec', accentBehindMain: true);
   static const AuraIconData clipboardList = AuraIconData('assets/vectors/line_duotone/clipboard-list.vec', accentAssetPath: 'assets/vectors/line_duotone/clipboard-list-accent.vec', accentBehindMain: true);
+  static const AuraIconData clipboardMinus = AuraIconData('assets/vectors/line_duotone/clipboard-minus.vec', accentAssetPath: 'assets/vectors/line_duotone/clipboard-minus-accent.vec', accentBehindMain: true);
+  static const AuraIconData clipboardPaste = AuraIconData('assets/vectors/line_duotone/clipboard-paste.vec', accentAssetPath: 'assets/vectors/line_duotone/clipboard-paste-accent.vec', accentBehindMain: true);
   static const AuraIconData clipboardRemove = AuraIconData('assets/vectors/line_duotone/clipboard-remove.vec', accentAssetPath: 'assets/vectors/line_duotone/clipboard-remove-accent.vec', accentBehindMain: true);
   static const AuraIconData clipboardText = AuraIconData('assets/vectors/line_duotone/clipboard-text.vec', accentAssetPath: 'assets/vectors/line_duotone/clipboard-text-accent.vec', accentBehindMain: true);
+  static const AuraIconData clipboardType = AuraIconData('assets/vectors/line_duotone/clipboard-type.vec', accentAssetPath: 'assets/vectors/line_duotone/clipboard-type-accent.vec', accentBehindMain: true);
   static const AuraIconData clockCircle = AuraIconData('assets/vectors/line_duotone/clock-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/clock-circle-accent.vec', accentBehindMain: true);
   static const AuraIconData clockSquare = AuraIconData('assets/vectors/line_duotone/clock-square.vec', accentAssetPath: 'assets/vectors/line_duotone/clock-square-accent.vec');
+  static const AuraIconData close = AuraIconData('assets/vectors/line_duotone/close.vec', accentAssetPath: 'assets/vectors/line_duotone/close-accent.vec', accentBehindMain: true);
   static const AuraIconData closeCircle = AuraIconData('assets/vectors/line_duotone/close-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/close-circle-accent.vec', accentBehindMain: true);
   static const AuraIconData closeSquare = AuraIconData('assets/vectors/line_duotone/close-square.vec', accentAssetPath: 'assets/vectors/line_duotone/close-square-accent.vec', accentBehindMain: true);
   static const AuraIconData closet = AuraIconData('assets/vectors/line_duotone/closet.vec', accentAssetPath: 'assets/vectors/line_duotone/closet-accent.vec', accentBehindMain: true);
@@ -272,7 +330,6 @@ class AuraIconsLineDuotone {
   static const AuraIconData cloudCheck = AuraIconData('assets/vectors/line_duotone/cloud-check.vec', accentAssetPath: 'assets/vectors/line_duotone/cloud-check-accent.vec', accentBehindMain: true);
   static const AuraIconData cloudCross = AuraIconData('assets/vectors/line_duotone/cloud-cross.vec', accentAssetPath: 'assets/vectors/line_duotone/cloud-cross-accent.vec', accentBehindMain: true);
   static const AuraIconData cloudDownload = AuraIconData('assets/vectors/line_duotone/cloud-download.vec', accentAssetPath: 'assets/vectors/line_duotone/cloud-download-accent.vec', accentBehindMain: true);
-  static const AuraIconData cloudFile = AuraIconData('assets/vectors/line_duotone/cloud-file.vec', accentAssetPath: 'assets/vectors/line_duotone/cloud-file-accent.vec', accentBehindMain: true);
   static const AuraIconData cloudMinus = AuraIconData('assets/vectors/line_duotone/cloud-minus.vec', accentAssetPath: 'assets/vectors/line_duotone/cloud-minus-accent.vec', accentBehindMain: true);
   static const AuraIconData cloudPlus = AuraIconData('assets/vectors/line_duotone/cloud-plus.vec', accentAssetPath: 'assets/vectors/line_duotone/cloud-plus-accent.vec', accentBehindMain: true);
   static const AuraIconData cloudRain = AuraIconData('assets/vectors/line_duotone/cloud-rain.vec', accentAssetPath: 'assets/vectors/line_duotone/cloud-rain-accent.vec', accentBehindMain: true);
@@ -290,10 +347,13 @@ class AuraIconsLineDuotone {
   static const AuraIconData code = AuraIconData('assets/vectors/line_duotone/code.vec', accentAssetPath: 'assets/vectors/line_duotone/code-accent.vec');
   static const AuraIconData code2 = AuraIconData('assets/vectors/line_duotone/code-2.vec', accentAssetPath: 'assets/vectors/line_duotone/code-2-accent.vec');
   static const AuraIconData codeCircle = AuraIconData('assets/vectors/line_duotone/code-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/code-circle-accent.vec', accentBehindMain: true);
-  static const AuraIconData codeFile = AuraIconData('assets/vectors/line_duotone/code-file.vec', accentAssetPath: 'assets/vectors/line_duotone/code-file-accent.vec', accentBehindMain: true);
   static const AuraIconData codeScan = AuraIconData('assets/vectors/line_duotone/code-scan.vec', accentAssetPath: 'assets/vectors/line_duotone/code-scan-accent.vec');
   static const AuraIconData codeSquare = AuraIconData('assets/vectors/line_duotone/code-square.vec', accentAssetPath: 'assets/vectors/line_duotone/code-square-accent.vec');
   static const AuraIconData colourTuning = AuraIconData('assets/vectors/line_duotone/colour-tuning.vec', accentAssetPath: 'assets/vectors/line_duotone/colour-tuning-accent.vec', accentBehindMain: true);
+  static const AuraIconData columns2 = AuraIconData('assets/vectors/line_duotone/columns-2.vec', accentAssetPath: 'assets/vectors/line_duotone/columns-2-accent.vec', accentBehindMain: true);
+  static const AuraIconData columns3 = AuraIconData('assets/vectors/line_duotone/columns-3.vec', accentAssetPath: 'assets/vectors/line_duotone/columns-3-accent.vec', accentBehindMain: true);
+  static const AuraIconData columns3Cog = AuraIconData('assets/vectors/line_duotone/columns-3-cog.vec', accentAssetPath: 'assets/vectors/line_duotone/columns-3-cog-accent.vec');
+  static const AuraIconData columns4 = AuraIconData('assets/vectors/line_duotone/columns-4.vec', accentAssetPath: 'assets/vectors/line_duotone/columns-4-accent.vec', accentBehindMain: true);
   static const AuraIconData command = AuraIconData('assets/vectors/line_duotone/command.vec', accentAssetPath: 'assets/vectors/line_duotone/command-accent.vec', accentBehindMain: true);
   static const AuraIconData compass = AuraIconData('assets/vectors/line_duotone/compass.vec', accentAssetPath: 'assets/vectors/line_duotone/compass-accent.vec', accentBehindMain: true);
   static const AuraIconData compassBig = AuraIconData('assets/vectors/line_duotone/compass-big.vec', accentAssetPath: 'assets/vectors/line_duotone/compass-big-accent.vec', accentBehindMain: true);
@@ -304,7 +364,12 @@ class AuraIconsLineDuotone {
   static const AuraIconData confettiMinimalistic = AuraIconData('assets/vectors/line_duotone/confetti-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/confetti-minimalistic-accent.vec');
   static const AuraIconData confoundedCircle = AuraIconData('assets/vectors/line_duotone/confounded-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/confounded-circle-accent.vec', accentBehindMain: true);
   static const AuraIconData confoundedSquare = AuraIconData('assets/vectors/line_duotone/confounded-square.vec', accentAssetPath: 'assets/vectors/line_duotone/confounded-square-accent.vec', accentBehindMain: true);
+  static const AuraIconData container = AuraIconData('assets/vectors/line_duotone/container.vec', accentAssetPath: 'assets/vectors/line_duotone/container-accent.vec');
   static const AuraIconData copy = AuraIconData('assets/vectors/line_duotone/copy.vec', accentAssetPath: 'assets/vectors/line_duotone/copy-accent.vec');
+  static const AuraIconData copyAdd = AuraIconData('assets/vectors/line_duotone/copy-add.vec', accentAssetPath: 'assets/vectors/line_duotone/copy-add-accent.vec');
+  static const AuraIconData copyCheck = AuraIconData('assets/vectors/line_duotone/copy-check.vec', accentAssetPath: 'assets/vectors/line_duotone/copy-check-accent.vec');
+  static const AuraIconData copyClose = AuraIconData('assets/vectors/line_duotone/copy-close.vec', accentAssetPath: 'assets/vectors/line_duotone/copy-close-accent.vec');
+  static const AuraIconData copyMinus = AuraIconData('assets/vectors/line_duotone/copy-minus.vec', accentAssetPath: 'assets/vectors/line_duotone/copy-minus-accent.vec');
   static const AuraIconData copyright = AuraIconData('assets/vectors/line_duotone/copyright.vec', accentAssetPath: 'assets/vectors/line_duotone/copyright-accent.vec', accentBehindMain: true);
   static const AuraIconData corkscrew = AuraIconData('assets/vectors/line_duotone/corkscrew.vec', accentAssetPath: 'assets/vectors/line_duotone/corkscrew-accent.vec', accentBehindMain: true);
   static const AuraIconData cosmetic = AuraIconData('assets/vectors/line_duotone/cosmetic.vec', accentAssetPath: 'assets/vectors/line_duotone/cosmetic-accent.vec');
@@ -317,14 +382,14 @@ class AuraIconsLineDuotone {
   static const AuraIconData cropMinimalistic = AuraIconData('assets/vectors/line_duotone/crop-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/crop-minimalistic-accent.vec');
   static const AuraIconData crown = AuraIconData('assets/vectors/line_duotone/crown.vec', accentAssetPath: 'assets/vectors/line_duotone/crown-accent.vec', accentBehindMain: true);
   static const AuraIconData crownLine = AuraIconData('assets/vectors/line_duotone/crown-line.vec', accentAssetPath: 'assets/vectors/line_duotone/crown-line-accent.vec');
-  static const AuraIconData crownMinimalistic = AuraIconData('assets/vectors/line_duotone/crown-minimalistic.vec');
+  static const AuraIconData crownMinimalistic = AuraIconData('assets/vectors/line_duotone/crown-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/crown-minimalistic-accent.vec', accentBehindMain: true);
   static const AuraIconData crownStar = AuraIconData('assets/vectors/line_duotone/crown-star.vec', accentAssetPath: 'assets/vectors/line_duotone/crown-star-accent.vec');
-  static const AuraIconData cup = AuraIconData('assets/vectors/line_duotone/cup.vec', accentAssetPath: 'assets/vectors/line_duotone/cup-accent.vec');
-  static const AuraIconData cupFirst = AuraIconData('assets/vectors/line_duotone/cup-first.vec', accentAssetPath: 'assets/vectors/line_duotone/cup-first-accent.vec');
+  static const AuraIconData cup = AuraIconData('assets/vectors/line_duotone/cup.vec', accentAssetPath: 'assets/vectors/line_duotone/cup-accent.vec', accentBehindMain: true);
+  static const AuraIconData cupFirst = AuraIconData('assets/vectors/line_duotone/cup-first.vec', accentAssetPath: 'assets/vectors/line_duotone/cup-first-accent.vec', accentBehindMain: true);
   static const AuraIconData cupHot = AuraIconData('assets/vectors/line_duotone/cup-hot.vec', accentAssetPath: 'assets/vectors/line_duotone/cup-hot-accent.vec');
-  static const AuraIconData cupMusic = AuraIconData('assets/vectors/line_duotone/cup-music.vec', accentAssetPath: 'assets/vectors/line_duotone/cup-music-accent.vec');
+  static const AuraIconData cupMusic = AuraIconData('assets/vectors/line_duotone/cup-music.vec', accentAssetPath: 'assets/vectors/line_duotone/cup-music-accent.vec', accentBehindMain: true);
   static const AuraIconData cupPaper = AuraIconData('assets/vectors/line_duotone/cup-paper.vec', accentAssetPath: 'assets/vectors/line_duotone/cup-paper-accent.vec', accentBehindMain: true);
-  static const AuraIconData cupStar = AuraIconData('assets/vectors/line_duotone/cup-star.vec', accentAssetPath: 'assets/vectors/line_duotone/cup-star-accent.vec');
+  static const AuraIconData cupStar = AuraIconData('assets/vectors/line_duotone/cup-star.vec', accentAssetPath: 'assets/vectors/line_duotone/cup-star-accent.vec', accentBehindMain: true);
   static const AuraIconData cursor = AuraIconData('assets/vectors/line_duotone/cursor.vec', accentAssetPath: 'assets/vectors/line_duotone/cursor-accent.vec');
   static const AuraIconData cursorSquare = AuraIconData('assets/vectors/line_duotone/cursor-square.vec', accentAssetPath: 'assets/vectors/line_duotone/cursor-square-accent.vec');
   static const AuraIconData danger = AuraIconData('assets/vectors/line_duotone/danger.vec', accentAssetPath: 'assets/vectors/line_duotone/danger-accent.vec');
@@ -338,7 +403,7 @@ class AuraIconsLineDuotone {
   static const AuraIconData diagramUp = AuraIconData('assets/vectors/line_duotone/diagram-up.vec', accentAssetPath: 'assets/vectors/line_duotone/diagram-up-accent.vec', accentBehindMain: true);
   static const AuraIconData dialog = AuraIconData('assets/vectors/line_duotone/dialog.vec', accentAssetPath: 'assets/vectors/line_duotone/dialog-accent.vec');
   static const AuraIconData dialog2 = AuraIconData('assets/vectors/line_duotone/dialog-2.vec', accentAssetPath: 'assets/vectors/line_duotone/dialog-2-accent.vec');
-  static const AuraIconData diploma = AuraIconData('assets/vectors/line_duotone/diploma.vec', accentAssetPath: 'assets/vectors/line_duotone/diploma-accent.vec');
+  static const AuraIconData diploma = AuraIconData('assets/vectors/line_duotone/diploma.vec', accentAssetPath: 'assets/vectors/line_duotone/diploma-accent.vec', accentBehindMain: true);
   static const AuraIconData diplomaVerified = AuraIconData('assets/vectors/line_duotone/diploma-verified.vec', accentAssetPath: 'assets/vectors/line_duotone/diploma-verified-accent.vec', accentBehindMain: true);
   static const AuraIconData diskette = AuraIconData('assets/vectors/line_duotone/diskette.vec', accentAssetPath: 'assets/vectors/line_duotone/diskette-accent.vec');
   static const AuraIconData dislike = AuraIconData('assets/vectors/line_duotone/dislike.vec', accentAssetPath: 'assets/vectors/line_duotone/dislike-accent.vec', accentBehindMain: true);
@@ -349,12 +414,12 @@ class AuraIconsLineDuotone {
   static const AuraIconData documentAdd = AuraIconData('assets/vectors/line_duotone/document-add.vec', accentAssetPath: 'assets/vectors/line_duotone/document-add-accent.vec');
   static const AuraIconData documentMedicine = AuraIconData('assets/vectors/line_duotone/document-medicine.vec', accentAssetPath: 'assets/vectors/line_duotone/document-medicine-accent.vec', accentBehindMain: true);
   static const AuraIconData documentText = AuraIconData('assets/vectors/line_duotone/document-text.vec', accentAssetPath: 'assets/vectors/line_duotone/document-text-accent.vec', accentBehindMain: true);
-  static const AuraIconData documents = AuraIconData('assets/vectors/line_duotone/documents.vec', accentAssetPath: 'assets/vectors/line_duotone/documents-accent.vec');
+  static const AuraIconData documents = AuraIconData('assets/vectors/line_duotone/documents.vec', accentAssetPath: 'assets/vectors/line_duotone/documents-accent.vec', accentBehindMain: true);
   static const AuraIconData documentsMinimalistic = AuraIconData('assets/vectors/line_duotone/documents-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/documents-minimalistic-accent.vec');
   static const AuraIconData dollar = AuraIconData('assets/vectors/line_duotone/dollar.vec', accentAssetPath: 'assets/vectors/line_duotone/dollar-accent.vec', accentBehindMain: true);
   static const AuraIconData dollarMinimalistic = AuraIconData('assets/vectors/line_duotone/dollar-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/dollar-minimalistic-accent.vec', accentBehindMain: true);
-  static const AuraIconData donut = AuraIconData('assets/vectors/line_duotone/donut.vec', accentAssetPath: 'assets/vectors/line_duotone/donut-accent.vec');
-  static const AuraIconData donutBitten = AuraIconData('assets/vectors/line_duotone/donut-bitten.vec', accentAssetPath: 'assets/vectors/line_duotone/donut-bitten-accent.vec');
+  static const AuraIconData donut = AuraIconData('assets/vectors/line_duotone/donut.vec', accentAssetPath: 'assets/vectors/line_duotone/donut-accent.vec', accentBehindMain: true);
+  static const AuraIconData donutBitten = AuraIconData('assets/vectors/line_duotone/donut-bitten.vec', accentAssetPath: 'assets/vectors/line_duotone/donut-bitten-accent.vec', accentBehindMain: true);
   static const AuraIconData doubleAltArrowDown = AuraIconData('assets/vectors/line_duotone/double-alt-arrow-down.vec', accentAssetPath: 'assets/vectors/line_duotone/double-alt-arrow-down-accent.vec');
   static const AuraIconData doubleAltArrowLeft = AuraIconData('assets/vectors/line_duotone/double-alt-arrow-left.vec', accentAssetPath: 'assets/vectors/line_duotone/double-alt-arrow-left-accent.vec');
   static const AuraIconData doubleAltArrowRight = AuraIconData('assets/vectors/line_duotone/double-alt-arrow-right.vec', accentAssetPath: 'assets/vectors/line_duotone/double-alt-arrow-right-accent.vec');
@@ -368,7 +433,7 @@ class AuraIconsLineDuotone {
   static const AuraIconData dropper3 = AuraIconData('assets/vectors/line_duotone/dropper-3.vec', accentAssetPath: 'assets/vectors/line_duotone/dropper-3-accent.vec');
   static const AuraIconData dropperMinimalistic = AuraIconData('assets/vectors/line_duotone/dropper-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/dropper-minimalistic-accent.vec');
   static const AuraIconData dropperMinimalistic2 = AuraIconData('assets/vectors/line_duotone/dropper-minimalistic-2.vec', accentAssetPath: 'assets/vectors/line_duotone/dropper-minimalistic-2-accent.vec');
-  static const AuraIconData dumbbell = AuraIconData('assets/vectors/line_duotone/dumbbell.vec');
+  static const AuraIconData dumbbell = AuraIconData('assets/vectors/line_duotone/dumbbell.vec', accentAssetPath: 'assets/vectors/line_duotone/dumbbell-accent.vec', accentBehindMain: true);
   static const AuraIconData dumbbellLarge = AuraIconData('assets/vectors/line_duotone/dumbbell-large.vec', accentAssetPath: 'assets/vectors/line_duotone/dumbbell-large-accent.vec');
   static const AuraIconData dumbbellLargeMinimalistic = AuraIconData('assets/vectors/line_duotone/dumbbell-large-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/dumbbell-large-minimalistic-accent.vec', accentBehindMain: true);
   static const AuraIconData dumbbellSmall = AuraIconData('assets/vectors/line_duotone/dumbbell-small.vec', accentAssetPath: 'assets/vectors/line_duotone/dumbbell-small-accent.vec');
@@ -378,12 +443,13 @@ class AuraIconsLineDuotone {
   static const AuraIconData electricRefueling = AuraIconData('assets/vectors/line_duotone/electric-refueling.vec', accentAssetPath: 'assets/vectors/line_duotone/electric-refueling-accent.vec');
   static const AuraIconData emojiFunnyCircle = AuraIconData('assets/vectors/line_duotone/emoji-funny-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/emoji-funny-circle-accent.vec', accentBehindMain: true);
   static const AuraIconData emojiFunnySquare = AuraIconData('assets/vectors/line_duotone/emoji-funny-square.vec', accentAssetPath: 'assets/vectors/line_duotone/emoji-funny-square-accent.vec');
-  static const AuraIconData endCall = AuraIconData('assets/vectors/line_duotone/end-call.vec', accentAssetPath: 'assets/vectors/line_duotone/end-call-accent.vec');
-  static const AuraIconData endCallRounded = AuraIconData('assets/vectors/line_duotone/end-call-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/end-call-rounded-accent.vec');
+  static const AuraIconData endCall = AuraIconData('assets/vectors/line_duotone/end-call.vec', accentAssetPath: 'assets/vectors/line_duotone/end-call-accent.vec', accentBehindMain: true);
+  static const AuraIconData endCallRounded = AuraIconData('assets/vectors/line_duotone/end-call-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/end-call-rounded-accent.vec', accentBehindMain: true);
   static const AuraIconData eraser = AuraIconData('assets/vectors/line_duotone/eraser.vec', accentAssetPath: 'assets/vectors/line_duotone/eraser-accent.vec');
   static const AuraIconData eraserCircle = AuraIconData('assets/vectors/line_duotone/eraser-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/eraser-circle-accent.vec');
   static const AuraIconData eraserSquare = AuraIconData('assets/vectors/line_duotone/eraser-square.vec', accentAssetPath: 'assets/vectors/line_duotone/eraser-square-accent.vec');
   static const AuraIconData euro = AuraIconData('assets/vectors/line_duotone/euro.vec', accentAssetPath: 'assets/vectors/line_duotone/euro-accent.vec', accentBehindMain: true);
+  static const AuraIconData exclamationMark = AuraIconData('assets/vectors/line_duotone/exclamation-mark.vec', accentAssetPath: 'assets/vectors/line_duotone/exclamation-mark-accent.vec', accentBehindMain: true);
   static const AuraIconData exit = AuraIconData('assets/vectors/line_duotone/exit.vec', accentAssetPath: 'assets/vectors/line_duotone/exit-accent.vec', accentBehindMain: true);
   static const AuraIconData explicit = AuraIconData('assets/vectors/line_duotone/explicit.vec', accentAssetPath: 'assets/vectors/line_duotone/explicit-accent.vec', accentBehindMain: true);
   static const AuraIconData exportIcon = AuraIconData('assets/vectors/line_duotone/export.vec', accentAssetPath: 'assets/vectors/line_duotone/export-accent.vec', accentBehindMain: true);
@@ -399,26 +465,53 @@ class AuraIconsLineDuotone {
   static const AuraIconData feed = AuraIconData('assets/vectors/line_duotone/feed.vec', accentAssetPath: 'assets/vectors/line_duotone/feed-accent.vec');
   static const AuraIconData ferrisWheel = AuraIconData('assets/vectors/line_duotone/ferris-wheel.vec', accentAssetPath: 'assets/vectors/line_duotone/ferris-wheel-accent.vec');
   static const AuraIconData figma = AuraIconData('assets/vectors/line_duotone/figma.vec', accentAssetPath: 'assets/vectors/line_duotone/figma-accent.vec', accentBehindMain: true);
-  static const AuraIconData figmaFile = AuraIconData('assets/vectors/line_duotone/figma-file.vec', accentAssetPath: 'assets/vectors/line_duotone/figma-file-accent.vec', accentBehindMain: true);
-  static const AuraIconData file = AuraIconData('assets/vectors/line_duotone/file.vec', accentAssetPath: 'assets/vectors/line_duotone/file-accent.vec');
+  static const AuraIconData file = AuraIconData('assets/vectors/line_duotone/file.vec', accentAssetPath: 'assets/vectors/line_duotone/file-accent.vec', accentBehindMain: true);
+  static const AuraIconData fileAdd = AuraIconData('assets/vectors/line_duotone/file-add.vec', accentAssetPath: 'assets/vectors/line_duotone/file-add-accent.vec', accentBehindMain: true);
+  static const AuraIconData fileAudio = AuraIconData('assets/vectors/line_duotone/file-audio.vec', accentAssetPath: 'assets/vectors/line_duotone/file-audio-accent.vec', accentBehindMain: true);
+  static const AuraIconData fileBadge = AuraIconData('assets/vectors/line_duotone/file-badge.vec', accentAssetPath: 'assets/vectors/line_duotone/file-badge-accent.vec', accentBehindMain: true);
+  static const AuraIconData fileBraces = AuraIconData('assets/vectors/line_duotone/file-braces.vec', accentAssetPath: 'assets/vectors/line_duotone/file-braces-accent.vec', accentBehindMain: true);
+  static const AuraIconData fileChart = AuraIconData('assets/vectors/line_duotone/file-chart.vec', accentAssetPath: 'assets/vectors/line_duotone/file-chart-accent.vec', accentBehindMain: true);
+  static const AuraIconData fileChart2 = AuraIconData('assets/vectors/line_duotone/file-chart-2.vec', accentAssetPath: 'assets/vectors/line_duotone/file-chart-2-accent.vec', accentBehindMain: true);
   static const AuraIconData fileCheck = AuraIconData('assets/vectors/line_duotone/file-check.vec', accentAssetPath: 'assets/vectors/line_duotone/file-check-accent.vec', accentBehindMain: true);
+  static const AuraIconData fileCloud = AuraIconData('assets/vectors/line_duotone/file-cloud.vec', accentAssetPath: 'assets/vectors/line_duotone/file-cloud-accent.vec', accentBehindMain: true);
+  static const AuraIconData fileCode = AuraIconData('assets/vectors/line_duotone/file-code.vec', accentAssetPath: 'assets/vectors/line_duotone/file-code-accent.vec', accentBehindMain: true);
+  static const AuraIconData fileCog = AuraIconData('assets/vectors/line_duotone/file-cog.vec', accentAssetPath: 'assets/vectors/line_duotone/file-cog-accent.vec', accentBehindMain: true);
   static const AuraIconData fileCorrupted = AuraIconData('assets/vectors/line_duotone/file-corrupted.vec', accentAssetPath: 'assets/vectors/line_duotone/file-corrupted-accent.vec', accentBehindMain: true);
   static const AuraIconData fileDownload = AuraIconData('assets/vectors/line_duotone/file-download.vec', accentAssetPath: 'assets/vectors/line_duotone/file-download-accent.vec', accentBehindMain: true);
   static const AuraIconData fileFavorite = AuraIconData('assets/vectors/line_duotone/file-favorite.vec', accentAssetPath: 'assets/vectors/line_duotone/file-favorite-accent.vec', accentBehindMain: true);
+  static const AuraIconData fileFigma = AuraIconData('assets/vectors/line_duotone/file-figma.vec', accentAssetPath: 'assets/vectors/line_duotone/file-figma-accent.vec', accentBehindMain: true);
+  static const AuraIconData fileImage = AuraIconData('assets/vectors/line_duotone/file-image.vec', accentAssetPath: 'assets/vectors/line_duotone/file-image-accent.vec', accentBehindMain: true);
   static const AuraIconData fileLeft = AuraIconData('assets/vectors/line_duotone/file-left.vec', accentAssetPath: 'assets/vectors/line_duotone/file-left-accent.vec', accentBehindMain: true);
+  static const AuraIconData fileLock = AuraIconData('assets/vectors/line_duotone/file-lock.vec', accentAssetPath: 'assets/vectors/line_duotone/file-lock-accent.vec', accentBehindMain: true);
+  static const AuraIconData fileMinus = AuraIconData('assets/vectors/line_duotone/file-minus.vec', accentAssetPath: 'assets/vectors/line_duotone/file-minus-accent.vec', accentBehindMain: true);
+  static const AuraIconData filePen = AuraIconData('assets/vectors/line_duotone/file-pen.vec', accentAssetPath: 'assets/vectors/line_duotone/file-pen-accent.vec', accentBehindMain: true);
+  static const AuraIconData filePlay = AuraIconData('assets/vectors/line_duotone/file-play.vec', accentAssetPath: 'assets/vectors/line_duotone/file-play-accent.vec', accentBehindMain: true);
+  static const AuraIconData fileQuestionMark = AuraIconData('assets/vectors/line_duotone/file-question-mark.vec', accentAssetPath: 'assets/vectors/line_duotone/file-question-mark-accent.vec', accentBehindMain: true);
   static const AuraIconData fileRemove = AuraIconData('assets/vectors/line_duotone/file-remove.vec', accentAssetPath: 'assets/vectors/line_duotone/file-remove-accent.vec', accentBehindMain: true);
   static const AuraIconData fileRight = AuraIconData('assets/vectors/line_duotone/file-right.vec', accentAssetPath: 'assets/vectors/line_duotone/file-right-accent.vec', accentBehindMain: true);
+  static const AuraIconData fileSearch = AuraIconData('assets/vectors/line_duotone/file-search.vec', accentAssetPath: 'assets/vectors/line_duotone/file-search-accent.vec', accentBehindMain: true);
   static const AuraIconData fileSend = AuraIconData('assets/vectors/line_duotone/file-send.vec', accentAssetPath: 'assets/vectors/line_duotone/file-send-accent.vec', accentBehindMain: true);
-  static const AuraIconData fileSmile = AuraIconData('assets/vectors/line_duotone/file-smile-.vec', accentAssetPath: 'assets/vectors/line_duotone/file-smile--accent.vec', accentBehindMain: true);
+  static const AuraIconData fileSignal = AuraIconData('assets/vectors/line_duotone/file-signal.vec', accentAssetPath: 'assets/vectors/line_duotone/file-signal-accent.vec', accentBehindMain: true);
+  static const AuraIconData fileSliders = AuraIconData('assets/vectors/line_duotone/file-sliders.vec', accentAssetPath: 'assets/vectors/line_duotone/file-sliders-accent.vec', accentBehindMain: true);
+  static const AuraIconData fileSmile = AuraIconData('assets/vectors/line_duotone/file-smile.vec', accentAssetPath: 'assets/vectors/line_duotone/file-smile-accent.vec', accentBehindMain: true);
+  static const AuraIconData fileSpreadsheet = AuraIconData('assets/vectors/line_duotone/file-spreadsheet.vec', accentAssetPath: 'assets/vectors/line_duotone/file-spreadsheet-accent.vec', accentBehindMain: true);
+  static const AuraIconData fileStack = AuraIconData('assets/vectors/line_duotone/file-stack.vec', accentAssetPath: 'assets/vectors/line_duotone/file-stack-accent.vec');
+  static const AuraIconData fileTerminal = AuraIconData('assets/vectors/line_duotone/file-terminal.vec', accentAssetPath: 'assets/vectors/line_duotone/file-terminal-accent.vec', accentBehindMain: true);
   static const AuraIconData fileText = AuraIconData('assets/vectors/line_duotone/file-text.vec', accentAssetPath: 'assets/vectors/line_duotone/file-text-accent.vec', accentBehindMain: true);
+  static const AuraIconData fileType = AuraIconData('assets/vectors/line_duotone/file-type.vec', accentAssetPath: 'assets/vectors/line_duotone/file-type-accent.vec', accentBehindMain: true);
+  static const AuraIconData fileUser = AuraIconData('assets/vectors/line_duotone/file-user.vec', accentAssetPath: 'assets/vectors/line_duotone/file-user-accent.vec', accentBehindMain: true);
+  static const AuraIconData fileVideoCamera = AuraIconData('assets/vectors/line_duotone/file-video-camera.vec', accentAssetPath: 'assets/vectors/line_duotone/file-video-camera-accent.vec', accentBehindMain: true);
+  static const AuraIconData fileWarning = AuraIconData('assets/vectors/line_duotone/file-warning.vec', accentAssetPath: 'assets/vectors/line_duotone/file-warning-accent.vec', accentBehindMain: true);
+  static const AuraIconData fileZip = AuraIconData('assets/vectors/line_duotone/file-zip.vec', accentAssetPath: 'assets/vectors/line_duotone/file-zip-accent.vec', accentBehindMain: true);
   static const AuraIconData filter = AuraIconData('assets/vectors/line_duotone/filter.vec', accentAssetPath: 'assets/vectors/line_duotone/filter-accent.vec');
+  static const AuraIconData filterClose = AuraIconData('assets/vectors/line_duotone/filter-close.vec', accentAssetPath: 'assets/vectors/line_duotone/filter-close-accent.vec');
   static const AuraIconData filters = AuraIconData('assets/vectors/line_duotone/filters.vec', accentAssetPath: 'assets/vectors/line_duotone/filters-accent.vec');
   static const AuraIconData fire = AuraIconData('assets/vectors/line_duotone/fire.vec', accentAssetPath: 'assets/vectors/line_duotone/fire-accent.vec');
-  static const AuraIconData fireMinimalistic = AuraIconData('assets/vectors/line_duotone/fire-minimalistic.vec');
+  static const AuraIconData fireMinimalistic = AuraIconData('assets/vectors/line_duotone/fire-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/fire-minimalistic-accent.vec', accentBehindMain: true);
   static const AuraIconData fireSquare = AuraIconData('assets/vectors/line_duotone/fire-square.vec', accentAssetPath: 'assets/vectors/line_duotone/fire-square-accent.vec', accentBehindMain: true);
   static const AuraIconData flag = AuraIconData('assets/vectors/line_duotone/flag.vec', accentAssetPath: 'assets/vectors/line_duotone/flag-accent.vec');
   static const AuraIconData flag2 = AuraIconData('assets/vectors/line_duotone/flag-2.vec', accentAssetPath: 'assets/vectors/line_duotone/flag-2-accent.vec');
-  static const AuraIconData flame = AuraIconData('assets/vectors/line_duotone/flame.vec', accentAssetPath: 'assets/vectors/line_duotone/flame-accent.vec');
+  static const AuraIconData flame = AuraIconData('assets/vectors/line_duotone/flame.vec', accentAssetPath: 'assets/vectors/line_duotone/flame-accent.vec', accentBehindMain: true);
   static const AuraIconData flashDrive = AuraIconData('assets/vectors/line_duotone/flash-drive.vec', accentAssetPath: 'assets/vectors/line_duotone/flash-drive-accent.vec');
   static const AuraIconData flashlight = AuraIconData('assets/vectors/line_duotone/flashlight.vec', accentAssetPath: 'assets/vectors/line_duotone/flashlight-accent.vec');
   static const AuraIconData flashlightOn = AuraIconData('assets/vectors/line_duotone/flashlight-on.vec', accentAssetPath: 'assets/vectors/line_duotone/flashlight-on-accent.vec');
@@ -430,21 +523,40 @@ class AuraIconsLineDuotone {
   static const AuraIconData folder = AuraIconData('assets/vectors/line_duotone/folder.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-accent.vec', accentBehindMain: true);
   static const AuraIconData folder2 = AuraIconData('assets/vectors/line_duotone/folder-2.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-2-accent.vec', accentBehindMain: true);
   static const AuraIconData folderCheck = AuraIconData('assets/vectors/line_duotone/folder-check.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-check-accent.vec');
+  static const AuraIconData folderClock = AuraIconData('assets/vectors/line_duotone/folder-clock.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-clock-accent.vec');
   static const AuraIconData folderCloud = AuraIconData('assets/vectors/line_duotone/folder-cloud.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-cloud-accent.vec');
+  static const AuraIconData folderCode = AuraIconData('assets/vectors/line_duotone/folder-code.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-code-accent.vec');
+  static const AuraIconData folderCog = AuraIconData('assets/vectors/line_duotone/folder-cog.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-cog-accent.vec');
+  static const AuraIconData folderDot = AuraIconData('assets/vectors/line_duotone/folder-dot.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-dot-accent.vec');
+  static const AuraIconData folderDotOpen = AuraIconData('assets/vectors/line_duotone/folder-dot-open.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-dot-open-accent.vec', accentBehindMain: true);
+  static const AuraIconData folderDown = AuraIconData('assets/vectors/line_duotone/folder-down.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-down-accent.vec');
   static const AuraIconData folderError = AuraIconData('assets/vectors/line_duotone/folder-error.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-error-accent.vec');
   static const AuraIconData folderFavoriteBookmark = AuraIconData('assets/vectors/line_duotone/folder-favorite-bookmark.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-favorite-bookmark-accent.vec', accentBehindMain: true);
   static const AuraIconData folderFavoriteStar = AuraIconData('assets/vectors/line_duotone/folder-favorite-star.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-favorite-star-accent.vec', accentBehindMain: true);
+  static const AuraIconData folderGit = AuraIconData('assets/vectors/line_duotone/folder-git.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-git-accent.vec');
+  static const AuraIconData folderKanban = AuraIconData('assets/vectors/line_duotone/folder-kanban.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-kanban-accent.vec');
+  static const AuraIconData folderLock = AuraIconData('assets/vectors/line_duotone/folder-lock.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-lock-accent.vec');
   static const AuraIconData folderOpen = AuraIconData('assets/vectors/line_duotone/folder-open.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-open-accent.vec', accentBehindMain: true);
+  static const AuraIconData folderOutput = AuraIconData('assets/vectors/line_duotone/folder-output.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-output-accent.vec');
   static const AuraIconData folderPathConnect = AuraIconData('assets/vectors/line_duotone/folder-path-connect.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-path-connect-accent.vec', accentBehindMain: true);
+  static const AuraIconData folderPen = AuraIconData('assets/vectors/line_duotone/folder-pen.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-pen-accent.vec');
+  static const AuraIconData folderSearch = AuraIconData('assets/vectors/line_duotone/folder-search.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-search-accent.vec');
   static const AuraIconData folderSecurity = AuraIconData('assets/vectors/line_duotone/folder-security.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-security-accent.vec');
+  static const AuraIconData folderSymlink = AuraIconData('assets/vectors/line_duotone/folder-symlink.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-symlink-accent.vec');
+  static const AuraIconData folderSync = AuraIconData('assets/vectors/line_duotone/folder-sync.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-sync-accent.vec');
+  static const AuraIconData folderTree = AuraIconData('assets/vectors/line_duotone/folder-tree.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-tree-accent.vec');
+  static const AuraIconData folderUp = AuraIconData('assets/vectors/line_duotone/folder-up.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-up-accent.vec');
   static const AuraIconData folderWithFiles = AuraIconData('assets/vectors/line_duotone/folder-with-files.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-with-files-accent.vec', accentBehindMain: true);
+  static const AuraIconData folderZip = AuraIconData('assets/vectors/line_duotone/folder-zip.vec', accentAssetPath: 'assets/vectors/line_duotone/folder-zip-accent.vec', accentBehindMain: true);
+  static const AuraIconData folders = AuraIconData('assets/vectors/line_duotone/folders.vec', accentAssetPath: 'assets/vectors/line_duotone/folders-accent.vec', accentBehindMain: true);
   static const AuraIconData football = AuraIconData('assets/vectors/line_duotone/football.vec', accentAssetPath: 'assets/vectors/line_duotone/football-accent.vec', accentBehindMain: true);
   static const AuraIconData forbidden = AuraIconData('assets/vectors/line_duotone/forbidden.vec', accentAssetPath: 'assets/vectors/line_duotone/forbidden-accent.vec', accentBehindMain: true);
   static const AuraIconData forbiddenCircle = AuraIconData('assets/vectors/line_duotone/forbidden-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/forbidden-circle-accent.vec', accentBehindMain: true);
   static const AuraIconData forward = AuraIconData('assets/vectors/line_duotone/forward.vec', accentAssetPath: 'assets/vectors/line_duotone/forward-accent.vec');
   static const AuraIconData forward2 = AuraIconData('assets/vectors/line_duotone/forward-2.vec', accentAssetPath: 'assets/vectors/line_duotone/forward-2-accent.vec');
-  static const AuraIconData forwardRight = AuraIconData('assets/vectors/line_duotone/forward-right.vec');
+  static const AuraIconData forwardRight = AuraIconData('assets/vectors/line_duotone/forward-right.vec', accentAssetPath: 'assets/vectors/line_duotone/forward-right-accent.vec', accentBehindMain: true);
   static const AuraIconData fourK = AuraIconData('assets/vectors/line_duotone/four-k.vec', accentAssetPath: 'assets/vectors/line_duotone/four-k-accent.vec', accentBehindMain: true);
+  static const AuraIconData frame = AuraIconData('assets/vectors/line_duotone/frame.vec', accentAssetPath: 'assets/vectors/line_duotone/frame-accent.vec', accentBehindMain: true);
   static const AuraIconData fridge = AuraIconData('assets/vectors/line_duotone/fridge.vec', accentAssetPath: 'assets/vectors/line_duotone/fridge-accent.vec');
   static const AuraIconData fuel = AuraIconData('assets/vectors/line_duotone/fuel.vec', accentAssetPath: 'assets/vectors/line_duotone/fuel-accent.vec');
   static const AuraIconData fullScreen = AuraIconData('assets/vectors/line_duotone/full-screen.vec', accentAssetPath: 'assets/vectors/line_duotone/full-screen-accent.vec', accentBehindMain: true);
@@ -461,7 +573,7 @@ class AuraIconsLineDuotone {
   static const AuraIconData galleryRemove = AuraIconData('assets/vectors/line_duotone/gallery-remove.vec', accentAssetPath: 'assets/vectors/line_duotone/gallery-remove-accent.vec');
   static const AuraIconData galleryRound = AuraIconData('assets/vectors/line_duotone/gallery-round.vec', accentAssetPath: 'assets/vectors/line_duotone/gallery-round-accent.vec');
   static const AuraIconData gallerySend = AuraIconData('assets/vectors/line_duotone/gallery-send.vec', accentAssetPath: 'assets/vectors/line_duotone/gallery-send-accent.vec');
-  static const AuraIconData galleryWide = AuraIconData('assets/vectors/line_duotone/gallery-wide.vec', accentAssetPath: 'assets/vectors/line_duotone/gallery-wide-accent.vec');
+  static const AuraIconData galleryWide = AuraIconData('assets/vectors/line_duotone/gallery-wide.vec', accentAssetPath: 'assets/vectors/line_duotone/gallery-wide-accent.vec', accentBehindMain: true);
   static const AuraIconData gameboy = AuraIconData('assets/vectors/line_duotone/gameboy.vec', accentAssetPath: 'assets/vectors/line_duotone/gameboy-accent.vec');
   static const AuraIconData gamepad = AuraIconData('assets/vectors/line_duotone/gamepad.vec', accentAssetPath: 'assets/vectors/line_duotone/gamepad-accent.vec');
   static const AuraIconData gamepadCharge = AuraIconData('assets/vectors/line_duotone/gamepad-charge.vec', accentAssetPath: 'assets/vectors/line_duotone/gamepad-charge-accent.vec');
@@ -473,6 +585,12 @@ class AuraIconsLineDuotone {
   static const AuraIconData ghost = AuraIconData('assets/vectors/line_duotone/ghost.vec', accentAssetPath: 'assets/vectors/line_duotone/ghost-accent.vec', accentBehindMain: true);
   static const AuraIconData ghostSmile = AuraIconData('assets/vectors/line_duotone/ghost-smile.vec', accentAssetPath: 'assets/vectors/line_duotone/ghost-smile-accent.vec');
   static const AuraIconData gift = AuraIconData('assets/vectors/line_duotone/gift.vec', accentAssetPath: 'assets/vectors/line_duotone/gift-accent.vec', accentBehindMain: true);
+  static const AuraIconData gitBranch = AuraIconData('assets/vectors/line_duotone/git-branch.vec', accentAssetPath: 'assets/vectors/line_duotone/git-branch-accent.vec', accentBehindMain: true);
+  static const AuraIconData gitCommit = AuraIconData('assets/vectors/line_duotone/git-commit.vec', accentAssetPath: 'assets/vectors/line_duotone/git-commit-accent.vec', accentBehindMain: true);
+  static const AuraIconData gitDiff = AuraIconData('assets/vectors/line_duotone/git-diff.vec', accentAssetPath: 'assets/vectors/line_duotone/git-diff-accent.vec', accentBehindMain: true);
+  static const AuraIconData gitFork = AuraIconData('assets/vectors/line_duotone/git-fork.vec', accentAssetPath: 'assets/vectors/line_duotone/git-fork-accent.vec', accentBehindMain: true);
+  static const AuraIconData gitGraph = AuraIconData('assets/vectors/line_duotone/git-graph.vec', accentAssetPath: 'assets/vectors/line_duotone/git-graph-accent.vec', accentBehindMain: true);
+  static const AuraIconData gitPullRequest = AuraIconData('assets/vectors/line_duotone/git-pull-request.vec', accentAssetPath: 'assets/vectors/line_duotone/git-pull-request-accent.vec');
   static const AuraIconData glasses = AuraIconData('assets/vectors/line_duotone/glasses.vec', accentAssetPath: 'assets/vectors/line_duotone/glasses-accent.vec');
   static const AuraIconData global = AuraIconData('assets/vectors/line_duotone/global.vec', accentAssetPath: 'assets/vectors/line_duotone/global-accent.vec', accentBehindMain: true);
   static const AuraIconData globe = AuraIconData('assets/vectors/line_duotone/globe.vec', accentAssetPath: 'assets/vectors/line_duotone/globe-accent.vec', accentBehindMain: true);
@@ -484,13 +602,22 @@ class AuraIconsLineDuotone {
   static const AuraIconData graphNew = AuraIconData('assets/vectors/line_duotone/graph-new.vec', accentAssetPath: 'assets/vectors/line_duotone/graph-new-accent.vec', accentBehindMain: true);
   static const AuraIconData graphNewUp = AuraIconData('assets/vectors/line_duotone/graph-new-up.vec', accentAssetPath: 'assets/vectors/line_duotone/graph-new-up-accent.vec', accentBehindMain: true);
   static const AuraIconData graphUp = AuraIconData('assets/vectors/line_duotone/graph-up.vec', accentAssetPath: 'assets/vectors/line_duotone/graph-up-accent.vec', accentBehindMain: true);
+  static const AuraIconData grid2x2 = AuraIconData('assets/vectors/line_duotone/grid-2x2.vec', accentAssetPath: 'assets/vectors/line_duotone/grid-2x2-accent.vec');
+  static const AuraIconData grid2x2Add = AuraIconData('assets/vectors/line_duotone/grid-2x2-add.vec', accentAssetPath: 'assets/vectors/line_duotone/grid-2x2-add-accent.vec');
+  static const AuraIconData grid2x2Check = AuraIconData('assets/vectors/line_duotone/grid-2x2-check.vec', accentAssetPath: 'assets/vectors/line_duotone/grid-2x2-check-accent.vec');
+  static const AuraIconData grid2x2Close = AuraIconData('assets/vectors/line_duotone/grid-2x2-close.vec', accentAssetPath: 'assets/vectors/line_duotone/grid-2x2-close-accent.vec');
+  static const AuraIconData grid3x2 = AuraIconData('assets/vectors/line_duotone/grid-3x2.vec', accentAssetPath: 'assets/vectors/line_duotone/grid-3x2-accent.vec');
+  static const AuraIconData grid3x3 = AuraIconData('assets/vectors/line_duotone/grid-3x3.vec', accentAssetPath: 'assets/vectors/line_duotone/grid-3x3-accent.vec');
+  static const AuraIconData grip = AuraIconData('assets/vectors/line_duotone/grip.vec', accentAssetPath: 'assets/vectors/line_duotone/grip-accent.vec');
+  static const AuraIconData gripHorizontal = AuraIconData('assets/vectors/line_duotone/grip-horizontal.vec', accentAssetPath: 'assets/vectors/line_duotone/grip-horizontal-accent.vec');
+  static const AuraIconData gripVertical = AuraIconData('assets/vectors/line_duotone/grip-vertical.vec', accentAssetPath: 'assets/vectors/line_duotone/grip-vertical-accent.vec');
   static const AuraIconData hamburgerMenu = AuraIconData('assets/vectors/line_duotone/hamburger-menu.vec', accentAssetPath: 'assets/vectors/line_duotone/hamburger-menu-accent.vec');
   static const AuraIconData handHeart = AuraIconData('assets/vectors/line_duotone/hand-heart.vec', accentAssetPath: 'assets/vectors/line_duotone/hand-heart-accent.vec');
   static const AuraIconData handMoney = AuraIconData('assets/vectors/line_duotone/hand-money.vec', accentAssetPath: 'assets/vectors/line_duotone/hand-money-accent.vec');
   static const AuraIconData handPills = AuraIconData('assets/vectors/line_duotone/hand-pills.vec', accentAssetPath: 'assets/vectors/line_duotone/hand-pills-accent.vec');
   static const AuraIconData handShake = AuraIconData('assets/vectors/line_duotone/hand-shake.vec', accentAssetPath: 'assets/vectors/line_duotone/hand-shake-accent.vec', accentBehindMain: true);
   static const AuraIconData handStars = AuraIconData('assets/vectors/line_duotone/hand-stars.vec', accentAssetPath: 'assets/vectors/line_duotone/hand-stars-accent.vec');
-  static const AuraIconData hanger = AuraIconData('assets/vectors/line_duotone/hanger.vec');
+  static const AuraIconData hanger = AuraIconData('assets/vectors/line_duotone/hanger.vec', accentAssetPath: 'assets/vectors/line_duotone/hanger-accent.vec');
   static const AuraIconData hanger2 = AuraIconData('assets/vectors/line_duotone/hanger-2.vec', accentAssetPath: 'assets/vectors/line_duotone/hanger-2-accent.vec', accentBehindMain: true);
   static const AuraIconData hashtag = AuraIconData('assets/vectors/line_duotone/hashtag.vec', accentAssetPath: 'assets/vectors/line_duotone/hashtag-accent.vec');
   static const AuraIconData hashtagChat = AuraIconData('assets/vectors/line_duotone/hashtag-chat.vec', accentAssetPath: 'assets/vectors/line_duotone/hashtag-chat-accent.vec');
@@ -510,7 +637,7 @@ class AuraIconsLineDuotone {
   static const AuraIconData heartShine = AuraIconData('assets/vectors/line_duotone/heart-shine.vec', accentAssetPath: 'assets/vectors/line_duotone/heart-shine-accent.vec', accentBehindMain: true);
   static const AuraIconData heartUnlock = AuraIconData('assets/vectors/line_duotone/heart-unlock.vec', accentAssetPath: 'assets/vectors/line_duotone/heart-unlock-accent.vec', accentBehindMain: true);
   static const AuraIconData hearts = AuraIconData('assets/vectors/line_duotone/hearts.vec', accentAssetPath: 'assets/vectors/line_duotone/hearts-accent.vec');
-  static const AuraIconData help = AuraIconData('assets/vectors/line_duotone/help.vec', accentAssetPath: 'assets/vectors/line_duotone/help-accent.vec');
+  static const AuraIconData help = AuraIconData('assets/vectors/line_duotone/help.vec', accentAssetPath: 'assets/vectors/line_duotone/help-accent.vec', accentBehindMain: true);
   static const AuraIconData highDefinition = AuraIconData('assets/vectors/line_duotone/high-definition.vec', accentAssetPath: 'assets/vectors/line_duotone/high-definition-accent.vec', accentBehindMain: true);
   static const AuraIconData highQuality = AuraIconData('assets/vectors/line_duotone/high-quality.vec', accentAssetPath: 'assets/vectors/line_duotone/high-quality-accent.vec', accentBehindMain: true);
   static const AuraIconData hiking = AuraIconData('assets/vectors/line_duotone/hiking.vec', accentAssetPath: 'assets/vectors/line_duotone/hiking-accent.vec');
@@ -543,12 +670,14 @@ class AuraIconsLineDuotone {
   static const AuraIconData inboxUnread = AuraIconData('assets/vectors/line_duotone/inbox-unread.vec', accentAssetPath: 'assets/vectors/line_duotone/inbox-unread-accent.vec');
   static const AuraIconData incognito = AuraIconData('assets/vectors/line_duotone/incognito.vec', accentAssetPath: 'assets/vectors/line_duotone/incognito-accent.vec');
   static const AuraIconData incomingCall = AuraIconData('assets/vectors/line_duotone/incoming-call.vec', accentAssetPath: 'assets/vectors/line_duotone/incoming-call-accent.vec');
-  static const AuraIconData incomingCallRounded = AuraIconData('assets/vectors/line_duotone/incoming-call-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/incoming-call-rounded-accent.vec');
-  static const AuraIconData infinite = AuraIconData('assets/vectors/line_duotone/infinite.vec');
+  static const AuraIconData incomingCallRounded = AuraIconData('assets/vectors/line_duotone/incoming-call-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/incoming-call-rounded-accent.vec', accentBehindMain: true);
+  static const AuraIconData infinite = AuraIconData('assets/vectors/line_duotone/infinite.vec', accentAssetPath: 'assets/vectors/line_duotone/infinite-accent.vec', accentBehindMain: true);
   static const AuraIconData infoCircle = AuraIconData('assets/vectors/line_duotone/info-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/info-circle-accent.vec', accentBehindMain: true);
   static const AuraIconData infoSquare = AuraIconData('assets/vectors/line_duotone/info-square.vec', accentAssetPath: 'assets/vectors/line_duotone/info-square-accent.vec');
   static const AuraIconData jarOfPills = AuraIconData('assets/vectors/line_duotone/jar-of-pills.vec', accentAssetPath: 'assets/vectors/line_duotone/jar-of-pills-accent.vec');
   static const AuraIconData jarOfPills2 = AuraIconData('assets/vectors/line_duotone/jar-of-pills-2.vec', accentAssetPath: 'assets/vectors/line_duotone/jar-of-pills-2-accent.vec');
+  static const AuraIconData kanban = AuraIconData('assets/vectors/line_duotone/kanban.vec', accentAssetPath: 'assets/vectors/line_duotone/kanban-accent.vec', accentBehindMain: true);
+  static const AuraIconData kanbanSquare = AuraIconData('assets/vectors/line_duotone/kanban-square.vec', accentAssetPath: 'assets/vectors/line_duotone/kanban-square-accent.vec', accentBehindMain: true);
   static const AuraIconData key = AuraIconData('assets/vectors/line_duotone/key.vec', accentAssetPath: 'assets/vectors/line_duotone/key-accent.vec');
   static const AuraIconData keyMinimalistic = AuraIconData('assets/vectors/line_duotone/key-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/key-minimalistic-accent.vec');
   static const AuraIconData keyMinimalistic2 = AuraIconData('assets/vectors/line_duotone/key-minimalistic-2.vec', accentAssetPath: 'assets/vectors/line_duotone/key-minimalistic-2-accent.vec');
@@ -567,6 +696,8 @@ class AuraIconsLineDuotone {
   static const AuraIconData laptopMinimalistic = AuraIconData('assets/vectors/line_duotone/laptop-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/laptop-minimalistic-accent.vec');
   static const AuraIconData layers = AuraIconData('assets/vectors/line_duotone/layers.vec', accentAssetPath: 'assets/vectors/line_duotone/layers-accent.vec');
   static const AuraIconData layersMinimalistic = AuraIconData('assets/vectors/line_duotone/layers-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/layers-minimalistic-accent.vec');
+  static const AuraIconData layoutFreeform = AuraIconData('assets/vectors/line_duotone/layout-freeform.vec', accentAssetPath: 'assets/vectors/line_duotone/layout-freeform-accent.vec');
+  static const AuraIconData layoutList = AuraIconData('assets/vectors/line_duotone/layout-list.vec', accentAssetPath: 'assets/vectors/line_duotone/layout-list-accent.vec');
   static const AuraIconData leaf = AuraIconData('assets/vectors/line_duotone/leaf.vec', accentAssetPath: 'assets/vectors/line_duotone/leaf-accent.vec', accentBehindMain: true);
   static const AuraIconData letter = AuraIconData('assets/vectors/line_duotone/letter.vec', accentAssetPath: 'assets/vectors/line_duotone/letter-accent.vec', accentBehindMain: true);
   static const AuraIconData letterOpened = AuraIconData('assets/vectors/line_duotone/letter-opened.vec', accentAssetPath: 'assets/vectors/line_duotone/letter-opened-accent.vec', accentBehindMain: true);
@@ -591,15 +722,24 @@ class AuraIconsLineDuotone {
   static const AuraIconData listArrowUpMinimalistic = AuraIconData('assets/vectors/line_duotone/list-arrow-up-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/list-arrow-up-minimalistic-accent.vec', accentBehindMain: true);
   static const AuraIconData listCheck = AuraIconData('assets/vectors/line_duotone/list-check.vec', accentAssetPath: 'assets/vectors/line_duotone/list-check-accent.vec');
   static const AuraIconData listCheckMinimalistic = AuraIconData('assets/vectors/line_duotone/list-check-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/list-check-minimalistic-accent.vec', accentBehindMain: true);
+  static const AuraIconData listCollapse = AuraIconData('assets/vectors/line_duotone/list-collapse.vec', accentAssetPath: 'assets/vectors/line_duotone/list-collapse-accent.vec', accentBehindMain: true);
+  static const AuraIconData listCollapseMinimalistic = AuraIconData('assets/vectors/line_duotone/list-collapse-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/list-collapse-minimalistic-accent.vec', accentBehindMain: true);
   static const AuraIconData listCross = AuraIconData('assets/vectors/line_duotone/list-cross.vec', accentAssetPath: 'assets/vectors/line_duotone/list-cross-accent.vec');
   static const AuraIconData listCrossMinimalistic = AuraIconData('assets/vectors/line_duotone/list-cross-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/list-cross-minimalistic-accent.vec', accentBehindMain: true);
   static const AuraIconData listDown = AuraIconData('assets/vectors/line_duotone/list-down.vec', accentAssetPath: 'assets/vectors/line_duotone/list-down-accent.vec', accentBehindMain: true);
   static const AuraIconData listDownMinimalistic = AuraIconData('assets/vectors/line_duotone/list-down-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/list-down-minimalistic-accent.vec', accentBehindMain: true);
   static const AuraIconData listHeart = AuraIconData('assets/vectors/line_duotone/list-heart.vec', accentAssetPath: 'assets/vectors/line_duotone/list-heart-accent.vec');
   static const AuraIconData listHeartMinimalistic = AuraIconData('assets/vectors/line_duotone/list-heart-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/list-heart-minimalistic-accent.vec', accentBehindMain: true);
+  static const AuraIconData listMinus = AuraIconData('assets/vectors/line_duotone/list-minus.vec', accentAssetPath: 'assets/vectors/line_duotone/list-minus-accent.vec', accentBehindMain: true);
+  static const AuraIconData listMinusMinimalistic = AuraIconData('assets/vectors/line_duotone/list-minus-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/list-minus-minimalistic-accent.vec', accentBehindMain: true);
+  static const AuraIconData listOrdered = AuraIconData('assets/vectors/line_duotone/list-ordered.vec', accentAssetPath: 'assets/vectors/line_duotone/list-ordered-accent.vec', accentBehindMain: true);
+  static const AuraIconData listOrderedMinimalistic = AuraIconData('assets/vectors/line_duotone/list-ordered-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/list-ordered-minimalistic-accent.vec', accentBehindMain: true);
+  static const AuraIconData listPlus = AuraIconData('assets/vectors/line_duotone/list-plus.vec', accentAssetPath: 'assets/vectors/line_duotone/list-plus-accent.vec', accentBehindMain: true);
+  static const AuraIconData listPlusMinimalistic = AuraIconData('assets/vectors/line_duotone/list-plus-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/list-plus-minimalistic-accent.vec', accentBehindMain: true);
   static const AuraIconData listUp = AuraIconData('assets/vectors/line_duotone/list-up.vec', accentAssetPath: 'assets/vectors/line_duotone/list-up-accent.vec');
   static const AuraIconData listUpMinimalistic = AuraIconData('assets/vectors/line_duotone/list-up-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/list-up-minimalistic-accent.vec', accentBehindMain: true);
   static const AuraIconData listVertical = AuraIconData('assets/vectors/line_duotone/list-vertical.vec', accentAssetPath: 'assets/vectors/line_duotone/list-vertical-accent.vec', accentBehindMain: true);
+  static const AuraIconData loader = AuraIconData('assets/vectors/line_duotone/loader.vec', accentAssetPath: 'assets/vectors/line_duotone/loader-accent.vec', accentBehindMain: true);
   static const AuraIconData lock = AuraIconData('assets/vectors/line_duotone/lock.vec', accentAssetPath: 'assets/vectors/line_duotone/lock-accent.vec');
   static const AuraIconData lockKeyhole = AuraIconData('assets/vectors/line_duotone/lock-keyhole.vec', accentAssetPath: 'assets/vectors/line_duotone/lock-keyhole-accent.vec');
   static const AuraIconData lockKeyholeMinimalistic = AuraIconData('assets/vectors/line_duotone/lock-keyhole-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/lock-keyhole-minimalistic-accent.vec');
@@ -610,10 +750,10 @@ class AuraIconsLineDuotone {
   static const AuraIconData lockUnlocked = AuraIconData('assets/vectors/line_duotone/lock-unlocked.vec', accentAssetPath: 'assets/vectors/line_duotone/lock-unlocked-accent.vec');
   static const AuraIconData login = AuraIconData('assets/vectors/line_duotone/login.vec', accentAssetPath: 'assets/vectors/line_duotone/login-accent.vec', accentBehindMain: true);
   static const AuraIconData login2 = AuraIconData('assets/vectors/line_duotone/login-2.vec', accentAssetPath: 'assets/vectors/line_duotone/login-2-accent.vec');
-  static const AuraIconData login3 = AuraIconData('assets/vectors/line_duotone/login-3.vec', accentAssetPath: 'assets/vectors/line_duotone/login-3-accent.vec');
+  static const AuraIconData login3 = AuraIconData('assets/vectors/line_duotone/login-3.vec', accentAssetPath: 'assets/vectors/line_duotone/login-3-accent.vec', accentBehindMain: true);
   static const AuraIconData logout = AuraIconData('assets/vectors/line_duotone/logout.vec', accentAssetPath: 'assets/vectors/line_duotone/logout-accent.vec', accentBehindMain: true);
   static const AuraIconData logout2 = AuraIconData('assets/vectors/line_duotone/logout-2.vec', accentAssetPath: 'assets/vectors/line_duotone/logout-2-accent.vec', accentBehindMain: true);
-  static const AuraIconData logout3 = AuraIconData('assets/vectors/line_duotone/logout-3.vec', accentAssetPath: 'assets/vectors/line_duotone/logout-3-accent.vec');
+  static const AuraIconData logout3 = AuraIconData('assets/vectors/line_duotone/logout-3.vec', accentAssetPath: 'assets/vectors/line_duotone/logout-3-accent.vec', accentBehindMain: true);
   static const AuraIconData magicWand = AuraIconData('assets/vectors/line_duotone/magic-wand.vec', accentAssetPath: 'assets/vectors/line_duotone/magic-wand-accent.vec');
   static const AuraIconData magicWand2 = AuraIconData('assets/vectors/line_duotone/magic-wand-2.vec', accentAssetPath: 'assets/vectors/line_duotone/magic-wand-2-accent.vec');
   static const AuraIconData magicWand3 = AuraIconData('assets/vectors/line_duotone/magic-wand-3.vec', accentAssetPath: 'assets/vectors/line_duotone/magic-wand-3-accent.vec');
@@ -621,7 +761,10 @@ class AuraIconsLineDuotone {
   static const AuraIconData magnetWave = AuraIconData('assets/vectors/line_duotone/magnet-wave.vec', accentAssetPath: 'assets/vectors/line_duotone/magnet-wave-accent.vec');
   static const AuraIconData magnifier = AuraIconData('assets/vectors/line_duotone/magnifier.vec', accentAssetPath: 'assets/vectors/line_duotone/magnifier-accent.vec', accentBehindMain: true);
   static const AuraIconData magnifierBug = AuraIconData('assets/vectors/line_duotone/magnifier-bug.vec', accentAssetPath: 'assets/vectors/line_duotone/magnifier-bug-accent.vec', accentBehindMain: true);
-  static const AuraIconData magnifierZoomIn = AuraIconData('assets/vectors/line_duotone/magnifier-zoom-in.vec', accentAssetPath: 'assets/vectors/line_duotone/magnifier-zoom-in-accent.vec', accentBehindMain: true);
+  static const AuraIconData magnifierCheck = AuraIconData('assets/vectors/line_duotone/magnifier-check.vec', accentAssetPath: 'assets/vectors/line_duotone/magnifier-check-accent.vec', accentBehindMain: true);
+  static const AuraIconData magnifierClose = AuraIconData('assets/vectors/line_duotone/magnifier-close.vec', accentAssetPath: 'assets/vectors/line_duotone/magnifier-close-accent.vec', accentBehindMain: true);
+  static const AuraIconData magnifierSlash = AuraIconData('assets/vectors/line_duotone/magnifier-slash.vec', accentAssetPath: 'assets/vectors/line_duotone/magnifier-slash-accent.vec', accentBehindMain: true);
+  static const AuraIconData magnifierZoomIn = AuraIconData('assets/vectors/line_duotone/magnifier-zoom-in.vec', accentAssetPath: 'assets/vectors/line_duotone/magnifier-zoom-in-accent.vec');
   static const AuraIconData magnifierZoomOut = AuraIconData('assets/vectors/line_duotone/magnifier-zoom-out.vec', accentAssetPath: 'assets/vectors/line_duotone/magnifier-zoom-out-accent.vec', accentBehindMain: true);
   static const AuraIconData mailbox = AuraIconData('assets/vectors/line_duotone/mailbox.vec', accentAssetPath: 'assets/vectors/line_duotone/mailbox-accent.vec', accentBehindMain: true);
   static const AuraIconData map = AuraIconData('assets/vectors/line_duotone/map.vec', accentAssetPath: 'assets/vectors/line_duotone/map-accent.vec');
@@ -641,7 +784,7 @@ class AuraIconsLineDuotone {
   static const AuraIconData mapPointWave = AuraIconData('assets/vectors/line_duotone/map-point-wave.vec', accentAssetPath: 'assets/vectors/line_duotone/map-point-wave-accent.vec', accentBehindMain: true);
   static const AuraIconData maskHappy = AuraIconData('assets/vectors/line_duotone/mask-happy.vec', accentAssetPath: 'assets/vectors/line_duotone/mask-happy-accent.vec', accentBehindMain: true);
   static const AuraIconData maskSad = AuraIconData('assets/vectors/line_duotone/mask-sad.vec', accentAssetPath: 'assets/vectors/line_duotone/mask-sad-accent.vec', accentBehindMain: true);
-  static const AuraIconData masks = AuraIconData('assets/vectors/line_duotone/masks.vec', accentAssetPath: 'assets/vectors/line_duotone/masks-accent.vec');
+  static const AuraIconData masks = AuraIconData('assets/vectors/line_duotone/masks.vec', accentAssetPath: 'assets/vectors/line_duotone/masks-accent.vec', accentBehindMain: true);
   static const AuraIconData maximize = AuraIconData('assets/vectors/line_duotone/maximize.vec', accentAssetPath: 'assets/vectors/line_duotone/maximize-accent.vec', accentBehindMain: true);
   static const AuraIconData maximizeSquare = AuraIconData('assets/vectors/line_duotone/maximize-square.vec', accentAssetPath: 'assets/vectors/line_duotone/maximize-square-accent.vec');
   static const AuraIconData maximizeSquare2 = AuraIconData('assets/vectors/line_duotone/maximize-square-2.vec', accentAssetPath: 'assets/vectors/line_duotone/maximize-square-2-accent.vec');
@@ -662,12 +805,16 @@ class AuraIconsLineDuotone {
   static const AuraIconData menuDots = AuraIconData('assets/vectors/line_duotone/menu-dots.vec', accentAssetPath: 'assets/vectors/line_duotone/menu-dots-accent.vec');
   static const AuraIconData menuDotsCircle = AuraIconData('assets/vectors/line_duotone/menu-dots-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/menu-dots-circle-accent.vec', accentBehindMain: true);
   static const AuraIconData menuDotsSquare = AuraIconData('assets/vectors/line_duotone/menu-dots-square.vec', accentAssetPath: 'assets/vectors/line_duotone/menu-dots-square-accent.vec', accentBehindMain: true);
+  static const AuraIconData menuDotsVertical = AuraIconData('assets/vectors/line_duotone/menu-dots-vertical.vec', accentAssetPath: 'assets/vectors/line_duotone/menu-dots-vertical-accent.vec');
   static const AuraIconData microphone = AuraIconData('assets/vectors/line_duotone/microphone.vec', accentAssetPath: 'assets/vectors/line_duotone/microphone-accent.vec');
   static const AuraIconData microphone2 = AuraIconData('assets/vectors/line_duotone/microphone-2.vec', accentAssetPath: 'assets/vectors/line_duotone/microphone-2-accent.vec');
   static const AuraIconData microphone3 = AuraIconData('assets/vectors/line_duotone/microphone-3.vec', accentAssetPath: 'assets/vectors/line_duotone/microphone-3-accent.vec');
   static const AuraIconData microphoneLarge = AuraIconData('assets/vectors/line_duotone/microphone-large.vec', accentAssetPath: 'assets/vectors/line_duotone/microphone-large-accent.vec');
   static const AuraIconData minimalisticMagnifier = AuraIconData('assets/vectors/line_duotone/minimalistic-magnifier.vec', accentAssetPath: 'assets/vectors/line_duotone/minimalistic-magnifier-accent.vec', accentBehindMain: true);
   static const AuraIconData minimalisticMagnifierBug = AuraIconData('assets/vectors/line_duotone/minimalistic-magnifier-bug.vec', accentAssetPath: 'assets/vectors/line_duotone/minimalistic-magnifier-bug-accent.vec', accentBehindMain: true);
+  static const AuraIconData minimalisticMagnifierCheck = AuraIconData('assets/vectors/line_duotone/minimalistic-magnifier-check.vec', accentAssetPath: 'assets/vectors/line_duotone/minimalistic-magnifier-check-accent.vec', accentBehindMain: true);
+  static const AuraIconData minimalisticMagnifierClose = AuraIconData('assets/vectors/line_duotone/minimalistic-magnifier-close.vec', accentAssetPath: 'assets/vectors/line_duotone/minimalistic-magnifier-close-accent.vec', accentBehindMain: true);
+  static const AuraIconData minimalisticMagnifierSlash = AuraIconData('assets/vectors/line_duotone/minimalistic-magnifier-slash.vec', accentAssetPath: 'assets/vectors/line_duotone/minimalistic-magnifier-slash-accent.vec', accentBehindMain: true);
   static const AuraIconData minimalisticMagnifierZoomIn = AuraIconData('assets/vectors/line_duotone/minimalistic-magnifier-zoom-in.vec', accentAssetPath: 'assets/vectors/line_duotone/minimalistic-magnifier-zoom-in-accent.vec', accentBehindMain: true);
   static const AuraIconData minimalisticMagnifierZoomOut = AuraIconData('assets/vectors/line_duotone/minimalistic-magnifier-zoom-out.vec', accentAssetPath: 'assets/vectors/line_duotone/minimalistic-magnifier-zoom-out-accent.vec', accentBehindMain: true);
   static const AuraIconData minimize = AuraIconData('assets/vectors/line_duotone/minimize.vec', accentAssetPath: 'assets/vectors/line_duotone/minimize-accent.vec', accentBehindMain: true);
@@ -675,6 +822,7 @@ class AuraIconsLineDuotone {
   static const AuraIconData minimizeSquare2 = AuraIconData('assets/vectors/line_duotone/minimize-square-2.vec', accentAssetPath: 'assets/vectors/line_duotone/minimize-square-2-accent.vec');
   static const AuraIconData minimizeSquare3 = AuraIconData('assets/vectors/line_duotone/minimize-square-3.vec', accentAssetPath: 'assets/vectors/line_duotone/minimize-square-3-accent.vec', accentBehindMain: true);
   static const AuraIconData minimizeSquareMinimalistic = AuraIconData('assets/vectors/line_duotone/minimize-square-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/minimize-square-minimalistic-accent.vec', accentBehindMain: true);
+  static const AuraIconData minus = AuraIconData('assets/vectors/line_duotone/minus.vec', accentAssetPath: 'assets/vectors/line_duotone/minus-accent.vec');
   static const AuraIconData minusCircle = AuraIconData('assets/vectors/line_duotone/minus-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/minus-circle-accent.vec', accentBehindMain: true);
   static const AuraIconData minusSquare = AuraIconData('assets/vectors/line_duotone/minus-square.vec', accentAssetPath: 'assets/vectors/line_duotone/minus-square-accent.vec', accentBehindMain: true);
   static const AuraIconData mirror = AuraIconData('assets/vectors/line_duotone/mirror.vec', accentAssetPath: 'assets/vectors/line_duotone/mirror-accent.vec');
@@ -686,15 +834,21 @@ class AuraIconsLineDuotone {
   static const AuraIconData monitor = AuraIconData('assets/vectors/line_duotone/monitor.vec', accentAssetPath: 'assets/vectors/line_duotone/monitor-accent.vec');
   static const AuraIconData monitorCamera = AuraIconData('assets/vectors/line_duotone/monitor-camera.vec', accentAssetPath: 'assets/vectors/line_duotone/monitor-camera-accent.vec');
   static const AuraIconData monitorSmartphone = AuraIconData('assets/vectors/line_duotone/monitor-smartphone.vec', accentAssetPath: 'assets/vectors/line_duotone/monitor-smartphone-accent.vec');
-  static const AuraIconData moon = AuraIconData('assets/vectors/line_duotone/moon.vec');
+  static const AuraIconData moon = AuraIconData('assets/vectors/line_duotone/moon.vec', accentAssetPath: 'assets/vectors/line_duotone/moon-accent.vec', accentBehindMain: true);
   static const AuraIconData moonFog = AuraIconData('assets/vectors/line_duotone/moon-fog.vec', accentAssetPath: 'assets/vectors/line_duotone/moon-fog-accent.vec');
   static const AuraIconData moonSleep = AuraIconData('assets/vectors/line_duotone/moon-sleep.vec', accentAssetPath: 'assets/vectors/line_duotone/moon-sleep-accent.vec');
   static const AuraIconData moonStars = AuraIconData('assets/vectors/line_duotone/moon-stars.vec', accentAssetPath: 'assets/vectors/line_duotone/moon-stars-accent.vec');
   static const AuraIconData mouse = AuraIconData('assets/vectors/line_duotone/mouse.vec', accentAssetPath: 'assets/vectors/line_duotone/mouse-accent.vec');
   static const AuraIconData mouseCircle = AuraIconData('assets/vectors/line_duotone/mouse-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/mouse-circle-accent.vec');
   static const AuraIconData mouseMinimalistic = AuraIconData('assets/vectors/line_duotone/mouse-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/mouse-minimalistic-accent.vec');
+  static const AuraIconData move = AuraIconData('assets/vectors/line_duotone/move.vec', accentAssetPath: 'assets/vectors/line_duotone/move-accent.vec', accentBehindMain: true);
+  static const AuraIconData move3d = AuraIconData('assets/vectors/line_duotone/move-3d.vec', accentAssetPath: 'assets/vectors/line_duotone/move-3d-accent.vec');
+  static const AuraIconData moveCircle = AuraIconData('assets/vectors/line_duotone/move-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/move-circle-accent.vec', accentBehindMain: true);
+  static const AuraIconData moveHorizontal = AuraIconData('assets/vectors/line_duotone/move-horizontal.vec', accentAssetPath: 'assets/vectors/line_duotone/move-horizontal-accent.vec', accentBehindMain: true);
+  static const AuraIconData moveSquare = AuraIconData('assets/vectors/line_duotone/move-square.vec', accentAssetPath: 'assets/vectors/line_duotone/move-square-accent.vec');
   static const AuraIconData moveToFolder = AuraIconData('assets/vectors/line_duotone/move-to-folder.vec', accentAssetPath: 'assets/vectors/line_duotone/move-to-folder-accent.vec', accentBehindMain: true);
-  static const AuraIconData mug = AuraIconData('assets/vectors/line_duotone/mug.vec', accentAssetPath: 'assets/vectors/line_duotone/mug-accent.vec');
+  static const AuraIconData moveVertical = AuraIconData('assets/vectors/line_duotone/move-vertical.vec', accentAssetPath: 'assets/vectors/line_duotone/move-vertical-accent.vec', accentBehindMain: true);
+  static const AuraIconData mug = AuraIconData('assets/vectors/line_duotone/mug.vec', accentAssetPath: 'assets/vectors/line_duotone/mug-accent.vec', accentBehindMain: true);
   static const AuraIconData multipleForwardLeft = AuraIconData('assets/vectors/line_duotone/multiple-forward-left.vec', accentAssetPath: 'assets/vectors/line_duotone/multiple-forward-left-accent.vec');
   static const AuraIconData multipleForwardRight = AuraIconData('assets/vectors/line_duotone/multiple-forward-right.vec', accentAssetPath: 'assets/vectors/line_duotone/multiple-forward-right-accent.vec');
   static const AuraIconData musicLibrary = AuraIconData('assets/vectors/line_duotone/music-library.vec', accentAssetPath: 'assets/vectors/line_duotone/music-library-accent.vec', accentBehindMain: true);
@@ -708,9 +862,9 @@ class AuraIconsLineDuotone {
   static const AuraIconData musicNotes = AuraIconData('assets/vectors/line_duotone/music-notes.vec', accentAssetPath: 'assets/vectors/line_duotone/music-notes-accent.vec');
   static const AuraIconData muted = AuraIconData('assets/vectors/line_duotone/muted.vec', accentAssetPath: 'assets/vectors/line_duotone/muted-accent.vec');
   static const AuraIconData notebook = AuraIconData('assets/vectors/line_duotone/notebook.vec', accentAssetPath: 'assets/vectors/line_duotone/notebook-accent.vec');
-  static const AuraIconData notebook2 = AuraIconData('assets/vectors/line_duotone/notebook-2.vec', accentAssetPath: 'assets/vectors/line_duotone/notebook-2-accent.vec');
-  static const AuraIconData notebookBookmark = AuraIconData('assets/vectors/line_duotone/notebook-bookmark.vec', accentAssetPath: 'assets/vectors/line_duotone/notebook-bookmark-accent.vec');
-  static const AuraIconData notebookMinimalistic = AuraIconData('assets/vectors/line_duotone/notebook-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/notebook-minimalistic-accent.vec');
+  static const AuraIconData notebook2 = AuraIconData('assets/vectors/line_duotone/notebook-2.vec', accentAssetPath: 'assets/vectors/line_duotone/notebook-2-accent.vec', accentBehindMain: true);
+  static const AuraIconData notebookBookmark = AuraIconData('assets/vectors/line_duotone/notebook-bookmark.vec', accentAssetPath: 'assets/vectors/line_duotone/notebook-bookmark-accent.vec', accentBehindMain: true);
+  static const AuraIconData notebookMinimalistic = AuraIconData('assets/vectors/line_duotone/notebook-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/notebook-minimalistic-accent.vec', accentBehindMain: true);
   static const AuraIconData notebookSquare = AuraIconData('assets/vectors/line_duotone/notebook-square.vec', accentAssetPath: 'assets/vectors/line_duotone/notebook-square-accent.vec');
   static const AuraIconData notes = AuraIconData('assets/vectors/line_duotone/notes.vec', accentAssetPath: 'assets/vectors/line_duotone/notes-accent.vec');
   static const AuraIconData notesMinimalistic = AuraIconData('assets/vectors/line_duotone/notes-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/notes-minimalistic-accent.vec');
@@ -720,20 +874,39 @@ class AuraIconsLineDuotone {
   static const AuraIconData notificationUnreadLines = AuraIconData('assets/vectors/line_duotone/notification-unread-lines.vec', accentAssetPath: 'assets/vectors/line_duotone/notification-unread-lines-accent.vec', accentBehindMain: true);
   static const AuraIconData objectScan = AuraIconData('assets/vectors/line_duotone/object-scan.vec', accentAssetPath: 'assets/vectors/line_duotone/object-scan-accent.vec', accentBehindMain: true);
   static const AuraIconData outgoingCall = AuraIconData('assets/vectors/line_duotone/outgoing-call.vec', accentAssetPath: 'assets/vectors/line_duotone/outgoing-call-accent.vec');
-  static const AuraIconData outgoingCallRounded = AuraIconData('assets/vectors/line_duotone/outgoing-call-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/outgoing-call-rounded-accent.vec');
-  static const AuraIconData ovenMitts = AuraIconData('assets/vectors/line_duotone/oven-mitts.vec', accentAssetPath: 'assets/vectors/line_duotone/oven-mitts-accent.vec');
+  static const AuraIconData outgoingCallRounded = AuraIconData('assets/vectors/line_duotone/outgoing-call-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/outgoing-call-rounded-accent.vec', accentBehindMain: true);
+  static const AuraIconData ovenMitts = AuraIconData('assets/vectors/line_duotone/oven-mitts.vec', accentAssetPath: 'assets/vectors/line_duotone/oven-mitts-accent.vec', accentBehindMain: true);
   static const AuraIconData ovenMittsMinimalistic = AuraIconData('assets/vectors/line_duotone/oven-mitts-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/oven-mitts-minimalistic-accent.vec');
+  static const AuraIconData paintBrush = AuraIconData('assets/vectors/line_duotone/paint-brush.vec', accentAssetPath: 'assets/vectors/line_duotone/paint-brush-accent.vec');
   static const AuraIconData paintRoller = AuraIconData('assets/vectors/line_duotone/paint-roller.vec', accentAssetPath: 'assets/vectors/line_duotone/paint-roller-accent.vec');
   static const AuraIconData palette = AuraIconData('assets/vectors/line_duotone/palette.vec', accentAssetPath: 'assets/vectors/line_duotone/palette-accent.vec');
   static const AuraIconData palette2 = AuraIconData('assets/vectors/line_duotone/palette-2.vec', accentAssetPath: 'assets/vectors/line_duotone/palette-2-accent.vec');
   static const AuraIconData paletteRound = AuraIconData('assets/vectors/line_duotone/palette-round.vec', accentAssetPath: 'assets/vectors/line_duotone/palette-round-accent.vec');
+  static const AuraIconData panelBottom = AuraIconData('assets/vectors/line_duotone/panel-bottom.vec', accentAssetPath: 'assets/vectors/line_duotone/panel-bottom-accent.vec');
+  static const AuraIconData panelBottomClose = AuraIconData('assets/vectors/line_duotone/panel-bottom-close.vec', accentAssetPath: 'assets/vectors/line_duotone/panel-bottom-close-accent.vec');
+  static const AuraIconData panelBottomOpen = AuraIconData('assets/vectors/line_duotone/panel-bottom-open.vec', accentAssetPath: 'assets/vectors/line_duotone/panel-bottom-open-accent.vec');
+  static const AuraIconData panelLeft = AuraIconData('assets/vectors/line_duotone/panel-left.vec', accentAssetPath: 'assets/vectors/line_duotone/panel-left-accent.vec');
+  static const AuraIconData panelLeftClose = AuraIconData('assets/vectors/line_duotone/panel-left-close.vec', accentAssetPath: 'assets/vectors/line_duotone/panel-left-close-accent.vec');
+  static const AuraIconData panelLeftOpen = AuraIconData('assets/vectors/line_duotone/panel-left-open.vec', accentAssetPath: 'assets/vectors/line_duotone/panel-left-open-accent.vec');
+  static const AuraIconData panelRight = AuraIconData('assets/vectors/line_duotone/panel-right.vec', accentAssetPath: 'assets/vectors/line_duotone/panel-right-accent.vec');
+  static const AuraIconData panelRightClose = AuraIconData('assets/vectors/line_duotone/panel-right-close.vec', accentAssetPath: 'assets/vectors/line_duotone/panel-right-close-accent.vec');
+  static const AuraIconData panelRightOpen = AuraIconData('assets/vectors/line_duotone/panel-right-open.vec', accentAssetPath: 'assets/vectors/line_duotone/panel-right-open-accent.vec');
+  static const AuraIconData panelTextRight = AuraIconData('assets/vectors/line_duotone/panel-text-right.vec', accentAssetPath: 'assets/vectors/line_duotone/panel-text-right-accent.vec');
+  static const AuraIconData panelTop = AuraIconData('assets/vectors/line_duotone/panel-top.vec', accentAssetPath: 'assets/vectors/line_duotone/panel-top-accent.vec');
+  static const AuraIconData panelTopClose = AuraIconData('assets/vectors/line_duotone/panel-top-close.vec', accentAssetPath: 'assets/vectors/line_duotone/panel-top-close-accent.vec');
+  static const AuraIconData panelTopOpen = AuraIconData('assets/vectors/line_duotone/panel-top-open.vec', accentAssetPath: 'assets/vectors/line_duotone/panel-top-open-accent.vec');
+  static const AuraIconData panelsBottomLeft = AuraIconData('assets/vectors/line_duotone/panels-bottom-left.vec', accentAssetPath: 'assets/vectors/line_duotone/panels-bottom-left-accent.vec');
+  static const AuraIconData panelsBottomRight = AuraIconData('assets/vectors/line_duotone/panels-bottom-right.vec', accentAssetPath: 'assets/vectors/line_duotone/panels-bottom-right-accent.vec', accentBehindMain: true);
+  static const AuraIconData panelsTopLeft = AuraIconData('assets/vectors/line_duotone/panels-top-left.vec', accentAssetPath: 'assets/vectors/line_duotone/panels-top-left-accent.vec');
+  static const AuraIconData panelsTopRight = AuraIconData('assets/vectors/line_duotone/panels-top-right.vec', accentAssetPath: 'assets/vectors/line_duotone/panels-top-right-accent.vec');
   static const AuraIconData panorama = AuraIconData('assets/vectors/line_duotone/panorama.vec', accentAssetPath: 'assets/vectors/line_duotone/panorama-accent.vec');
-  static const AuraIconData paperBin = AuraIconData('assets/vectors/line_duotone/paper-bin.vec', accentAssetPath: 'assets/vectors/line_duotone/paper-bin-accent.vec');
+  static const AuraIconData paperBin = AuraIconData('assets/vectors/line_duotone/paper-bin.vec', accentAssetPath: 'assets/vectors/line_duotone/paper-bin-accent.vec', accentBehindMain: true);
   static const AuraIconData paperclip = AuraIconData('assets/vectors/line_duotone/paperclip.vec', accentAssetPath: 'assets/vectors/line_duotone/paperclip-accent.vec');
   static const AuraIconData paperclip2 = AuraIconData('assets/vectors/line_duotone/paperclip-2.vec', accentAssetPath: 'assets/vectors/line_duotone/paperclip-2-accent.vec');
-  static const AuraIconData paperclipRounded = AuraIconData('assets/vectors/line_duotone/paperclip-rounded.vec');
-  static const AuraIconData paperclipRounded2 = AuraIconData('assets/vectors/line_duotone/paperclip-rounded-2.vec');
+  static const AuraIconData paperclipRounded = AuraIconData('assets/vectors/line_duotone/paperclip-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/paperclip-rounded-accent.vec', accentBehindMain: true);
+  static const AuraIconData paperclipRounded2 = AuraIconData('assets/vectors/line_duotone/paperclip-rounded-2.vec', accentAssetPath: 'assets/vectors/line_duotone/paperclip-rounded-2-accent.vec', accentBehindMain: true);
   static const AuraIconData paragraphSpacing = AuraIconData('assets/vectors/line_duotone/paragraph-spacing.vec', accentAssetPath: 'assets/vectors/line_duotone/paragraph-spacing-accent.vec', accentBehindMain: true);
+  static const AuraIconData parentheses = AuraIconData('assets/vectors/line_duotone/parentheses.vec', accentAssetPath: 'assets/vectors/line_duotone/parentheses-accent.vec', accentBehindMain: true);
   static const AuraIconData passport = AuraIconData('assets/vectors/line_duotone/passport.vec', accentAssetPath: 'assets/vectors/line_duotone/passport-accent.vec');
   static const AuraIconData passportMinimalistic = AuraIconData('assets/vectors/line_duotone/passport-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/passport-minimalistic-accent.vec');
   static const AuraIconData password = AuraIconData('assets/vectors/line_duotone/password.vec', accentAssetPath: 'assets/vectors/line_duotone/password-accent.vec', accentBehindMain: true);
@@ -747,11 +920,11 @@ class AuraIconsLineDuotone {
   static const AuraIconData penNewRound = AuraIconData('assets/vectors/line_duotone/pen-new-round.vec', accentAssetPath: 'assets/vectors/line_duotone/pen-new-round-accent.vec', accentBehindMain: true);
   static const AuraIconData penNewSquare = AuraIconData('assets/vectors/line_duotone/pen-new-square.vec', accentAssetPath: 'assets/vectors/line_duotone/pen-new-square-accent.vec', accentBehindMain: true);
   static const AuraIconData peopleNearby = AuraIconData('assets/vectors/line_duotone/people-nearby.vec', accentAssetPath: 'assets/vectors/line_duotone/people-nearby-accent.vec');
-  static const AuraIconData perfume = AuraIconData('assets/vectors/line_duotone/perfume.vec', accentAssetPath: 'assets/vectors/line_duotone/perfume-accent.vec');
+  static const AuraIconData perfume = AuraIconData('assets/vectors/line_duotone/perfume.vec', accentAssetPath: 'assets/vectors/line_duotone/perfume-accent.vec', accentBehindMain: true);
   static const AuraIconData phone = AuraIconData('assets/vectors/line_duotone/phone.vec', accentAssetPath: 'assets/vectors/line_duotone/phone-accent.vec');
   static const AuraIconData phoneCalling = AuraIconData('assets/vectors/line_duotone/phone-calling.vec', accentAssetPath: 'assets/vectors/line_duotone/phone-calling-accent.vec');
-  static const AuraIconData phoneCallingRounded = AuraIconData('assets/vectors/line_duotone/phone-calling-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/phone-calling-rounded-accent.vec');
-  static const AuraIconData phoneRounded = AuraIconData('assets/vectors/line_duotone/phone-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/phone-rounded-accent.vec');
+  static const AuraIconData phoneCallingRounded = AuraIconData('assets/vectors/line_duotone/phone-calling-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/phone-calling-rounded-accent.vec', accentBehindMain: true);
+  static const AuraIconData phoneRounded = AuraIconData('assets/vectors/line_duotone/phone-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/phone-rounded-accent.vec', accentBehindMain: true);
   static const AuraIconData pieChart = AuraIconData('assets/vectors/line_duotone/pie-chart.vec', accentAssetPath: 'assets/vectors/line_duotone/pie-chart-accent.vec', accentBehindMain: true);
   static const AuraIconData pieChart2 = AuraIconData('assets/vectors/line_duotone/pie-chart-2.vec', accentAssetPath: 'assets/vectors/line_duotone/pie-chart-2-accent.vec', accentBehindMain: true);
   static const AuraIconData pieChart3 = AuraIconData('assets/vectors/line_duotone/pie-chart-3.vec', accentAssetPath: 'assets/vectors/line_duotone/pie-chart-3-accent.vec');
@@ -771,9 +944,9 @@ class AuraIconsLineDuotone {
   static const AuraIconData planet = AuraIconData('assets/vectors/line_duotone/planet.vec', accentAssetPath: 'assets/vectors/line_duotone/planet-accent.vec');
   static const AuraIconData planet2 = AuraIconData('assets/vectors/line_duotone/planet-2.vec', accentAssetPath: 'assets/vectors/line_duotone/planet-2-accent.vec');
   static const AuraIconData planet3 = AuraIconData('assets/vectors/line_duotone/planet-3.vec', accentAssetPath: 'assets/vectors/line_duotone/planet-3-accent.vec', accentBehindMain: true);
-  static const AuraIconData planet4 = AuraIconData('assets/vectors/line_duotone/planet-4.vec', accentAssetPath: 'assets/vectors/line_duotone/planet-4-accent.vec');
+  static const AuraIconData planet4 = AuraIconData('assets/vectors/line_duotone/planet-4.vec', accentAssetPath: 'assets/vectors/line_duotone/planet-4-accent.vec', accentBehindMain: true);
   static const AuraIconData plate = AuraIconData('assets/vectors/line_duotone/plate.vec', accentAssetPath: 'assets/vectors/line_duotone/plate-accent.vec', accentBehindMain: true);
-  static const AuraIconData play = AuraIconData('assets/vectors/line_duotone/play.vec');
+  static const AuraIconData play = AuraIconData('assets/vectors/line_duotone/play.vec', accentAssetPath: 'assets/vectors/line_duotone/play-accent.vec', accentBehindMain: true);
   static const AuraIconData playCircle = AuraIconData('assets/vectors/line_duotone/play-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/play-circle-accent.vec', accentBehindMain: true);
   static const AuraIconData playStream = AuraIconData('assets/vectors/line_duotone/play-stream.vec', accentAssetPath: 'assets/vectors/line_duotone/play-stream-accent.vec', accentBehindMain: true);
   static const AuraIconData playbackSpeed = AuraIconData('assets/vectors/line_duotone/playback-speed.vec', accentAssetPath: 'assets/vectors/line_duotone/playback-speed-accent.vec');
@@ -791,21 +964,25 @@ class AuraIconsLineDuotone {
   static const AuraIconData postsCarouselVertical = AuraIconData('assets/vectors/line_duotone/posts-carousel-vertical.vec', accentAssetPath: 'assets/vectors/line_duotone/posts-carousel-vertical-accent.vec');
   static const AuraIconData power = AuraIconData('assets/vectors/line_duotone/power.vec', accentAssetPath: 'assets/vectors/line_duotone/power-accent.vec', accentBehindMain: true);
   static const AuraIconData presentationGraph = AuraIconData('assets/vectors/line_duotone/presentation-graph.vec', accentAssetPath: 'assets/vectors/line_duotone/presentation-graph-accent.vec');
-  static const AuraIconData printer = AuraIconData('assets/vectors/line_duotone/printer.vec', accentAssetPath: 'assets/vectors/line_duotone/printer-accent.vec');
-  static const AuraIconData printer2 = AuraIconData('assets/vectors/line_duotone/printer-2.vec', accentAssetPath: 'assets/vectors/line_duotone/printer-2-accent.vec');
+  static const AuraIconData printer = AuraIconData('assets/vectors/line_duotone/printer.vec', accentAssetPath: 'assets/vectors/line_duotone/printer-accent.vec', accentBehindMain: true);
+  static const AuraIconData printer2 = AuraIconData('assets/vectors/line_duotone/printer-2.vec', accentAssetPath: 'assets/vectors/line_duotone/printer-2-accent.vec', accentBehindMain: true);
   static const AuraIconData printerMinimalistic = AuraIconData('assets/vectors/line_duotone/printer-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/printer-minimalistic-accent.vec');
   static const AuraIconData programming = AuraIconData('assets/vectors/line_duotone/programming.vec', accentAssetPath: 'assets/vectors/line_duotone/programming-accent.vec', accentBehindMain: true);
-  static const AuraIconData projector = AuraIconData('assets/vectors/line_duotone/projector.vec', accentAssetPath: 'assets/vectors/line_duotone/projector-accent.vec');
+  static const AuraIconData projector = AuraIconData('assets/vectors/line_duotone/projector.vec', accentAssetPath: 'assets/vectors/line_duotone/projector-accent.vec', accentBehindMain: true);
   static const AuraIconData pulse = AuraIconData('assets/vectors/line_duotone/pulse.vec', accentAssetPath: 'assets/vectors/line_duotone/pulse-accent.vec');
   static const AuraIconData pulse2 = AuraIconData('assets/vectors/line_duotone/pulse-2.vec', accentAssetPath: 'assets/vectors/line_duotone/pulse-2-accent.vec');
   static const AuraIconData qrCode = AuraIconData('assets/vectors/line_duotone/qr-code.vec', accentAssetPath: 'assets/vectors/line_duotone/qr-code-accent.vec');
   static const AuraIconData questionCircle = AuraIconData('assets/vectors/line_duotone/question-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/question-circle-accent.vec', accentBehindMain: true);
+  static const AuraIconData questionMark = AuraIconData('assets/vectors/line_duotone/question-mark.vec', accentAssetPath: 'assets/vectors/line_duotone/question-mark-accent.vec', accentBehindMain: true);
   static const AuraIconData questionSquare = AuraIconData('assets/vectors/line_duotone/question-square.vec', accentAssetPath: 'assets/vectors/line_duotone/question-square-accent.vec', accentBehindMain: true);
   static const AuraIconData quitFullScreen = AuraIconData('assets/vectors/line_duotone/quit-full-screen.vec', accentAssetPath: 'assets/vectors/line_duotone/quit-full-screen-accent.vec');
   static const AuraIconData quitFullScreenCircle = AuraIconData('assets/vectors/line_duotone/quit-full-screen-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/quit-full-screen-circle-accent.vec');
   static const AuraIconData quitFullScreenSquare = AuraIconData('assets/vectors/line_duotone/quit-full-screen-square.vec', accentAssetPath: 'assets/vectors/line_duotone/quit-full-screen-square-accent.vec');
   static const AuraIconData quitPip = AuraIconData('assets/vectors/line_duotone/quit-pip.vec', accentAssetPath: 'assets/vectors/line_duotone/quit-pip-accent.vec', accentBehindMain: true);
-  static const AuraIconData radar = AuraIconData('assets/vectors/line_duotone/radar.vec');
+  static const AuraIconData quote = AuraIconData('assets/vectors/line_duotone/quote.vec', accentAssetPath: 'assets/vectors/line_duotone/quote-accent.vec', accentBehindMain: true);
+  static const AuraIconData quoteCircle = AuraIconData('assets/vectors/line_duotone/quote-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/quote-circle-accent.vec', accentBehindMain: true);
+  static const AuraIconData quoteSquare = AuraIconData('assets/vectors/line_duotone/quote-square.vec', accentAssetPath: 'assets/vectors/line_duotone/quote-square-accent.vec');
+  static const AuraIconData radar = AuraIconData('assets/vectors/line_duotone/radar.vec', accentAssetPath: 'assets/vectors/line_duotone/radar-accent.vec', accentBehindMain: true);
   static const AuraIconData radar2 = AuraIconData('assets/vectors/line_duotone/radar-2.vec', accentAssetPath: 'assets/vectors/line_duotone/radar-2-accent.vec');
   static const AuraIconData radialBlur = AuraIconData('assets/vectors/line_duotone/radial-blur.vec', accentAssetPath: 'assets/vectors/line_duotone/radial-blur-accent.vec', accentBehindMain: true);
   static const AuraIconData radio = AuraIconData('assets/vectors/line_duotone/radio.vec', accentAssetPath: 'assets/vectors/line_duotone/radio-accent.vec');
@@ -813,7 +990,7 @@ class AuraIconsLineDuotone {
   static const AuraIconData ranking = AuraIconData('assets/vectors/line_duotone/ranking.vec', accentAssetPath: 'assets/vectors/line_duotone/ranking-accent.vec');
   static const AuraIconData receiveSquare = AuraIconData('assets/vectors/line_duotone/receive-square.vec', accentAssetPath: 'assets/vectors/line_duotone/receive-square-accent.vec');
   static const AuraIconData receiveTwiceSquare = AuraIconData('assets/vectors/line_duotone/receive-twice-square.vec', accentAssetPath: 'assets/vectors/line_duotone/receive-twice-square-accent.vec');
-  static const AuraIconData record = AuraIconData('assets/vectors/line_duotone/record.vec');
+  static const AuraIconData record = AuraIconData('assets/vectors/line_duotone/record.vec', accentAssetPath: 'assets/vectors/line_duotone/record-accent.vec');
   static const AuraIconData recordAudioCircle = AuraIconData('assets/vectors/line_duotone/record-audio-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/record-audio-circle-accent.vec', accentBehindMain: true);
   static const AuraIconData recordCircle = AuraIconData('assets/vectors/line_duotone/record-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/record-circle-accent.vec');
   static const AuraIconData recordMinimalistic = AuraIconData('assets/vectors/line_duotone/record-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/record-minimalistic-accent.vec');
@@ -834,7 +1011,7 @@ class AuraIconsLineDuotone {
   static const AuraIconData repeatOneMinimalistic = AuraIconData('assets/vectors/line_duotone/repeat-one-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/repeat-one-minimalistic-accent.vec');
   static const AuraIconData reply = AuraIconData('assets/vectors/line_duotone/reply.vec', accentAssetPath: 'assets/vectors/line_duotone/reply-accent.vec');
   static const AuraIconData reply2 = AuraIconData('assets/vectors/line_duotone/reply-2.vec', accentAssetPath: 'assets/vectors/line_duotone/reply-2-accent.vec');
-  static const AuraIconData restart = AuraIconData('assets/vectors/line_duotone/restart.vec', accentAssetPath: 'assets/vectors/line_duotone/restart-accent.vec');
+  static const AuraIconData restart = AuraIconData('assets/vectors/line_duotone/restart.vec', accentAssetPath: 'assets/vectors/line_duotone/restart-accent.vec', accentBehindMain: true);
   static const AuraIconData restartCircle = AuraIconData('assets/vectors/line_duotone/restart-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/restart-circle-accent.vec', accentBehindMain: true);
   static const AuraIconData restartSquare = AuraIconData('assets/vectors/line_duotone/restart-square.vec', accentAssetPath: 'assets/vectors/line_duotone/restart-square-accent.vec', accentBehindMain: true);
   static const AuraIconData revote = AuraIconData('assets/vectors/line_duotone/revote.vec', accentAssetPath: 'assets/vectors/line_duotone/revote-accent.vec', accentBehindMain: true);
@@ -875,12 +1052,18 @@ class AuraIconsLineDuotone {
   static const AuraIconData roundTransferVertical = AuraIconData('assets/vectors/line_duotone/round-transfer-vertical.vec', accentAssetPath: 'assets/vectors/line_duotone/round-transfer-vertical-accent.vec', accentBehindMain: true);
   static const AuraIconData roundedMagnifier = AuraIconData('assets/vectors/line_duotone/rounded-magnifier.vec', accentAssetPath: 'assets/vectors/line_duotone/rounded-magnifier-accent.vec', accentBehindMain: true);
   static const AuraIconData roundedMagnifierBug = AuraIconData('assets/vectors/line_duotone/rounded-magnifier-bug.vec', accentAssetPath: 'assets/vectors/line_duotone/rounded-magnifier-bug-accent.vec', accentBehindMain: true);
+  static const AuraIconData roundedMagnifierCheck = AuraIconData('assets/vectors/line_duotone/rounded-magnifier-check.vec', accentAssetPath: 'assets/vectors/line_duotone/rounded-magnifier-check-accent.vec', accentBehindMain: true);
+  static const AuraIconData roundedMagnifierClose = AuraIconData('assets/vectors/line_duotone/rounded-magnifier-close.vec', accentAssetPath: 'assets/vectors/line_duotone/rounded-magnifier-close-accent.vec', accentBehindMain: true);
+  static const AuraIconData roundedMagnifierSlash = AuraIconData('assets/vectors/line_duotone/rounded-magnifier-slash.vec', accentAssetPath: 'assets/vectors/line_duotone/rounded-magnifier-slash-accent.vec', accentBehindMain: true);
   static const AuraIconData roundedMagnifierZoomIn = AuraIconData('assets/vectors/line_duotone/rounded-magnifier-zoom-in.vec', accentAssetPath: 'assets/vectors/line_duotone/rounded-magnifier-zoom-in-accent.vec', accentBehindMain: true);
   static const AuraIconData roundedMagnifierZoomOut = AuraIconData('assets/vectors/line_duotone/rounded-magnifier-zoom-out.vec', accentAssetPath: 'assets/vectors/line_duotone/rounded-magnifier-zoom-out-accent.vec', accentBehindMain: true);
   static const AuraIconData route = AuraIconData('assets/vectors/line_duotone/route.vec', accentAssetPath: 'assets/vectors/line_duotone/route-accent.vec', accentBehindMain: true);
   static const AuraIconData routing = AuraIconData('assets/vectors/line_duotone/routing.vec', accentAssetPath: 'assets/vectors/line_duotone/routing-accent.vec', accentBehindMain: true);
   static const AuraIconData routing2 = AuraIconData('assets/vectors/line_duotone/routing-2.vec', accentAssetPath: 'assets/vectors/line_duotone/routing-2-accent.vec');
   static const AuraIconData routing3 = AuraIconData('assets/vectors/line_duotone/routing-3.vec', accentAssetPath: 'assets/vectors/line_duotone/routing-3-accent.vec');
+  static const AuraIconData rows2 = AuraIconData('assets/vectors/line_duotone/rows-2.vec', accentAssetPath: 'assets/vectors/line_duotone/rows-2-accent.vec', accentBehindMain: true);
+  static const AuraIconData rows3 = AuraIconData('assets/vectors/line_duotone/rows-3.vec', accentAssetPath: 'assets/vectors/line_duotone/rows-3-accent.vec', accentBehindMain: true);
+  static const AuraIconData rows4 = AuraIconData('assets/vectors/line_duotone/rows-4.vec', accentAssetPath: 'assets/vectors/line_duotone/rows-4-accent.vec', accentBehindMain: true);
   static const AuraIconData ruble = AuraIconData('assets/vectors/line_duotone/ruble.vec', accentAssetPath: 'assets/vectors/line_duotone/ruble-accent.vec', accentBehindMain: true);
   static const AuraIconData rugby = AuraIconData('assets/vectors/line_duotone/rugby.vec', accentAssetPath: 'assets/vectors/line_duotone/rugby-accent.vec');
   static const AuraIconData ruler = AuraIconData('assets/vectors/line_duotone/ruler.vec', accentAssetPath: 'assets/vectors/line_duotone/ruler-accent.vec');
@@ -892,7 +1075,7 @@ class AuraIconsLineDuotone {
   static const AuraIconData runningRound = AuraIconData('assets/vectors/line_duotone/running-round.vec', accentAssetPath: 'assets/vectors/line_duotone/running-round-accent.vec');
   static const AuraIconData sadCircle = AuraIconData('assets/vectors/line_duotone/sad-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/sad-circle-accent.vec', accentBehindMain: true);
   static const AuraIconData sadSquare = AuraIconData('assets/vectors/line_duotone/sad-square.vec', accentAssetPath: 'assets/vectors/line_duotone/sad-square-accent.vec');
-  static const AuraIconData safe2 = AuraIconData('assets/vectors/line_duotone/safe-2.vec', accentAssetPath: 'assets/vectors/line_duotone/safe-2-accent.vec');
+  static const AuraIconData safe2 = AuraIconData('assets/vectors/line_duotone/safe-2.vec', accentAssetPath: 'assets/vectors/line_duotone/safe-2-accent.vec', accentBehindMain: true);
   static const AuraIconData safeCircle = AuraIconData('assets/vectors/line_duotone/safe-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/safe-circle-accent.vec');
   static const AuraIconData safeSquare = AuraIconData('assets/vectors/line_duotone/safe-square.vec', accentAssetPath: 'assets/vectors/line_duotone/safe-square-accent.vec');
   static const AuraIconData sale = AuraIconData('assets/vectors/line_duotone/sale.vec', accentAssetPath: 'assets/vectors/line_duotone/sale-accent.vec', accentBehindMain: true);
@@ -905,12 +1088,14 @@ class AuraIconsLineDuotone {
   static const AuraIconData scissors = AuraIconData('assets/vectors/line_duotone/scissors.vec', accentAssetPath: 'assets/vectors/line_duotone/scissors-accent.vec', accentBehindMain: true);
   static const AuraIconData scissorsSquare = AuraIconData('assets/vectors/line_duotone/scissors-square.vec', accentAssetPath: 'assets/vectors/line_duotone/scissors-square-accent.vec');
   static const AuraIconData scooter = AuraIconData('assets/vectors/line_duotone/scooter.vec', accentAssetPath: 'assets/vectors/line_duotone/scooter-accent.vec');
-  static const AuraIconData screenShare = AuraIconData('assets/vectors/line_duotone/screen-share.vec', accentAssetPath: 'assets/vectors/line_duotone/screen-share-accent.vec');
+  static const AuraIconData screenShare = AuraIconData('assets/vectors/line_duotone/screen-share.vec', accentAssetPath: 'assets/vectors/line_duotone/screen-share-accent.vec', accentBehindMain: true);
   static const AuraIconData screencast = AuraIconData('assets/vectors/line_duotone/screencast.vec', accentAssetPath: 'assets/vectors/line_duotone/screencast-accent.vec', accentBehindMain: true);
   static const AuraIconData screencast2 = AuraIconData('assets/vectors/line_duotone/screencast-2.vec', accentAssetPath: 'assets/vectors/line_duotone/screencast-2-accent.vec', accentBehindMain: true);
   static const AuraIconData sdCard = AuraIconData('assets/vectors/line_duotone/sd-card.vec', accentAssetPath: 'assets/vectors/line_duotone/sd-card-accent.vec');
   static const AuraIconData sendSquare = AuraIconData('assets/vectors/line_duotone/send-square.vec', accentAssetPath: 'assets/vectors/line_duotone/send-square-accent.vec');
   static const AuraIconData sendTwiceSquare = AuraIconData('assets/vectors/line_duotone/send-twice-square.vec', accentAssetPath: 'assets/vectors/line_duotone/send-twice-square-accent.vec');
+  static const AuraIconData separatorHorizontal = AuraIconData('assets/vectors/line_duotone/separator-horizontal.vec', accentAssetPath: 'assets/vectors/line_duotone/separator-horizontal-accent.vec', accentBehindMain: true);
+  static const AuraIconData separatorVertical = AuraIconData('assets/vectors/line_duotone/separator-vertical.vec', accentAssetPath: 'assets/vectors/line_duotone/separator-vertical-accent.vec', accentBehindMain: true);
   static const AuraIconData server = AuraIconData('assets/vectors/line_duotone/server.vec', accentAssetPath: 'assets/vectors/line_duotone/server-accent.vec', accentBehindMain: true);
   static const AuraIconData server2 = AuraIconData('assets/vectors/line_duotone/server-2.vec', accentAssetPath: 'assets/vectors/line_duotone/server-2-accent.vec', accentBehindMain: true);
   static const AuraIconData serverMinimalistic = AuraIconData('assets/vectors/line_duotone/server-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/server-minimalistic-accent.vec');
@@ -922,6 +1107,7 @@ class AuraIconsLineDuotone {
   static const AuraIconData settingsMinimalistic = AuraIconData('assets/vectors/line_duotone/settings-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/settings-minimalistic-accent.vec', accentBehindMain: true);
   static const AuraIconData share = AuraIconData('assets/vectors/line_duotone/share.vec', accentAssetPath: 'assets/vectors/line_duotone/share-accent.vec');
   static const AuraIconData shareCircle = AuraIconData('assets/vectors/line_duotone/share-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/share-circle-accent.vec');
+  static const AuraIconData sheet = AuraIconData('assets/vectors/line_duotone/sheet.vec', accentAssetPath: 'assets/vectors/line_duotone/sheet-accent.vec', accentBehindMain: true);
   static const AuraIconData shield = AuraIconData('assets/vectors/line_duotone/shield.vec', accentAssetPath: 'assets/vectors/line_duotone/shield-accent.vec', accentBehindMain: true);
   static const AuraIconData shieldCheck = AuraIconData('assets/vectors/line_duotone/shield-check.vec', accentAssetPath: 'assets/vectors/line_duotone/shield-check-accent.vec', accentBehindMain: true);
   static const AuraIconData shieldCross = AuraIconData('assets/vectors/line_duotone/shield-cross.vec', accentAssetPath: 'assets/vectors/line_duotone/shield-cross-accent.vec', accentBehindMain: true);
@@ -936,13 +1122,11 @@ class AuraIconsLineDuotone {
   static const AuraIconData shieldUser = AuraIconData('assets/vectors/line_duotone/shield-user.vec', accentAssetPath: 'assets/vectors/line_duotone/shield-user-accent.vec', accentBehindMain: true);
   static const AuraIconData shieldWarning = AuraIconData('assets/vectors/line_duotone/shield-warning.vec', accentAssetPath: 'assets/vectors/line_duotone/shield-warning-accent.vec', accentBehindMain: true);
   static const AuraIconData shockAbsorber = AuraIconData('assets/vectors/line_duotone/shock-absorber.vec', accentAssetPath: 'assets/vectors/line_duotone/shock-absorber-accent.vec', accentBehindMain: true);
-  static const AuraIconData shop = AuraIconData('assets/vectors/line_duotone/shop.vec', accentAssetPath: 'assets/vectors/line_duotone/shop-accent.vec');
+  static const AuraIconData shop = AuraIconData('assets/vectors/line_duotone/shop.vec', accentAssetPath: 'assets/vectors/line_duotone/shop-accent.vec', accentBehindMain: true);
   static const AuraIconData shop2 = AuraIconData('assets/vectors/line_duotone/shop-2.vec', accentAssetPath: 'assets/vectors/line_duotone/shop-2-accent.vec');
   static const AuraIconData shopMinimalistic = AuraIconData('assets/vectors/line_duotone/shop-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/shop-minimalistic-accent.vec');
   static const AuraIconData shuffle = AuraIconData('assets/vectors/line_duotone/shuffle.vec', accentAssetPath: 'assets/vectors/line_duotone/shuffle-accent.vec');
-  static const AuraIconData sidebar = AuraIconData('assets/vectors/line_duotone/sidebar.vec', accentAssetPath: 'assets/vectors/line_duotone/sidebar-accent.vec');
   static const AuraIconData sidebarCode = AuraIconData('assets/vectors/line_duotone/sidebar-code.vec', accentAssetPath: 'assets/vectors/line_duotone/sidebar-code-accent.vec');
-  static const AuraIconData sidebarMinimalistic = AuraIconData('assets/vectors/line_duotone/sidebar-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/sidebar-minimalistic-accent.vec');
   static const AuraIconData signpost = AuraIconData('assets/vectors/line_duotone/signpost.vec', accentAssetPath: 'assets/vectors/line_duotone/signpost-accent.vec');
   static const AuraIconData signpost2 = AuraIconData('assets/vectors/line_duotone/signpost-2.vec', accentAssetPath: 'assets/vectors/line_duotone/signpost-2-accent.vec', accentBehindMain: true);
   static const AuraIconData simCard = AuraIconData('assets/vectors/line_duotone/sim-card.vec', accentAssetPath: 'assets/vectors/line_duotone/sim-card-accent.vec');
@@ -968,10 +1152,10 @@ class AuraIconsLineDuotone {
   static const AuraIconData sliderVerticalMinimalistic = AuraIconData('assets/vectors/line_duotone/slider-vertical-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/slider-vertical-minimalistic-accent.vec');
   static const AuraIconData smartHome = AuraIconData('assets/vectors/line_duotone/smart-home.vec', accentAssetPath: 'assets/vectors/line_duotone/smart-home-accent.vec', accentBehindMain: true);
   static const AuraIconData smartHomeAngle = AuraIconData('assets/vectors/line_duotone/smart-home-angle.vec', accentAssetPath: 'assets/vectors/line_duotone/smart-home-angle-accent.vec', accentBehindMain: true);
-  static const AuraIconData smartSpeaker = AuraIconData('assets/vectors/line_duotone/smart-speaker.vec', accentAssetPath: 'assets/vectors/line_duotone/smart-speaker-accent.vec');
+  static const AuraIconData smartSpeaker = AuraIconData('assets/vectors/line_duotone/smart-speaker.vec', accentAssetPath: 'assets/vectors/line_duotone/smart-speaker-accent.vec', accentBehindMain: true);
   static const AuraIconData smartSpeaker2 = AuraIconData('assets/vectors/line_duotone/smart-speaker-2.vec', accentAssetPath: 'assets/vectors/line_duotone/smart-speaker-2-accent.vec');
   static const AuraIconData smartSpeakerMinimalistic = AuraIconData('assets/vectors/line_duotone/smart-speaker-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/smart-speaker-minimalistic-accent.vec');
-  static const AuraIconData smartVacuumCleaner = AuraIconData('assets/vectors/line_duotone/smart-vacuum-cleaner.vec', accentAssetPath: 'assets/vectors/line_duotone/smart-vacuum-cleaner-accent.vec');
+  static const AuraIconData smartVacuumCleaner = AuraIconData('assets/vectors/line_duotone/smart-vacuum-cleaner.vec', accentAssetPath: 'assets/vectors/line_duotone/smart-vacuum-cleaner-accent.vec', accentBehindMain: true);
   static const AuraIconData smartVacuumCleaner2 = AuraIconData('assets/vectors/line_duotone/smart-vacuum-cleaner-2.vec', accentAssetPath: 'assets/vectors/line_duotone/smart-vacuum-cleaner-2-accent.vec');
   static const AuraIconData smartphone = AuraIconData('assets/vectors/line_duotone/smartphone.vec', accentAssetPath: 'assets/vectors/line_duotone/smartphone-accent.vec');
   static const AuraIconData smartphone2 = AuraIconData('assets/vectors/line_duotone/smartphone-2.vec', accentAssetPath: 'assets/vectors/line_duotone/smartphone-2-accent.vec');
@@ -984,8 +1168,8 @@ class AuraIconsLineDuotone {
   static const AuraIconData smileSquare = AuraIconData('assets/vectors/line_duotone/smile-square.vec', accentAssetPath: 'assets/vectors/line_duotone/smile-square-accent.vec');
   static const AuraIconData snowflake = AuraIconData('assets/vectors/line_duotone/snowflake.vec', accentAssetPath: 'assets/vectors/line_duotone/snowflake-accent.vec');
   static const AuraIconData socket = AuraIconData('assets/vectors/line_duotone/socket.vec', accentAssetPath: 'assets/vectors/line_duotone/socket-accent.vec', accentBehindMain: true);
-  static const AuraIconData sofa = AuraIconData('assets/vectors/line_duotone/sofa.vec', accentAssetPath: 'assets/vectors/line_duotone/sofa-accent.vec');
-  static const AuraIconData sofa2 = AuraIconData('assets/vectors/line_duotone/sofa-2.vec', accentAssetPath: 'assets/vectors/line_duotone/sofa-2-accent.vec');
+  static const AuraIconData sofa = AuraIconData('assets/vectors/line_duotone/sofa.vec', accentAssetPath: 'assets/vectors/line_duotone/sofa-accent.vec', accentBehindMain: true);
+  static const AuraIconData sofa2 = AuraIconData('assets/vectors/line_duotone/sofa-2.vec', accentAssetPath: 'assets/vectors/line_duotone/sofa-2-accent.vec', accentBehindMain: true);
   static const AuraIconData sofa3 = AuraIconData('assets/vectors/line_duotone/sofa-3.vec', accentAssetPath: 'assets/vectors/line_duotone/sofa-3-accent.vec');
   static const AuraIconData sort = AuraIconData('assets/vectors/line_duotone/sort.vec', accentAssetPath: 'assets/vectors/line_duotone/sort-accent.vec');
   static const AuraIconData sortAlphabetically = AuraIconData('assets/vectors/line_duotone/sort-alphabetically.vec', accentAssetPath: 'assets/vectors/line_duotone/sort-alphabetically-accent.vec', accentBehindMain: true);
@@ -1019,6 +1203,9 @@ class AuraIconsLineDuotone {
   static const AuraIconData squareArrowUp = AuraIconData('assets/vectors/line_duotone/square-arrow-up.vec', accentAssetPath: 'assets/vectors/line_duotone/square-arrow-up-accent.vec');
   static const AuraIconData squareBottomDown = AuraIconData('assets/vectors/line_duotone/square-bottom-down.vec', accentAssetPath: 'assets/vectors/line_duotone/square-bottom-down-accent.vec', accentBehindMain: true);
   static const AuraIconData squareBottomUp = AuraIconData('assets/vectors/line_duotone/square-bottom-up.vec', accentAssetPath: 'assets/vectors/line_duotone/square-bottom-up-accent.vec', accentBehindMain: true);
+  static const AuraIconData squareDashed = AuraIconData('assets/vectors/line_duotone/square-dashed.vec', accentAssetPath: 'assets/vectors/line_duotone/square-dashed-accent.vec');
+  static const AuraIconData squareDot = AuraIconData('assets/vectors/line_duotone/square-dot.vec', accentAssetPath: 'assets/vectors/line_duotone/square-dot-accent.vec', accentBehindMain: true);
+  static const AuraIconData squareDotDashed = AuraIconData('assets/vectors/line_duotone/square-dot-dashed.vec', accentAssetPath: 'assets/vectors/line_duotone/square-dot-dashed-accent.vec', accentBehindMain: true);
   static const AuraIconData squareDoubleAltArrowDown = AuraIconData('assets/vectors/line_duotone/square-double-alt-arrow-down.vec', accentAssetPath: 'assets/vectors/line_duotone/square-double-alt-arrow-down-accent.vec', accentBehindMain: true);
   static const AuraIconData squareDoubleAltArrowLeft = AuraIconData('assets/vectors/line_duotone/square-double-alt-arrow-left.vec', accentAssetPath: 'assets/vectors/line_duotone/square-double-alt-arrow-left-accent.vec', accentBehindMain: true);
   static const AuraIconData squareDoubleAltArrowRight = AuraIconData('assets/vectors/line_duotone/square-double-alt-arrow-right.vec', accentAssetPath: 'assets/vectors/line_duotone/square-double-alt-arrow-right-accent.vec', accentBehindMain: true);
@@ -1033,15 +1220,16 @@ class AuraIconsLineDuotone {
   static const AuraIconData squareTransferVertical = AuraIconData('assets/vectors/line_duotone/square-transfer-vertical.vec', accentAssetPath: 'assets/vectors/line_duotone/square-transfer-vertical-accent.vec', accentBehindMain: true);
   static const AuraIconData ssdRound = AuraIconData('assets/vectors/line_duotone/ssd-round.vec', accentAssetPath: 'assets/vectors/line_duotone/ssd-round-accent.vec');
   static const AuraIconData ssdSquare = AuraIconData('assets/vectors/line_duotone/ssd-square.vec', accentAssetPath: 'assets/vectors/line_duotone/ssd-square-accent.vec', accentBehindMain: true);
-  static const AuraIconData star = AuraIconData('assets/vectors/line_duotone/star.vec');
+  static const AuraIconData star = AuraIconData('assets/vectors/line_duotone/star.vec', accentAssetPath: 'assets/vectors/line_duotone/star-accent.vec', accentBehindMain: true);
   static const AuraIconData star2 = AuraIconData('assets/vectors/line_duotone/star-2.vec', accentAssetPath: 'assets/vectors/line_duotone/star-2-accent.vec');
-  static const AuraIconData starAngle = AuraIconData('assets/vectors/line_duotone/star-angle.vec', accentAssetPath: 'assets/vectors/line_duotone/star-angle-accent.vec');
+  static const AuraIconData starAngle = AuraIconData('assets/vectors/line_duotone/star-angle.vec', accentAssetPath: 'assets/vectors/line_duotone/star-angle-accent.vec', accentBehindMain: true);
   static const AuraIconData starCircle = AuraIconData('assets/vectors/line_duotone/star-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/star-circle-accent.vec', accentBehindMain: true);
   static const AuraIconData starFall = AuraIconData('assets/vectors/line_duotone/star-fall.vec', accentAssetPath: 'assets/vectors/line_duotone/star-fall-accent.vec');
   static const AuraIconData starFall2 = AuraIconData('assets/vectors/line_duotone/star-fall-2.vec', accentAssetPath: 'assets/vectors/line_duotone/star-fall-2-accent.vec');
   static const AuraIconData starFallMinimalistic = AuraIconData('assets/vectors/line_duotone/star-fall-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/star-fall-minimalistic-accent.vec');
   static const AuraIconData starFallMinimalistic2 = AuraIconData('assets/vectors/line_duotone/star-fall-minimalistic-2.vec', accentAssetPath: 'assets/vectors/line_duotone/star-fall-minimalistic-2-accent.vec');
-  static const AuraIconData starRainbow = AuraIconData('assets/vectors/line_duotone/star-rainbow.vec', accentAssetPath: 'assets/vectors/line_duotone/star-rainbow-accent.vec');
+  static const AuraIconData starOff = AuraIconData('assets/vectors/line_duotone/star-off.vec', accentAssetPath: 'assets/vectors/line_duotone/star-off-accent.vec', accentBehindMain: true);
+  static const AuraIconData starRainbow = AuraIconData('assets/vectors/line_duotone/star-rainbow.vec', accentAssetPath: 'assets/vectors/line_duotone/star-rainbow-accent.vec', accentBehindMain: true);
   static const AuraIconData starRing = AuraIconData('assets/vectors/line_duotone/star-ring.vec', accentAssetPath: 'assets/vectors/line_duotone/star-ring-accent.vec');
   static const AuraIconData starRings = AuraIconData('assets/vectors/line_duotone/star-rings.vec', accentAssetPath: 'assets/vectors/line_duotone/star-rings-accent.vec', accentBehindMain: true);
   static const AuraIconData starShine = AuraIconData('assets/vectors/line_duotone/star-shine.vec', accentAssetPath: 'assets/vectors/line_duotone/star-shine-accent.vec');
@@ -1057,7 +1245,7 @@ class AuraIconsLineDuotone {
   static const AuraIconData stickerSmileCircle2 = AuraIconData('assets/vectors/line_duotone/sticker-smile-circle-2.vec', accentAssetPath: 'assets/vectors/line_duotone/sticker-smile-circle-2-accent.vec', accentBehindMain: true);
   static const AuraIconData stickerSmileSquare = AuraIconData('assets/vectors/line_duotone/sticker-smile-square.vec', accentAssetPath: 'assets/vectors/line_duotone/sticker-smile-square-accent.vec');
   static const AuraIconData stickerSquare = AuraIconData('assets/vectors/line_duotone/sticker-square.vec', accentAssetPath: 'assets/vectors/line_duotone/sticker-square-accent.vec');
-  static const AuraIconData stop = AuraIconData('assets/vectors/line_duotone/stop.vec');
+  static const AuraIconData stop = AuraIconData('assets/vectors/line_duotone/stop.vec', accentAssetPath: 'assets/vectors/line_duotone/stop-accent.vec', accentBehindMain: true);
   static const AuraIconData stopCircle = AuraIconData('assets/vectors/line_duotone/stop-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/stop-circle-accent.vec', accentBehindMain: true);
   static const AuraIconData stopwatch = AuraIconData('assets/vectors/line_duotone/stopwatch.vec', accentAssetPath: 'assets/vectors/line_duotone/stopwatch-accent.vec', accentBehindMain: true);
   static const AuraIconData stopwatchPause = AuraIconData('assets/vectors/line_duotone/stopwatch-pause.vec', accentAssetPath: 'assets/vectors/line_duotone/stopwatch-pause-accent.vec', accentBehindMain: true);
@@ -1065,7 +1253,7 @@ class AuraIconsLineDuotone {
   static const AuraIconData stream = AuraIconData('assets/vectors/line_duotone/stream.vec', accentAssetPath: 'assets/vectors/line_duotone/stream-accent.vec', accentBehindMain: true);
   static const AuraIconData streets = AuraIconData('assets/vectors/line_duotone/streets.vec', accentAssetPath: 'assets/vectors/line_duotone/streets-accent.vec');
   static const AuraIconData streetsMapPoint = AuraIconData('assets/vectors/line_duotone/streets-map-point.vec', accentAssetPath: 'assets/vectors/line_duotone/streets-map-point-accent.vec');
-  static const AuraIconData streetsNavigation = AuraIconData('assets/vectors/line_duotone/streets-navigation.vec', accentAssetPath: 'assets/vectors/line_duotone/streets-navigation-accent.vec');
+  static const AuraIconData streetsNavigation = AuraIconData('assets/vectors/line_duotone/streets-navigation.vec', accentAssetPath: 'assets/vectors/line_duotone/streets-navigation-accent.vec', accentBehindMain: true);
   static const AuraIconData stretching = AuraIconData('assets/vectors/line_duotone/stretching.vec', accentAssetPath: 'assets/vectors/line_duotone/stretching-accent.vec');
   static const AuraIconData stretchingRound = AuraIconData('assets/vectors/line_duotone/stretching-round.vec', accentAssetPath: 'assets/vectors/line_duotone/stretching-round-accent.vec');
   static const AuraIconData structure = AuraIconData('assets/vectors/line_duotone/structure.vec', accentAssetPath: 'assets/vectors/line_duotone/structure-accent.vec');
@@ -1083,7 +1271,14 @@ class AuraIconsLineDuotone {
   static const AuraIconData suspensionCross = AuraIconData('assets/vectors/line_duotone/suspension-cross.vec', accentAssetPath: 'assets/vectors/line_duotone/suspension-cross-accent.vec');
   static const AuraIconData swimming = AuraIconData('assets/vectors/line_duotone/swimming.vec', accentAssetPath: 'assets/vectors/line_duotone/swimming-accent.vec', accentBehindMain: true);
   static const AuraIconData syringe = AuraIconData('assets/vectors/line_duotone/syringe.vec', accentAssetPath: 'assets/vectors/line_duotone/syringe-accent.vec');
-  static const AuraIconData tShirt = AuraIconData('assets/vectors/line_duotone/t-shirt.vec');
+  static const AuraIconData tShirt = AuraIconData('assets/vectors/line_duotone/t-shirt.vec', accentAssetPath: 'assets/vectors/line_duotone/t-shirt-accent.vec', accentBehindMain: true);
+  static const AuraIconData table = AuraIconData('assets/vectors/line_duotone/table.vec', accentAssetPath: 'assets/vectors/line_duotone/table-accent.vec', accentBehindMain: true);
+  static const AuraIconData tableCellsMerge = AuraIconData('assets/vectors/line_duotone/table-cells-merge.vec', accentAssetPath: 'assets/vectors/line_duotone/table-cells-merge-accent.vec', accentBehindMain: true);
+  static const AuraIconData tableCellsSplit = AuraIconData('assets/vectors/line_duotone/table-cells-split.vec', accentAssetPath: 'assets/vectors/line_duotone/table-cells-split-accent.vec', accentBehindMain: true);
+  static const AuraIconData tableColumnsSplit = AuraIconData('assets/vectors/line_duotone/table-columns-split.vec', accentAssetPath: 'assets/vectors/line_duotone/table-columns-split-accent.vec');
+  static const AuraIconData tableMinimalistic = AuraIconData('assets/vectors/line_duotone/table-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/table-minimalistic-accent.vec', accentBehindMain: true);
+  static const AuraIconData tableProperties = AuraIconData('assets/vectors/line_duotone/table-properties.vec', accentAssetPath: 'assets/vectors/line_duotone/table-properties-accent.vec', accentBehindMain: true);
+  static const AuraIconData tableRowsSplit = AuraIconData('assets/vectors/line_duotone/table-rows-split.vec', accentAssetPath: 'assets/vectors/line_duotone/table-rows-split-accent.vec');
   static const AuraIconData tablet = AuraIconData('assets/vectors/line_duotone/tablet.vec', accentAssetPath: 'assets/vectors/line_duotone/tablet-accent.vec');
   static const AuraIconData tag = AuraIconData('assets/vectors/line_duotone/tag.vec', accentAssetPath: 'assets/vectors/line_duotone/tag-accent.vec');
   static const AuraIconData tagHorizontal = AuraIconData('assets/vectors/line_duotone/tag-horizontal.vec', accentAssetPath: 'assets/vectors/line_duotone/tag-horizontal-accent.vec');
@@ -1117,10 +1312,11 @@ class AuraIconsLineDuotone {
   static const AuraIconData textUnderlineCross = AuraIconData('assets/vectors/line_duotone/text-underline-cross.vec', accentAssetPath: 'assets/vectors/line_duotone/text-underline-cross-accent.vec', accentBehindMain: true);
   static const AuraIconData thermometer = AuraIconData('assets/vectors/line_duotone/thermometer.vec', accentAssetPath: 'assets/vectors/line_duotone/thermometer-accent.vec');
   static const AuraIconData threeSquares = AuraIconData('assets/vectors/line_duotone/three-squares.vec', accentAssetPath: 'assets/vectors/line_duotone/three-squares-accent.vec', accentBehindMain: true);
-  static const AuraIconData tickerStar = AuraIconData('assets/vectors/line_duotone/ticker-star.vec', accentAssetPath: 'assets/vectors/line_duotone/ticker-star-accent.vec', accentBehindMain: true);
   static const AuraIconData ticket = AuraIconData('assets/vectors/line_duotone/ticket.vec', accentAssetPath: 'assets/vectors/line_duotone/ticket-accent.vec', accentBehindMain: true);
   static const AuraIconData ticketSale = AuraIconData('assets/vectors/line_duotone/ticket-sale.vec', accentAssetPath: 'assets/vectors/line_duotone/ticket-sale-accent.vec', accentBehindMain: true);
+  static const AuraIconData ticketStar = AuraIconData('assets/vectors/line_duotone/ticket-star.vec', accentAssetPath: 'assets/vectors/line_duotone/ticket-star-accent.vec', accentBehindMain: true);
   static const AuraIconData toPip = AuraIconData('assets/vectors/line_duotone/to-pip.vec', accentAssetPath: 'assets/vectors/line_duotone/to-pip-accent.vec', accentBehindMain: true);
+  static const AuraIconData toolbox = AuraIconData('assets/vectors/line_duotone/toolbox.vec', accentAssetPath: 'assets/vectors/line_duotone/toolbox-accent.vec', accentBehindMain: true);
   static const AuraIconData tornado = AuraIconData('assets/vectors/line_duotone/tornado.vec', accentAssetPath: 'assets/vectors/line_duotone/tornado-accent.vec');
   static const AuraIconData tornadoSmall = AuraIconData('assets/vectors/line_duotone/tornado-small.vec', accentAssetPath: 'assets/vectors/line_duotone/tornado-small-accent.vec');
   static const AuraIconData traffic = AuraIconData('assets/vectors/line_duotone/traffic.vec', accentAssetPath: 'assets/vectors/line_duotone/traffic-accent.vec', accentBehindMain: true);
@@ -1163,7 +1359,7 @@ class AuraIconsLineDuotone {
   static const AuraIconData undoRightSquare = AuraIconData('assets/vectors/line_duotone/undo-right-square.vec', accentAssetPath: 'assets/vectors/line_duotone/undo-right-square-accent.vec', accentBehindMain: true);
   static const AuraIconData unlink = AuraIconData('assets/vectors/line_duotone/unlink.vec', accentAssetPath: 'assets/vectors/line_duotone/unlink-accent.vec');
   static const AuraIconData unlinkMinimalistic = AuraIconData('assets/vectors/line_duotone/unlink-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/unlink-minimalistic-accent.vec', accentBehindMain: true);
-  static const AuraIconData unread = AuraIconData('assets/vectors/line_duotone/unread.vec');
+  static const AuraIconData unread = AuraIconData('assets/vectors/line_duotone/unread.vec', accentAssetPath: 'assets/vectors/line_duotone/unread-accent.vec', accentBehindMain: true);
   static const AuraIconData upload = AuraIconData('assets/vectors/line_duotone/upload.vec', accentAssetPath: 'assets/vectors/line_duotone/upload-accent.vec', accentBehindMain: true);
   static const AuraIconData uploadMinimalistic = AuraIconData('assets/vectors/line_duotone/upload-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/upload-minimalistic-accent.vec', accentBehindMain: true);
   static const AuraIconData uploadSquare = AuraIconData('assets/vectors/line_duotone/upload-square.vec', accentAssetPath: 'assets/vectors/line_duotone/upload-square-accent.vec');
@@ -1174,22 +1370,22 @@ class AuraIconsLineDuotone {
   static const AuraIconData usbCircle = AuraIconData('assets/vectors/line_duotone/usb-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/usb-circle-accent.vec');
   static const AuraIconData usbSquare = AuraIconData('assets/vectors/line_duotone/usb-square.vec', accentAssetPath: 'assets/vectors/line_duotone/usb-square-accent.vec');
   static const AuraIconData user = AuraIconData('assets/vectors/line_duotone/user.vec', accentAssetPath: 'assets/vectors/line_duotone/user-accent.vec');
-  static const AuraIconData userBlock = AuraIconData('assets/vectors/line_duotone/user-block.vec', accentAssetPath: 'assets/vectors/line_duotone/user-block-accent.vec');
-  static const AuraIconData userBlockRounded = AuraIconData('assets/vectors/line_duotone/user-block-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/user-block-rounded-accent.vec');
-  static const AuraIconData userCheck = AuraIconData('assets/vectors/line_duotone/user-check.vec', accentAssetPath: 'assets/vectors/line_duotone/user-check-accent.vec');
-  static const AuraIconData userCheckRounded = AuraIconData('assets/vectors/line_duotone/user-check-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/user-check-rounded-accent.vec');
+  static const AuraIconData userBlock = AuraIconData('assets/vectors/line_duotone/user-block.vec', accentAssetPath: 'assets/vectors/line_duotone/user-block-accent.vec', accentBehindMain: true);
+  static const AuraIconData userBlockRounded = AuraIconData('assets/vectors/line_duotone/user-block-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/user-block-rounded-accent.vec', accentBehindMain: true);
+  static const AuraIconData userCheck = AuraIconData('assets/vectors/line_duotone/user-check.vec', accentAssetPath: 'assets/vectors/line_duotone/user-check-accent.vec', accentBehindMain: true);
+  static const AuraIconData userCheckRounded = AuraIconData('assets/vectors/line_duotone/user-check-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/user-check-rounded-accent.vec', accentBehindMain: true);
   static const AuraIconData userCircle = AuraIconData('assets/vectors/line_duotone/user-circle.vec', accentAssetPath: 'assets/vectors/line_duotone/user-circle-accent.vec', accentBehindMain: true);
-  static const AuraIconData userCross = AuraIconData('assets/vectors/line_duotone/user-cross.vec', accentAssetPath: 'assets/vectors/line_duotone/user-cross-accent.vec');
-  static const AuraIconData userCrossRounded = AuraIconData('assets/vectors/line_duotone/user-cross-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/user-cross-rounded-accent.vec');
+  static const AuraIconData userCross = AuraIconData('assets/vectors/line_duotone/user-cross.vec', accentAssetPath: 'assets/vectors/line_duotone/user-cross-accent.vec', accentBehindMain: true);
+  static const AuraIconData userCrossRounded = AuraIconData('assets/vectors/line_duotone/user-cross-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/user-cross-rounded-accent.vec', accentBehindMain: true);
   static const AuraIconData userHandUp = AuraIconData('assets/vectors/line_duotone/user-hand-up.vec', accentAssetPath: 'assets/vectors/line_duotone/user-hand-up-accent.vec');
   static const AuraIconData userHands = AuraIconData('assets/vectors/line_duotone/user-hands.vec', accentAssetPath: 'assets/vectors/line_duotone/user-hands-accent.vec');
   static const AuraIconData userHeart = AuraIconData('assets/vectors/line_duotone/user-heart.vec', accentAssetPath: 'assets/vectors/line_duotone/user-heart-accent.vec');
   static const AuraIconData userHeartRounded = AuraIconData('assets/vectors/line_duotone/user-heart-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/user-heart-rounded-accent.vec');
   static const AuraIconData userId = AuraIconData('assets/vectors/line_duotone/user-id.vec', accentAssetPath: 'assets/vectors/line_duotone/user-id-accent.vec');
-  static const AuraIconData userMinus = AuraIconData('assets/vectors/line_duotone/user-minus.vec', accentAssetPath: 'assets/vectors/line_duotone/user-minus-accent.vec');
-  static const AuraIconData userMinusRounded = AuraIconData('assets/vectors/line_duotone/user-minus-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/user-minus-rounded-accent.vec');
-  static const AuraIconData userPlus = AuraIconData('assets/vectors/line_duotone/user-plus.vec', accentAssetPath: 'assets/vectors/line_duotone/user-plus-accent.vec');
-  static const AuraIconData userPlusRounded = AuraIconData('assets/vectors/line_duotone/user-plus-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/user-plus-rounded-accent.vec');
+  static const AuraIconData userMinus = AuraIconData('assets/vectors/line_duotone/user-minus.vec', accentAssetPath: 'assets/vectors/line_duotone/user-minus-accent.vec', accentBehindMain: true);
+  static const AuraIconData userMinusRounded = AuraIconData('assets/vectors/line_duotone/user-minus-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/user-minus-rounded-accent.vec', accentBehindMain: true);
+  static const AuraIconData userPlus = AuraIconData('assets/vectors/line_duotone/user-plus.vec', accentAssetPath: 'assets/vectors/line_duotone/user-plus-accent.vec', accentBehindMain: true);
+  static const AuraIconData userPlusRounded = AuraIconData('assets/vectors/line_duotone/user-plus-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/user-plus-rounded-accent.vec', accentBehindMain: true);
   static const AuraIconData userRounded = AuraIconData('assets/vectors/line_duotone/user-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/user-rounded-accent.vec');
   static const AuraIconData userSpeak = AuraIconData('assets/vectors/line_duotone/user-speak.vec', accentAssetPath: 'assets/vectors/line_duotone/user-speak-accent.vec');
   static const AuraIconData userSpeakRounded = AuraIconData('assets/vectors/line_duotone/user-speak-rounded.vec', accentAssetPath: 'assets/vectors/line_duotone/user-speak-rounded-accent.vec');
@@ -1207,13 +1403,14 @@ class AuraIconsLineDuotone {
   static const AuraIconData videoLibrary = AuraIconData('assets/vectors/line_duotone/video-library.vec', accentAssetPath: 'assets/vectors/line_duotone/video-library-accent.vec', accentBehindMain: true);
   static const AuraIconData videocamera = AuraIconData('assets/vectors/line_duotone/videocamera.vec', accentAssetPath: 'assets/vectors/line_duotone/videocamera-accent.vec');
   static const AuraIconData videocameraAdd = AuraIconData('assets/vectors/line_duotone/videocamera-add.vec', accentAssetPath: 'assets/vectors/line_duotone/videocamera-add-accent.vec', accentBehindMain: true);
+  static const AuraIconData videocameraOff = AuraIconData('assets/vectors/line_duotone/videocamera-off.vec', accentAssetPath: 'assets/vectors/line_duotone/videocamera-off-accent.vec', accentBehindMain: true);
   static const AuraIconData videocameraRecord = AuraIconData('assets/vectors/line_duotone/videocamera-record.vec', accentAssetPath: 'assets/vectors/line_duotone/videocamera-record-accent.vec', accentBehindMain: true);
   static const AuraIconData vinyl = AuraIconData('assets/vectors/line_duotone/vinyl.vec', accentAssetPath: 'assets/vectors/line_duotone/vinyl-accent.vec');
   static const AuraIconData vinylRecord = AuraIconData('assets/vectors/line_duotone/vinyl-record.vec', accentAssetPath: 'assets/vectors/line_duotone/vinyl-record-accent.vec', accentBehindMain: true);
   static const AuraIconData virus = AuraIconData('assets/vectors/line_duotone/virus.vec', accentAssetPath: 'assets/vectors/line_duotone/virus-accent.vec');
   static const AuraIconData volleyball = AuraIconData('assets/vectors/line_duotone/volleyball.vec', accentAssetPath: 'assets/vectors/line_duotone/volleyball-accent.vec', accentBehindMain: true);
   static const AuraIconData volleyball2 = AuraIconData('assets/vectors/line_duotone/volleyball-2.vec', accentAssetPath: 'assets/vectors/line_duotone/volleyball-2-accent.vec');
-  static const AuraIconData volume = AuraIconData('assets/vectors/line_duotone/volume.vec');
+  static const AuraIconData volume = AuraIconData('assets/vectors/line_duotone/volume.vec', accentAssetPath: 'assets/vectors/line_duotone/volume-accent.vec', accentBehindMain: true);
   static const AuraIconData volumeCross = AuraIconData('assets/vectors/line_duotone/volume-cross.vec', accentAssetPath: 'assets/vectors/line_duotone/volume-cross-accent.vec');
   static const AuraIconData volumeKnob = AuraIconData('assets/vectors/line_duotone/volume-knob.vec', accentAssetPath: 'assets/vectors/line_duotone/volume-knob-accent.vec');
   static const AuraIconData volumeLoud = AuraIconData('assets/vectors/line_duotone/volume-loud.vec', accentAssetPath: 'assets/vectors/line_duotone/volume-loud-accent.vec');
@@ -1227,16 +1424,25 @@ class AuraIconsLineDuotone {
   static const AuraIconData washingMachine = AuraIconData('assets/vectors/line_duotone/washing-machine.vec', accentAssetPath: 'assets/vectors/line_duotone/washing-machine-accent.vec', accentBehindMain: true);
   static const AuraIconData washingMachineMinimalistic = AuraIconData('assets/vectors/line_duotone/washing-machine-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/washing-machine-minimalistic-accent.vec', accentBehindMain: true);
   static const AuraIconData watchRound = AuraIconData('assets/vectors/line_duotone/watch-round.vec', accentAssetPath: 'assets/vectors/line_duotone/watch-round-accent.vec', accentBehindMain: true);
-  static const AuraIconData watchSquare = AuraIconData('assets/vectors/line_duotone/watch-square.vec', accentAssetPath: 'assets/vectors/line_duotone/watch-square-accent.vec');
+  static const AuraIconData watchSquare = AuraIconData('assets/vectors/line_duotone/watch-square.vec', accentAssetPath: 'assets/vectors/line_duotone/watch-square-accent.vec', accentBehindMain: true);
   static const AuraIconData watchSquareMinimalistic = AuraIconData('assets/vectors/line_duotone/watch-square-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/watch-square-minimalistic-accent.vec', accentBehindMain: true);
   static const AuraIconData watchSquareMinimalisticCharge = AuraIconData('assets/vectors/line_duotone/watch-square-minimalistic-charge.vec', accentAssetPath: 'assets/vectors/line_duotone/watch-square-minimalistic-charge-accent.vec', accentBehindMain: true);
   static const AuraIconData water = AuraIconData('assets/vectors/line_duotone/water.vec', accentAssetPath: 'assets/vectors/line_duotone/water-accent.vec');
   static const AuraIconData waterSun = AuraIconData('assets/vectors/line_duotone/water-sun.vec', accentAssetPath: 'assets/vectors/line_duotone/water-sun-accent.vec', accentBehindMain: true);
   static const AuraIconData waterdrop = AuraIconData('assets/vectors/line_duotone/waterdrop.vec', accentAssetPath: 'assets/vectors/line_duotone/waterdrop-accent.vec', accentBehindMain: true);
   static const AuraIconData waterdrops = AuraIconData('assets/vectors/line_duotone/waterdrops.vec', accentAssetPath: 'assets/vectors/line_duotone/waterdrops-accent.vec');
+  static const AuraIconData webcam = AuraIconData('assets/vectors/line_duotone/webcam.vec', accentAssetPath: 'assets/vectors/line_duotone/webcam-accent.vec');
+  static const AuraIconData webcamOff = AuraIconData('assets/vectors/line_duotone/webcam-off.vec', accentAssetPath: 'assets/vectors/line_duotone/webcam-off-accent.vec');
   static const AuraIconData wheel = AuraIconData('assets/vectors/line_duotone/wheel.vec', accentAssetPath: 'assets/vectors/line_duotone/wheel-accent.vec');
   static const AuraIconData wheelAngle = AuraIconData('assets/vectors/line_duotone/wheel-angle.vec', accentAssetPath: 'assets/vectors/line_duotone/wheel-angle-accent.vec');
   static const AuraIconData whisk = AuraIconData('assets/vectors/line_duotone/whisk.vec', accentAssetPath: 'assets/vectors/line_duotone/whisk-accent.vec');
+  static const AuraIconData wiFi = AuraIconData('assets/vectors/line_duotone/wi-fi.vec', accentAssetPath: 'assets/vectors/line_duotone/wi-fi-accent.vec', accentBehindMain: true);
+  static const AuraIconData wiFiCog = AuraIconData('assets/vectors/line_duotone/wi-fi-cog.vec', accentAssetPath: 'assets/vectors/line_duotone/wi-fi-cog-accent.vec', accentBehindMain: true);
+  static const AuraIconData wiFiCross = AuraIconData('assets/vectors/line_duotone/wi-fi-cross.vec', accentAssetPath: 'assets/vectors/line_duotone/wi-fi-cross-accent.vec', accentBehindMain: true);
+  static const AuraIconData wiFiHigh = AuraIconData('assets/vectors/line_duotone/wi-fi-high.vec', accentAssetPath: 'assets/vectors/line_duotone/wi-fi-high-accent.vec', accentBehindMain: true);
+  static const AuraIconData wiFiLow = AuraIconData('assets/vectors/line_duotone/wi-fi-low.vec', accentAssetPath: 'assets/vectors/line_duotone/wi-fi-low-accent.vec', accentBehindMain: true);
+  static const AuraIconData wiFiNone = AuraIconData('assets/vectors/line_duotone/wi-fi-none.vec');
+  static const AuraIconData wiFiOff = AuraIconData('assets/vectors/line_duotone/wi-fi-off.vec', accentAssetPath: 'assets/vectors/line_duotone/wi-fi-off-accent.vec');
   static const AuraIconData wiFiRouter = AuraIconData('assets/vectors/line_duotone/wi-fi-router.vec', accentAssetPath: 'assets/vectors/line_duotone/wi-fi-router-accent.vec');
   static const AuraIconData wiFiRouterMinimalistic = AuraIconData('assets/vectors/line_duotone/wi-fi-router-minimalistic.vec', accentAssetPath: 'assets/vectors/line_duotone/wi-fi-router-minimalistic-accent.vec', accentBehindMain: true);
   static const AuraIconData wiFiRouterRound = AuraIconData('assets/vectors/line_duotone/wi-fi-router-round.vec', accentAssetPath: 'assets/vectors/line_duotone/wi-fi-router-round-accent.vec');
@@ -1255,11 +1461,11 @@ class AuraIconsLineDuotone {
   static const AuraIconData wirelessCharge = AuraIconData('assets/vectors/line_duotone/wireless-charge.vec', accentAssetPath: 'assets/vectors/line_duotone/wireless-charge-accent.vec');
   static const AuraIconData women = AuraIconData('assets/vectors/line_duotone/women.vec', accentAssetPath: 'assets/vectors/line_duotone/women-accent.vec', accentBehindMain: true);
   static const AuraIconData xxx = AuraIconData('assets/vectors/line_duotone/xxx.vec', accentAssetPath: 'assets/vectors/line_duotone/xxx-accent.vec');
-  static const AuraIconData zipFile = AuraIconData('assets/vectors/line_duotone/zip-file.vec', accentAssetPath: 'assets/vectors/line_duotone/zip-file-accent.vec', accentBehindMain: true);
 
   /// Dart-identifier -> icon data, for enumeration (tests, example app).
   static const Map<String, AuraIconData> all = {
     'accessibility': accessibility,
+    'add': add,
     'addCircle': addCircle,
     'addFolder': addFolder,
     'addSquare': addSquare,
@@ -1297,25 +1503,35 @@ class AuraIconsLineDuotone {
     'altArrowUp': altArrowUp,
     'archive': archive,
     'archiveCheck': archiveCheck,
+    'archiveClose': archiveClose,
     'archiveDown': archiveDown,
     'archiveDownMinimalistic': archiveDownMinimalistic,
     'archiveMinimalistic': archiveMinimalistic,
+    'archiveMinimalisticClose': archiveMinimalisticClose,
     'archiveUp': archiveUp,
     'archiveUpMinimalistic': archiveUpMinimalistic,
     'armchair': armchair,
     'armchair2': armchair2,
     'arrowDown': arrowDown,
+    'arrowDownFromLine': arrowDownFromLine,
+    'arrowDownToLine': arrowDownToLine,
     'arrowLeft': arrowLeft,
     'arrowLeftDown': arrowLeftDown,
+    'arrowLeftFromLine': arrowLeftFromLine,
+    'arrowLeftToLine': arrowLeftToLine,
     'arrowLeftUp': arrowLeftUp,
     'arrowRight': arrowRight,
     'arrowRightDown': arrowRightDown,
+    'arrowRightFromLine': arrowRightFromLine,
+    'arrowRightToLine': arrowRightToLine,
     'arrowRightUp': arrowRightUp,
     'arrowToDownLeft': arrowToDownLeft,
     'arrowToDownRight': arrowToDownRight,
     'arrowToTopLeft': arrowToTopLeft,
     'arrowToTopRight': arrowToTopRight,
     'arrowUp': arrowUp,
+    'arrowUpFromLine': arrowUpFromLine,
+    'arrowUpToLine': arrowUpToLine,
     'asteroid': asteroid,
     'atom': atom,
     'augmentedReality': augmentedReality,
@@ -1338,6 +1554,8 @@ class AuraIconsLineDuotone {
     'banknote': banknote,
     'banknote2': banknote2,
     'barChair': barChair,
+    'barcode': barcode,
+    'barcodeScan': barcodeScan,
     'basketball': basketball,
     'bath': bath,
     'batteryCharge': batteryCharge,
@@ -1364,9 +1582,11 @@ class AuraIconsLineDuotone {
     'billCheck': billCheck,
     'billCross': billCross,
     'billList': billList,
+    'binoculars': binoculars,
     'blackHole': blackHole,
     'blackHole2': blackHole2,
     'blackHole3': blackHole3,
+    'blocks': blocks,
     'bluetooth': bluetooth,
     'bluetoothCircle': bluetoothCircle,
     'bluetoothSquare': bluetoothSquare,
@@ -1390,15 +1610,24 @@ class AuraIconsLineDuotone {
     'bookBookmarkMinimalistic': bookBookmarkMinimalistic,
     'bookMinimalistic': bookMinimalistic,
     'bookmark': bookmark,
+    'bookmarkCheck': bookmarkCheck,
     'bookmarkCircle': bookmarkCircle,
+    'bookmarkMinus': bookmarkMinus,
+    'bookmarkOff': bookmarkOff,
     'bookmarkOpened': bookmarkOpened,
+    'bookmarkPlus': bookmarkPlus,
     'bookmarkSquare': bookmarkSquare,
     'bookmarkSquareMinimalistic': bookmarkSquareMinimalistic,
+    'bookmarkX': bookmarkX,
     'boombox': boombox,
+    'bot': bot,
     'bottle': bottle,
     'bowling': bowling,
     'box': box,
     'boxMinimalistic': boxMinimalistic,
+    'braces': braces,
+    'brackets': brackets,
+    'brain': brain,
     'branchingPathsDown': branchingPathsDown,
     'branchingPathsUp': branchingPathsUp,
     'broom': broom,
@@ -1427,8 +1656,10 @@ class AuraIconsLineDuotone {
     'camera': camera,
     'cameraAdd': cameraAdd,
     'cameraMinimalistic': cameraMinimalistic,
+    'cameraOff': cameraOff,
     'cameraRotate': cameraRotate,
     'cameraSquare': cameraSquare,
+    'car': car,
     'carBattery': carBattery,
     'card': card,
     'card2': card2,
@@ -1464,25 +1695,41 @@ class AuraIconsLineDuotone {
     'chart': chart,
     'chart2': chart2,
     'chartSquare': chartSquare,
-    'chatDots': chatDots,
-    'chatLine': chatLine,
+    'chartSquare2': chartSquare2,
     'chatRound': chatRound,
+    'chatRoundAdd': chatRoundAdd,
     'chatRoundCall': chatRoundCall,
     'chatRoundCheck': chatRoundCheck,
+    'chatRoundClose': chatRoundClose,
+    'chatRoundCode': chatRoundCode,
     'chatRoundDots': chatRoundDots,
     'chatRoundLike': chatRoundLike,
     'chatRoundLine': chatRoundLine,
     'chatRoundMoney': chatRoundMoney,
+    'chatRoundOff': chatRoundOff,
+    'chatRoundQuestionMark': chatRoundQuestionMark,
+    'chatRoundQuote': chatRoundQuote,
+    'chatRoundReplay': chatRoundReplay,
     'chatRoundUnread': chatRoundUnread,
     'chatRoundVideo': chatRoundVideo,
+    'chatRoundWarning': chatRoundWarning,
     'chatSquare': chatSquare,
-    'chatSquare2': chatSquare2,
+    'chatSquareAdd': chatSquareAdd,
     'chatSquareArrow': chatSquareArrow,
     'chatSquareCall': chatSquareCall,
     'chatSquareCheck': chatSquareCheck,
+    'chatSquareClose': chatSquareClose,
     'chatSquareCode': chatSquareCode,
+    'chatSquareDots': chatSquareDots,
     'chatSquareLike': chatSquareLike,
-    'chatUnread': chatUnread,
+    'chatSquareLine': chatSquareLine,
+    'chatSquareOff': chatSquareOff,
+    'chatSquareQuestionMark': chatSquareQuestionMark,
+    'chatSquareQuote': chatSquareQuote,
+    'chatSquareReplay': chatSquareReplay,
+    'chatSquareUnread': chatSquareUnread,
+    'chatSquareWarning': chatSquareWarning,
+    'check': check,
     'checkCircle': checkCircle,
     'checkRead': checkRead,
     'checkSquare': checkSquare,
@@ -1491,8 +1738,18 @@ class AuraIconsLineDuotone {
     'chefHat': chefHat,
     'chefHatHeart': chefHatHeart,
     'chefHatMinimalistic': chefHatMinimalistic,
+    'chevronFirst': chevronFirst,
+    'chevronLast': chevronLast,
+    'chevronsDownUp': chevronsDownUp,
+    'chevronsLeftRight': chevronsLeftRight,
+    'chevronsLeftRightEllipsis': chevronsLeftRightEllipsis,
+    'chevronsRightLeft': chevronsRightLeft,
+    'chevronsUpDown': chevronsUpDown,
     'circleBottomDown': circleBottomDown,
     'circleBottomUp': circleBottomUp,
+    'circleDashed': circleDashed,
+    'circleDot': circleDot,
+    'circleDotDashed': circleDotDashed,
     'circleTopDown': circleTopDown,
     'circleTopUp': circleTopUp,
     'city': city,
@@ -1505,12 +1762,18 @@ class AuraIconsLineDuotone {
     'clipboard': clipboard,
     'clipboardAdd': clipboardAdd,
     'clipboardCheck': clipboardCheck,
+    'clipboardClock': clipboardClock,
+    'clipboardCopy': clipboardCopy,
     'clipboardHeart': clipboardHeart,
     'clipboardList': clipboardList,
+    'clipboardMinus': clipboardMinus,
+    'clipboardPaste': clipboardPaste,
     'clipboardRemove': clipboardRemove,
     'clipboardText': clipboardText,
+    'clipboardType': clipboardType,
     'clockCircle': clockCircle,
     'clockSquare': clockSquare,
+    'close': close,
     'closeCircle': closeCircle,
     'closeSquare': closeSquare,
     'closet': closet,
@@ -1521,7 +1784,6 @@ class AuraIconsLineDuotone {
     'cloudCheck': cloudCheck,
     'cloudCross': cloudCross,
     'cloudDownload': cloudDownload,
-    'cloudFile': cloudFile,
     'cloudMinus': cloudMinus,
     'cloudPlus': cloudPlus,
     'cloudRain': cloudRain,
@@ -1539,10 +1801,13 @@ class AuraIconsLineDuotone {
     'code': code,
     'code2': code2,
     'codeCircle': codeCircle,
-    'codeFile': codeFile,
     'codeScan': codeScan,
     'codeSquare': codeSquare,
     'colourTuning': colourTuning,
+    'columns2': columns2,
+    'columns3': columns3,
+    'columns3Cog': columns3Cog,
+    'columns4': columns4,
     'command': command,
     'compass': compass,
     'compassBig': compassBig,
@@ -1553,7 +1818,12 @@ class AuraIconsLineDuotone {
     'confettiMinimalistic': confettiMinimalistic,
     'confoundedCircle': confoundedCircle,
     'confoundedSquare': confoundedSquare,
+    'container': container,
     'copy': copy,
+    'copyAdd': copyAdd,
+    'copyCheck': copyCheck,
+    'copyClose': copyClose,
+    'copyMinus': copyMinus,
     'copyright': copyright,
     'corkscrew': corkscrew,
     'cosmetic': cosmetic,
@@ -1633,6 +1903,7 @@ class AuraIconsLineDuotone {
     'eraserCircle': eraserCircle,
     'eraserSquare': eraserSquare,
     'euro': euro,
+    'exclamationMark': exclamationMark,
     'exit': exit,
     'explicit': explicit,
     'exportIcon': exportIcon,
@@ -1648,19 +1919,46 @@ class AuraIconsLineDuotone {
     'feed': feed,
     'ferrisWheel': ferrisWheel,
     'figma': figma,
-    'figmaFile': figmaFile,
     'file': file,
+    'fileAdd': fileAdd,
+    'fileAudio': fileAudio,
+    'fileBadge': fileBadge,
+    'fileBraces': fileBraces,
+    'fileChart': fileChart,
+    'fileChart2': fileChart2,
     'fileCheck': fileCheck,
+    'fileCloud': fileCloud,
+    'fileCode': fileCode,
+    'fileCog': fileCog,
     'fileCorrupted': fileCorrupted,
     'fileDownload': fileDownload,
     'fileFavorite': fileFavorite,
+    'fileFigma': fileFigma,
+    'fileImage': fileImage,
     'fileLeft': fileLeft,
+    'fileLock': fileLock,
+    'fileMinus': fileMinus,
+    'filePen': filePen,
+    'filePlay': filePlay,
+    'fileQuestionMark': fileQuestionMark,
     'fileRemove': fileRemove,
     'fileRight': fileRight,
+    'fileSearch': fileSearch,
     'fileSend': fileSend,
+    'fileSignal': fileSignal,
+    'fileSliders': fileSliders,
     'fileSmile': fileSmile,
+    'fileSpreadsheet': fileSpreadsheet,
+    'fileStack': fileStack,
+    'fileTerminal': fileTerminal,
     'fileText': fileText,
+    'fileType': fileType,
+    'fileUser': fileUser,
+    'fileVideoCamera': fileVideoCamera,
+    'fileWarning': fileWarning,
+    'fileZip': fileZip,
     'filter': filter,
+    'filterClose': filterClose,
     'filters': filters,
     'fire': fire,
     'fireMinimalistic': fireMinimalistic,
@@ -1679,14 +1977,32 @@ class AuraIconsLineDuotone {
     'folder': folder,
     'folder2': folder2,
     'folderCheck': folderCheck,
+    'folderClock': folderClock,
     'folderCloud': folderCloud,
+    'folderCode': folderCode,
+    'folderCog': folderCog,
+    'folderDot': folderDot,
+    'folderDotOpen': folderDotOpen,
+    'folderDown': folderDown,
     'folderError': folderError,
     'folderFavoriteBookmark': folderFavoriteBookmark,
     'folderFavoriteStar': folderFavoriteStar,
+    'folderGit': folderGit,
+    'folderKanban': folderKanban,
+    'folderLock': folderLock,
     'folderOpen': folderOpen,
+    'folderOutput': folderOutput,
     'folderPathConnect': folderPathConnect,
+    'folderPen': folderPen,
+    'folderSearch': folderSearch,
     'folderSecurity': folderSecurity,
+    'folderSymlink': folderSymlink,
+    'folderSync': folderSync,
+    'folderTree': folderTree,
+    'folderUp': folderUp,
     'folderWithFiles': folderWithFiles,
+    'folderZip': folderZip,
+    'folders': folders,
     'football': football,
     'forbidden': forbidden,
     'forbiddenCircle': forbiddenCircle,
@@ -1694,6 +2010,7 @@ class AuraIconsLineDuotone {
     'forward2': forward2,
     'forwardRight': forwardRight,
     'fourK': fourK,
+    'frame': frame,
     'fridge': fridge,
     'fuel': fuel,
     'fullScreen': fullScreen,
@@ -1722,6 +2039,12 @@ class AuraIconsLineDuotone {
     'ghost': ghost,
     'ghostSmile': ghostSmile,
     'gift': gift,
+    'gitBranch': gitBranch,
+    'gitCommit': gitCommit,
+    'gitDiff': gitDiff,
+    'gitFork': gitFork,
+    'gitGraph': gitGraph,
+    'gitPullRequest': gitPullRequest,
     'glasses': glasses,
     'global': global,
     'globe': globe,
@@ -1733,6 +2056,15 @@ class AuraIconsLineDuotone {
     'graphNew': graphNew,
     'graphNewUp': graphNewUp,
     'graphUp': graphUp,
+    'grid2x2': grid2x2,
+    'grid2x2Add': grid2x2Add,
+    'grid2x2Check': grid2x2Check,
+    'grid2x2Close': grid2x2Close,
+    'grid3x2': grid3x2,
+    'grid3x3': grid3x3,
+    'grip': grip,
+    'gripHorizontal': gripHorizontal,
+    'gripVertical': gripVertical,
     'hamburgerMenu': hamburgerMenu,
     'handHeart': handHeart,
     'handMoney': handMoney,
@@ -1798,6 +2130,8 @@ class AuraIconsLineDuotone {
     'infoSquare': infoSquare,
     'jarOfPills': jarOfPills,
     'jarOfPills2': jarOfPills2,
+    'kanban': kanban,
+    'kanbanSquare': kanbanSquare,
     'key': key,
     'keyMinimalistic': keyMinimalistic,
     'keyMinimalistic2': keyMinimalistic2,
@@ -1816,6 +2150,8 @@ class AuraIconsLineDuotone {
     'laptopMinimalistic': laptopMinimalistic,
     'layers': layers,
     'layersMinimalistic': layersMinimalistic,
+    'layoutFreeform': layoutFreeform,
+    'layoutList': layoutList,
     'leaf': leaf,
     'letter': letter,
     'letterOpened': letterOpened,
@@ -1840,15 +2176,24 @@ class AuraIconsLineDuotone {
     'listArrowUpMinimalistic': listArrowUpMinimalistic,
     'listCheck': listCheck,
     'listCheckMinimalistic': listCheckMinimalistic,
+    'listCollapse': listCollapse,
+    'listCollapseMinimalistic': listCollapseMinimalistic,
     'listCross': listCross,
     'listCrossMinimalistic': listCrossMinimalistic,
     'listDown': listDown,
     'listDownMinimalistic': listDownMinimalistic,
     'listHeart': listHeart,
     'listHeartMinimalistic': listHeartMinimalistic,
+    'listMinus': listMinus,
+    'listMinusMinimalistic': listMinusMinimalistic,
+    'listOrdered': listOrdered,
+    'listOrderedMinimalistic': listOrderedMinimalistic,
+    'listPlus': listPlus,
+    'listPlusMinimalistic': listPlusMinimalistic,
     'listUp': listUp,
     'listUpMinimalistic': listUpMinimalistic,
     'listVertical': listVertical,
+    'loader': loader,
     'lock': lock,
     'lockKeyhole': lockKeyhole,
     'lockKeyholeMinimalistic': lockKeyholeMinimalistic,
@@ -1870,6 +2215,9 @@ class AuraIconsLineDuotone {
     'magnetWave': magnetWave,
     'magnifier': magnifier,
     'magnifierBug': magnifierBug,
+    'magnifierCheck': magnifierCheck,
+    'magnifierClose': magnifierClose,
+    'magnifierSlash': magnifierSlash,
     'magnifierZoomIn': magnifierZoomIn,
     'magnifierZoomOut': magnifierZoomOut,
     'mailbox': mailbox,
@@ -1911,12 +2259,16 @@ class AuraIconsLineDuotone {
     'menuDots': menuDots,
     'menuDotsCircle': menuDotsCircle,
     'menuDotsSquare': menuDotsSquare,
+    'menuDotsVertical': menuDotsVertical,
     'microphone': microphone,
     'microphone2': microphone2,
     'microphone3': microphone3,
     'microphoneLarge': microphoneLarge,
     'minimalisticMagnifier': minimalisticMagnifier,
     'minimalisticMagnifierBug': minimalisticMagnifierBug,
+    'minimalisticMagnifierCheck': minimalisticMagnifierCheck,
+    'minimalisticMagnifierClose': minimalisticMagnifierClose,
+    'minimalisticMagnifierSlash': minimalisticMagnifierSlash,
     'minimalisticMagnifierZoomIn': minimalisticMagnifierZoomIn,
     'minimalisticMagnifierZoomOut': minimalisticMagnifierZoomOut,
     'minimize': minimize,
@@ -1924,6 +2276,7 @@ class AuraIconsLineDuotone {
     'minimizeSquare2': minimizeSquare2,
     'minimizeSquare3': minimizeSquare3,
     'minimizeSquareMinimalistic': minimizeSquareMinimalistic,
+    'minus': minus,
     'minusCircle': minusCircle,
     'minusSquare': minusSquare,
     'mirror': mirror,
@@ -1942,7 +2295,13 @@ class AuraIconsLineDuotone {
     'mouse': mouse,
     'mouseCircle': mouseCircle,
     'mouseMinimalistic': mouseMinimalistic,
+    'move': move,
+    'move3d': move3d,
+    'moveCircle': moveCircle,
+    'moveHorizontal': moveHorizontal,
+    'moveSquare': moveSquare,
     'moveToFolder': moveToFolder,
+    'moveVertical': moveVertical,
     'mug': mug,
     'multipleForwardLeft': multipleForwardLeft,
     'multipleForwardRight': multipleForwardRight,
@@ -1972,10 +2331,28 @@ class AuraIconsLineDuotone {
     'outgoingCallRounded': outgoingCallRounded,
     'ovenMitts': ovenMitts,
     'ovenMittsMinimalistic': ovenMittsMinimalistic,
+    'paintBrush': paintBrush,
     'paintRoller': paintRoller,
     'palette': palette,
     'palette2': palette2,
     'paletteRound': paletteRound,
+    'panelBottom': panelBottom,
+    'panelBottomClose': panelBottomClose,
+    'panelBottomOpen': panelBottomOpen,
+    'panelLeft': panelLeft,
+    'panelLeftClose': panelLeftClose,
+    'panelLeftOpen': panelLeftOpen,
+    'panelRight': panelRight,
+    'panelRightClose': panelRightClose,
+    'panelRightOpen': panelRightOpen,
+    'panelTextRight': panelTextRight,
+    'panelTop': panelTop,
+    'panelTopClose': panelTopClose,
+    'panelTopOpen': panelTopOpen,
+    'panelsBottomLeft': panelsBottomLeft,
+    'panelsBottomRight': panelsBottomRight,
+    'panelsTopLeft': panelsTopLeft,
+    'panelsTopRight': panelsTopRight,
     'panorama': panorama,
     'paperBin': paperBin,
     'paperclip': paperclip,
@@ -1983,6 +2360,7 @@ class AuraIconsLineDuotone {
     'paperclipRounded': paperclipRounded,
     'paperclipRounded2': paperclipRounded2,
     'paragraphSpacing': paragraphSpacing,
+    'parentheses': parentheses,
     'passport': passport,
     'passportMinimalistic': passportMinimalistic,
     'password': password,
@@ -2049,11 +2427,15 @@ class AuraIconsLineDuotone {
     'pulse2': pulse2,
     'qrCode': qrCode,
     'questionCircle': questionCircle,
+    'questionMark': questionMark,
     'questionSquare': questionSquare,
     'quitFullScreen': quitFullScreen,
     'quitFullScreenCircle': quitFullScreenCircle,
     'quitFullScreenSquare': quitFullScreenSquare,
     'quitPip': quitPip,
+    'quote': quote,
+    'quoteCircle': quoteCircle,
+    'quoteSquare': quoteSquare,
     'radar': radar,
     'radar2': radar2,
     'radialBlur': radialBlur,
@@ -2124,12 +2506,18 @@ class AuraIconsLineDuotone {
     'roundTransferVertical': roundTransferVertical,
     'roundedMagnifier': roundedMagnifier,
     'roundedMagnifierBug': roundedMagnifierBug,
+    'roundedMagnifierCheck': roundedMagnifierCheck,
+    'roundedMagnifierClose': roundedMagnifierClose,
+    'roundedMagnifierSlash': roundedMagnifierSlash,
     'roundedMagnifierZoomIn': roundedMagnifierZoomIn,
     'roundedMagnifierZoomOut': roundedMagnifierZoomOut,
     'route': route,
     'routing': routing,
     'routing2': routing2,
     'routing3': routing3,
+    'rows2': rows2,
+    'rows3': rows3,
+    'rows4': rows4,
     'ruble': ruble,
     'rugby': rugby,
     'ruler': ruler,
@@ -2160,6 +2548,8 @@ class AuraIconsLineDuotone {
     'sdCard': sdCard,
     'sendSquare': sendSquare,
     'sendTwiceSquare': sendTwiceSquare,
+    'separatorHorizontal': separatorHorizontal,
+    'separatorVertical': separatorVertical,
     'server': server,
     'server2': server2,
     'serverMinimalistic': serverMinimalistic,
@@ -2171,6 +2561,7 @@ class AuraIconsLineDuotone {
     'settingsMinimalistic': settingsMinimalistic,
     'share': share,
     'shareCircle': shareCircle,
+    'sheet': sheet,
     'shield': shield,
     'shieldCheck': shieldCheck,
     'shieldCross': shieldCross,
@@ -2189,9 +2580,7 @@ class AuraIconsLineDuotone {
     'shop2': shop2,
     'shopMinimalistic': shopMinimalistic,
     'shuffle': shuffle,
-    'sidebar': sidebar,
     'sidebarCode': sidebarCode,
-    'sidebarMinimalistic': sidebarMinimalistic,
     'signpost': signpost,
     'signpost2': signpost2,
     'simCard': simCard,
@@ -2268,6 +2657,9 @@ class AuraIconsLineDuotone {
     'squareArrowUp': squareArrowUp,
     'squareBottomDown': squareBottomDown,
     'squareBottomUp': squareBottomUp,
+    'squareDashed': squareDashed,
+    'squareDot': squareDot,
+    'squareDotDashed': squareDotDashed,
     'squareDoubleAltArrowDown': squareDoubleAltArrowDown,
     'squareDoubleAltArrowLeft': squareDoubleAltArrowLeft,
     'squareDoubleAltArrowRight': squareDoubleAltArrowRight,
@@ -2290,6 +2682,7 @@ class AuraIconsLineDuotone {
     'starFall2': starFall2,
     'starFallMinimalistic': starFallMinimalistic,
     'starFallMinimalistic2': starFallMinimalistic2,
+    'starOff': starOff,
     'starRainbow': starRainbow,
     'starRing': starRing,
     'starRings': starRings,
@@ -2333,6 +2726,13 @@ class AuraIconsLineDuotone {
     'swimming': swimming,
     'syringe': syringe,
     'tShirt': tShirt,
+    'table': table,
+    'tableCellsMerge': tableCellsMerge,
+    'tableCellsSplit': tableCellsSplit,
+    'tableColumnsSplit': tableColumnsSplit,
+    'tableMinimalistic': tableMinimalistic,
+    'tableProperties': tableProperties,
+    'tableRowsSplit': tableRowsSplit,
     'tablet': tablet,
     'tag': tag,
     'tagHorizontal': tagHorizontal,
@@ -2366,10 +2766,11 @@ class AuraIconsLineDuotone {
     'textUnderlineCross': textUnderlineCross,
     'thermometer': thermometer,
     'threeSquares': threeSquares,
-    'tickerStar': tickerStar,
     'ticket': ticket,
     'ticketSale': ticketSale,
+    'ticketStar': ticketStar,
     'toPip': toPip,
+    'toolbox': toolbox,
     'tornado': tornado,
     'tornadoSmall': tornadoSmall,
     'traffic': traffic,
@@ -2456,6 +2857,7 @@ class AuraIconsLineDuotone {
     'videoLibrary': videoLibrary,
     'videocamera': videocamera,
     'videocameraAdd': videocameraAdd,
+    'videocameraOff': videocameraOff,
     'videocameraRecord': videocameraRecord,
     'vinyl': vinyl,
     'vinylRecord': vinylRecord,
@@ -2483,9 +2885,18 @@ class AuraIconsLineDuotone {
     'waterSun': waterSun,
     'waterdrop': waterdrop,
     'waterdrops': waterdrops,
+    'webcam': webcam,
+    'webcamOff': webcamOff,
     'wheel': wheel,
     'wheelAngle': wheelAngle,
     'whisk': whisk,
+    'wiFi': wiFi,
+    'wiFiCog': wiFiCog,
+    'wiFiCross': wiFiCross,
+    'wiFiHigh': wiFiHigh,
+    'wiFiLow': wiFiLow,
+    'wiFiNone': wiFiNone,
+    'wiFiOff': wiFiOff,
     'wiFiRouter': wiFiRouter,
     'wiFiRouterMinimalistic': wiFiRouterMinimalistic,
     'wiFiRouterRound': wiFiRouterRound,
@@ -2504,6 +2915,5 @@ class AuraIconsLineDuotone {
     'wirelessCharge': wirelessCharge,
     'women': women,
     'xxx': xxx,
-    'zipFile': zipFile,
   };
 }
