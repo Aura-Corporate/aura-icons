@@ -10,7 +10,7 @@ const upstreamRepo = 'solar-icons';
 
 /// Pinned commit SHA. Bump this to refresh from upstream. Update the same
 /// value in THIRD_PARTY_NOTICES.md when changing it.
-const upstreamCommitSha = '750ab81d2c31164463d168bdfd52e8a7632deeaf';
+const upstreamCommitSha = '8159197b6f9450cdd2bb9bea63b701f325d1a6e8';
 
 /// Path inside the upstream repo tarball that holds the raw SVG source.
 const upstreamSvgsPath = 'packages/core/svgs';
