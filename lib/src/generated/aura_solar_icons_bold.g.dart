@@ -1,6 +1,6 @@
 // GENERATED FILE — DO NOT EDIT BY HAND.
 //
-// Source: saoudi-h/solar-icons @ 750ab81d2c31164463d168bdfd52e8a7632deeaf
+// Source: saoudi-h/solar-icons @ daab4e55280334a0e9089ca5c3273a012696c2dc
 // Regenerate: `cd tool && dart pub get && dart run generate_icons.dart`
 //
 // ignore_for_file: type=lint
@@ -11,6 +11,7 @@ class AuraIconsBold {
   AuraIconsBold._();
 
   static const AuraIconData accessibility = AuraIconData('assets/vectors/bold/accessibility.vec');
+  static const AuraIconData add = AuraIconData('assets/vectors/bold/add.vec');
   static const AuraIconData addCircle = AuraIconData('assets/vectors/bold/add-circle.vec');
   static const AuraIconData addFolder = AuraIconData('assets/vectors/bold/add-folder.vec');
   static const AuraIconData addSquare = AuraIconData('assets/vectors/bold/add-square.vec');
@@ -26,6 +27,7 @@ class AuraIconsBold {
   static const AuraIconData airbudsLeft = AuraIconData('assets/vectors/bold/airbuds-left.vec');
   static const AuraIconData airbudsRemove = AuraIconData('assets/vectors/bold/airbuds-remove.vec');
   static const AuraIconData airbudsRight = AuraIconData('assets/vectors/bold/airbuds-right.vec');
+  static const AuraIconData airplane = AuraIconData('assets/vectors/bold/airplane.vec');
   static const AuraIconData alarm = AuraIconData('assets/vectors/bold/alarm.vec');
   static const AuraIconData alarmAdd = AuraIconData('assets/vectors/bold/alarm-add.vec');
   static const AuraIconData alarmPause = AuraIconData('assets/vectors/bold/alarm-pause.vec');
@@ -46,27 +48,40 @@ class AuraIconsBold {
   static const AuraIconData altArrowLeft = AuraIconData('assets/vectors/bold/alt-arrow-left.vec');
   static const AuraIconData altArrowRight = AuraIconData('assets/vectors/bold/alt-arrow-right.vec');
   static const AuraIconData altArrowUp = AuraIconData('assets/vectors/bold/alt-arrow-up.vec');
+  static const AuraIconData anchor = AuraIconData('assets/vectors/bold/anchor.vec');
+  static const AuraIconData apple = AuraIconData('assets/vectors/bold/apple.vec');
   static const AuraIconData archive = AuraIconData('assets/vectors/bold/archive.vec');
   static const AuraIconData archiveCheck = AuraIconData('assets/vectors/bold/archive-check.vec');
+  static const AuraIconData archiveClose = AuraIconData('assets/vectors/bold/archive-close.vec');
   static const AuraIconData archiveDown = AuraIconData('assets/vectors/bold/archive-down.vec');
   static const AuraIconData archiveDownMinimalistic = AuraIconData('assets/vectors/bold/archive-down-minimalistic.vec');
   static const AuraIconData archiveMinimalistic = AuraIconData('assets/vectors/bold/archive-minimalistic.vec');
+  static const AuraIconData archiveMinimalisticClose = AuraIconData('assets/vectors/bold/archive-minimalistic-close.vec');
   static const AuraIconData archiveUp = AuraIconData('assets/vectors/bold/archive-up.vec');
   static const AuraIconData archiveUpMinimalistic = AuraIconData('assets/vectors/bold/archive-up-minimalistic.vec');
   static const AuraIconData armchair = AuraIconData('assets/vectors/bold/armchair.vec');
   static const AuraIconData armchair2 = AuraIconData('assets/vectors/bold/armchair-2.vec');
   static const AuraIconData arrowDown = AuraIconData('assets/vectors/bold/arrow-down.vec');
+  static const AuraIconData arrowDownFromLine = AuraIconData('assets/vectors/bold/arrow-down-from-line.vec');
+  static const AuraIconData arrowDownToLine = AuraIconData('assets/vectors/bold/arrow-down-to-line.vec');
   static const AuraIconData arrowLeft = AuraIconData('assets/vectors/bold/arrow-left.vec');
   static const AuraIconData arrowLeftDown = AuraIconData('assets/vectors/bold/arrow-left-down.vec');
+  static const AuraIconData arrowLeftFromLine = AuraIconData('assets/vectors/bold/arrow-left-from-line.vec');
+  static const AuraIconData arrowLeftToLine = AuraIconData('assets/vectors/bold/arrow-left-to-line.vec');
   static const AuraIconData arrowLeftUp = AuraIconData('assets/vectors/bold/arrow-left-up.vec');
   static const AuraIconData arrowRight = AuraIconData('assets/vectors/bold/arrow-right.vec');
   static const AuraIconData arrowRightDown = AuraIconData('assets/vectors/bold/arrow-right-down.vec');
+  static const AuraIconData arrowRightFromLine = AuraIconData('assets/vectors/bold/arrow-right-from-line.vec');
+  static const AuraIconData arrowRightToLine = AuraIconData('assets/vectors/bold/arrow-right-to-line.vec');
   static const AuraIconData arrowRightUp = AuraIconData('assets/vectors/bold/arrow-right-up.vec');
   static const AuraIconData arrowToDownLeft = AuraIconData('assets/vectors/bold/arrow-to-down-left.vec');
   static const AuraIconData arrowToDownRight = AuraIconData('assets/vectors/bold/arrow-to-down-right.vec');
   static const AuraIconData arrowToTopLeft = AuraIconData('assets/vectors/bold/arrow-to-top-left.vec');
   static const AuraIconData arrowToTopRight = AuraIconData('assets/vectors/bold/arrow-to-top-right.vec');
   static const AuraIconData arrowUp = AuraIconData('assets/vectors/bold/arrow-up.vec');
+  static const AuraIconData arrowUpFromLine = AuraIconData('assets/vectors/bold/arrow-up-from-line.vec');
+  static const AuraIconData arrowUpToLine = AuraIconData('assets/vectors/bold/arrow-up-to-line.vec');
+  static const AuraIconData asterisk = AuraIconData('assets/vectors/bold/asterisk.vec');
   static const AuraIconData asteroid = AuraIconData('assets/vectors/bold/asteroid.vec');
   static const AuraIconData atom = AuraIconData('assets/vectors/bold/atom.vec');
   static const AuraIconData augmentedReality = AuraIconData('assets/vectors/bold/augmented-reality.vec');
@@ -86,9 +101,12 @@ class AuraIconsBold {
   static const AuraIconData bagSmile = AuraIconData('assets/vectors/bold/bag-smile.vec');
   static const AuraIconData balloon = AuraIconData('assets/vectors/bold/balloon.vec');
   static const AuraIconData balls = AuraIconData('assets/vectors/bold/balls.vec');
+  static const AuraIconData bank = AuraIconData('assets/vectors/bold/bank.vec');
   static const AuraIconData banknote = AuraIconData('assets/vectors/bold/banknote.vec');
   static const AuraIconData banknote2 = AuraIconData('assets/vectors/bold/banknote-2.vec');
   static const AuraIconData barChair = AuraIconData('assets/vectors/bold/bar-chair.vec');
+  static const AuraIconData barcode = AuraIconData('assets/vectors/bold/barcode.vec');
+  static const AuraIconData barcodeScan = AuraIconData('assets/vectors/bold/barcode-scan.vec');
   static const AuraIconData basketball = AuraIconData('assets/vectors/bold/basketball.vec');
   static const AuraIconData bath = AuraIconData('assets/vectors/bold/bath.vec');
   static const AuraIconData batteryCharge = AuraIconData('assets/vectors/bold/battery-charge.vec');
@@ -108,6 +126,7 @@ class AuraIconsBold {
   static const AuraIconData bellOff = AuraIconData('assets/vectors/bold/bell-off.vec');
   static const AuraIconData bellRing = AuraIconData('assets/vectors/bold/bell-ring.vec');
   static const AuraIconData benzeneRing = AuraIconData('assets/vectors/bold/benzene-ring.vec');
+  static const AuraIconData bicycle = AuraIconData('assets/vectors/bold/bicycle.vec');
   static const AuraIconData bicycling = AuraIconData('assets/vectors/bold/bicycling.vec');
   static const AuraIconData bicyclingRound = AuraIconData('assets/vectors/bold/bicycling-round.vec');
   static const AuraIconData bill = AuraIconData('assets/vectors/bold/bill.vec');
@@ -115,11 +134,16 @@ class AuraIconsBold {
   static const AuraIconData billCheck = AuraIconData('assets/vectors/bold/bill-check.vec');
   static const AuraIconData billCross = AuraIconData('assets/vectors/bold/bill-cross.vec');
   static const AuraIconData billList = AuraIconData('assets/vectors/bold/bill-list.vec');
+  static const AuraIconData binoculars = AuraIconData('assets/vectors/bold/binoculars.vec');
+  static const AuraIconData bitcoin = AuraIconData('assets/vectors/bold/bitcoin.vec');
   static const AuraIconData blackHole = AuraIconData('assets/vectors/bold/black-hole.vec');
   static const AuraIconData blackHole2 = AuraIconData('assets/vectors/bold/black-hole-2.vec');
   static const AuraIconData blackHole3 = AuraIconData('assets/vectors/bold/black-hole-3.vec');
+  static const AuraIconData blend = AuraIconData('assets/vectors/bold/blend.vec');
+  static const AuraIconData blocks = AuraIconData('assets/vectors/bold/blocks.vec');
   static const AuraIconData bluetooth = AuraIconData('assets/vectors/bold/bluetooth.vec');
   static const AuraIconData bluetoothCircle = AuraIconData('assets/vectors/bold/bluetooth-circle.vec');
+  static const AuraIconData bluetoothOff = AuraIconData('assets/vectors/bold/bluetooth-off.vec');
   static const AuraIconData bluetoothSquare = AuraIconData('assets/vectors/bold/bluetooth-square.vec');
   static const AuraIconData bluetoothWave = AuraIconData('assets/vectors/bold/bluetooth-wave.vec');
   static const AuraIconData body = AuraIconData('assets/vectors/bold/body.vec');
@@ -141,31 +165,46 @@ class AuraIconsBold {
   static const AuraIconData bookBookmarkMinimalistic = AuraIconData('assets/vectors/bold/book-bookmark-minimalistic.vec');
   static const AuraIconData bookMinimalistic = AuraIconData('assets/vectors/bold/book-minimalistic.vec');
   static const AuraIconData bookmark = AuraIconData('assets/vectors/bold/bookmark.vec');
+  static const AuraIconData bookmarkCheck = AuraIconData('assets/vectors/bold/bookmark-check.vec');
   static const AuraIconData bookmarkCircle = AuraIconData('assets/vectors/bold/bookmark-circle.vec');
+  static const AuraIconData bookmarkMinus = AuraIconData('assets/vectors/bold/bookmark-minus.vec');
+  static const AuraIconData bookmarkOff = AuraIconData('assets/vectors/bold/bookmark-off.vec');
   static const AuraIconData bookmarkOpened = AuraIconData('assets/vectors/bold/bookmark-opened.vec');
+  static const AuraIconData bookmarkPlus = AuraIconData('assets/vectors/bold/bookmark-plus.vec');
   static const AuraIconData bookmarkSquare = AuraIconData('assets/vectors/bold/bookmark-square.vec');
   static const AuraIconData bookmarkSquareMinimalistic = AuraIconData('assets/vectors/bold/bookmark-square-minimalistic.vec');
+  static const AuraIconData bookmarkX = AuraIconData('assets/vectors/bold/bookmark-x.vec');
   static const AuraIconData boombox = AuraIconData('assets/vectors/bold/boombox.vec');
+  static const AuraIconData bot = AuraIconData('assets/vectors/bold/bot.vec');
   static const AuraIconData bottle = AuraIconData('assets/vectors/bold/bottle.vec');
   static const AuraIconData bowling = AuraIconData('assets/vectors/bold/bowling.vec');
   static const AuraIconData box = AuraIconData('assets/vectors/bold/box.vec');
   static const AuraIconData boxMinimalistic = AuraIconData('assets/vectors/bold/box-minimalistic.vec');
+  static const AuraIconData braces = AuraIconData('assets/vectors/bold/braces.vec');
+  static const AuraIconData brackets = AuraIconData('assets/vectors/bold/brackets.vec');
+  static const AuraIconData brain = AuraIconData('assets/vectors/bold/brain.vec');
   static const AuraIconData branchingPathsDown = AuraIconData('assets/vectors/bold/branching-paths-down.vec');
   static const AuraIconData branchingPathsUp = AuraIconData('assets/vectors/bold/branching-paths-up.vec');
   static const AuraIconData broom = AuraIconData('assets/vectors/bold/broom.vec');
+  static const AuraIconData brushCrossPen = AuraIconData('assets/vectors/bold/brush-cross-pen.vec');
   static const AuraIconData bug = AuraIconData('assets/vectors/bold/bug.vec');
   static const AuraIconData bugMinimalistic = AuraIconData('assets/vectors/bold/bug-minimalistic.vec');
   static const AuraIconData buildings = AuraIconData('assets/vectors/bold/buildings.vec');
   static const AuraIconData buildings2 = AuraIconData('assets/vectors/bold/buildings-2.vec');
   static const AuraIconData buildings3 = AuraIconData('assets/vectors/bold/buildings-3.vec');
+  static const AuraIconData burger = AuraIconData('assets/vectors/bold/burger.vec');
   static const AuraIconData bus = AuraIconData('assets/vectors/bold/bus.vec');
+  static const AuraIconData cake = AuraIconData('assets/vectors/bold/cake.vec');
   static const AuraIconData calculator = AuraIconData('assets/vectors/bold/calculator.vec');
   static const AuraIconData calculatorMinimalistic = AuraIconData('assets/vectors/bold/calculator-minimalistic.vec');
   static const AuraIconData calendar = AuraIconData('assets/vectors/bold/calendar.vec');
   static const AuraIconData calendarAdd = AuraIconData('assets/vectors/bold/calendar-add.vec');
+  static const AuraIconData calendarCheck = AuraIconData('assets/vectors/bold/calendar-check.vec');
+  static const AuraIconData calendarClose = AuraIconData('assets/vectors/bold/calendar-close.vec');
   static const AuraIconData calendarDate = AuraIconData('assets/vectors/bold/calendar-date.vec');
   static const AuraIconData calendarMark = AuraIconData('assets/vectors/bold/calendar-mark.vec');
   static const AuraIconData calendarMinimalistic = AuraIconData('assets/vectors/bold/calendar-minimalistic.vec');
+  static const AuraIconData calendarRange = AuraIconData('assets/vectors/bold/calendar-range.vec');
   static const AuraIconData calendarSearch = AuraIconData('assets/vectors/bold/calendar-search.vec');
   static const AuraIconData callCancel = AuraIconData('assets/vectors/bold/call-cancel.vec');
   static const AuraIconData callCancelRounded = AuraIconData('assets/vectors/bold/call-cancel-rounded.vec');
@@ -178,8 +217,10 @@ class AuraIconsBold {
   static const AuraIconData camera = AuraIconData('assets/vectors/bold/camera.vec');
   static const AuraIconData cameraAdd = AuraIconData('assets/vectors/bold/camera-add.vec');
   static const AuraIconData cameraMinimalistic = AuraIconData('assets/vectors/bold/camera-minimalistic.vec');
+  static const AuraIconData cameraOff = AuraIconData('assets/vectors/bold/camera-off.vec');
   static const AuraIconData cameraRotate = AuraIconData('assets/vectors/bold/camera-rotate.vec');
   static const AuraIconData cameraSquare = AuraIconData('assets/vectors/bold/camera-square.vec');
+  static const AuraIconData car = AuraIconData('assets/vectors/bold/car.vec');
   static const AuraIconData carBattery = AuraIconData('assets/vectors/bold/car-battery.vec');
   static const AuraIconData card = AuraIconData('assets/vectors/bold/card.vec');
   static const AuraIconData card2 = AuraIconData('assets/vectors/bold/card-2.vec');
@@ -214,36 +255,68 @@ class AuraIconsBold {
   static const AuraIconData chandelier = AuraIconData('assets/vectors/bold/chandelier.vec');
   static const AuraIconData chart = AuraIconData('assets/vectors/bold/chart.vec');
   static const AuraIconData chart2 = AuraIconData('assets/vectors/bold/chart-2.vec');
+  static const AuraIconData chartArea = AuraIconData('assets/vectors/bold/chart-area.vec');
+  static const AuraIconData chartCandlestick = AuraIconData('assets/vectors/bold/chart-candlestick.vec');
+  static const AuraIconData chartGantt = AuraIconData('assets/vectors/bold/chart-gantt.vec');
+  static const AuraIconData chartScatter = AuraIconData('assets/vectors/bold/chart-scatter.vec');
   static const AuraIconData chartSquare = AuraIconData('assets/vectors/bold/chart-square.vec');
-  static const AuraIconData chatDots = AuraIconData('assets/vectors/bold/chat-dots.vec');
-  static const AuraIconData chatLine = AuraIconData('assets/vectors/bold/chat-line.vec');
+  static const AuraIconData chartSquare2 = AuraIconData('assets/vectors/bold/chart-square-2.vec');
   static const AuraIconData chatRound = AuraIconData('assets/vectors/bold/chat-round.vec');
+  static const AuraIconData chatRoundAdd = AuraIconData('assets/vectors/bold/chat-round-add.vec');
   static const AuraIconData chatRoundCall = AuraIconData('assets/vectors/bold/chat-round-call.vec');
   static const AuraIconData chatRoundCheck = AuraIconData('assets/vectors/bold/chat-round-check.vec');
+  static const AuraIconData chatRoundClose = AuraIconData('assets/vectors/bold/chat-round-close.vec');
+  static const AuraIconData chatRoundCode = AuraIconData('assets/vectors/bold/chat-round-code.vec');
   static const AuraIconData chatRoundDots = AuraIconData('assets/vectors/bold/chat-round-dots.vec');
   static const AuraIconData chatRoundLike = AuraIconData('assets/vectors/bold/chat-round-like.vec');
   static const AuraIconData chatRoundLine = AuraIconData('assets/vectors/bold/chat-round-line.vec');
   static const AuraIconData chatRoundMoney = AuraIconData('assets/vectors/bold/chat-round-money.vec');
+  static const AuraIconData chatRoundOff = AuraIconData('assets/vectors/bold/chat-round-off.vec');
+  static const AuraIconData chatRoundQuestionMark = AuraIconData('assets/vectors/bold/chat-round-question-mark.vec');
+  static const AuraIconData chatRoundQuote = AuraIconData('assets/vectors/bold/chat-round-quote.vec');
+  static const AuraIconData chatRoundReplay = AuraIconData('assets/vectors/bold/chat-round-replay.vec');
   static const AuraIconData chatRoundUnread = AuraIconData('assets/vectors/bold/chat-round-unread.vec');
   static const AuraIconData chatRoundVideo = AuraIconData('assets/vectors/bold/chat-round-video.vec');
+  static const AuraIconData chatRoundWarning = AuraIconData('assets/vectors/bold/chat-round-warning.vec');
   static const AuraIconData chatSquare = AuraIconData('assets/vectors/bold/chat-square.vec');
-  static const AuraIconData chatSquare2 = AuraIconData('assets/vectors/bold/chat-square-2.vec');
+  static const AuraIconData chatSquareAdd = AuraIconData('assets/vectors/bold/chat-square-add.vec');
   static const AuraIconData chatSquareArrow = AuraIconData('assets/vectors/bold/chat-square-arrow.vec');
   static const AuraIconData chatSquareCall = AuraIconData('assets/vectors/bold/chat-square-call.vec');
   static const AuraIconData chatSquareCheck = AuraIconData('assets/vectors/bold/chat-square-check.vec');
+  static const AuraIconData chatSquareClose = AuraIconData('assets/vectors/bold/chat-square-close.vec');
   static const AuraIconData chatSquareCode = AuraIconData('assets/vectors/bold/chat-square-code.vec');
+  static const AuraIconData chatSquareDots = AuraIconData('assets/vectors/bold/chat-square-dots.vec');
   static const AuraIconData chatSquareLike = AuraIconData('assets/vectors/bold/chat-square-like.vec');
-  static const AuraIconData chatUnread = AuraIconData('assets/vectors/bold/chat-unread.vec');
+  static const AuraIconData chatSquareLine = AuraIconData('assets/vectors/bold/chat-square-line.vec');
+  static const AuraIconData chatSquareOff = AuraIconData('assets/vectors/bold/chat-square-off.vec');
+  static const AuraIconData chatSquareQuestionMark = AuraIconData('assets/vectors/bold/chat-square-question-mark.vec');
+  static const AuraIconData chatSquareQuote = AuraIconData('assets/vectors/bold/chat-square-quote.vec');
+  static const AuraIconData chatSquareReplay = AuraIconData('assets/vectors/bold/chat-square-replay.vec');
+  static const AuraIconData chatSquareUnread = AuraIconData('assets/vectors/bold/chat-square-unread.vec');
+  static const AuraIconData chatSquareWarning = AuraIconData('assets/vectors/bold/chat-square-warning.vec');
+  static const AuraIconData check = AuraIconData('assets/vectors/bold/check.vec');
   static const AuraIconData checkCircle = AuraIconData('assets/vectors/bold/check-circle.vec');
   static const AuraIconData checkRead = AuraIconData('assets/vectors/bold/check-read.vec');
   static const AuraIconData checkSquare = AuraIconData('assets/vectors/bold/check-square.vec');
+  static const AuraIconData checkerboard = AuraIconData('assets/vectors/bold/checkerboard.vec');
   static const AuraIconData checklist = AuraIconData('assets/vectors/bold/checklist.vec');
   static const AuraIconData checklistMinimalistic = AuraIconData('assets/vectors/bold/checklist-minimalistic.vec');
   static const AuraIconData chefHat = AuraIconData('assets/vectors/bold/chef-hat.vec');
   static const AuraIconData chefHatHeart = AuraIconData('assets/vectors/bold/chef-hat-heart.vec');
   static const AuraIconData chefHatMinimalistic = AuraIconData('assets/vectors/bold/chef-hat-minimalistic.vec');
+  static const AuraIconData chevronFirst = AuraIconData('assets/vectors/bold/chevron-first.vec');
+  static const AuraIconData chevronLast = AuraIconData('assets/vectors/bold/chevron-last.vec');
+  static const AuraIconData chevronsDownUp = AuraIconData('assets/vectors/bold/chevrons-down-up.vec');
+  static const AuraIconData chevronsLeftRight = AuraIconData('assets/vectors/bold/chevrons-left-right.vec');
+  static const AuraIconData chevronsLeftRightEllipsis = AuraIconData('assets/vectors/bold/chevrons-left-right-ellipsis.vec');
+  static const AuraIconData chevronsRightLeft = AuraIconData('assets/vectors/bold/chevrons-right-left.vec');
+  static const AuraIconData chevronsUpDown = AuraIconData('assets/vectors/bold/chevrons-up-down.vec');
+  static const AuraIconData circle = AuraIconData('assets/vectors/bold/circle.vec');
   static const AuraIconData circleBottomDown = AuraIconData('assets/vectors/bold/circle-bottom-down.vec');
   static const AuraIconData circleBottomUp = AuraIconData('assets/vectors/bold/circle-bottom-up.vec');
+  static const AuraIconData circleDashed = AuraIconData('assets/vectors/bold/circle-dashed.vec');
+  static const AuraIconData circleDot = AuraIconData('assets/vectors/bold/circle-dot.vec');
+  static const AuraIconData circleDotDashed = AuraIconData('assets/vectors/bold/circle-dot-dashed.vec');
   static const AuraIconData circleTopDown = AuraIconData('assets/vectors/bold/circle-top-down.vec');
   static const AuraIconData circleTopUp = AuraIconData('assets/vectors/bold/circle-top-up.vec');
   static const AuraIconData city = AuraIconData('assets/vectors/bold/city.vec');
@@ -256,12 +329,18 @@ class AuraIconsBold {
   static const AuraIconData clipboard = AuraIconData('assets/vectors/bold/clipboard.vec');
   static const AuraIconData clipboardAdd = AuraIconData('assets/vectors/bold/clipboard-add.vec');
   static const AuraIconData clipboardCheck = AuraIconData('assets/vectors/bold/clipboard-check.vec');
+  static const AuraIconData clipboardClock = AuraIconData('assets/vectors/bold/clipboard-clock.vec');
+  static const AuraIconData clipboardCopy = AuraIconData('assets/vectors/bold/clipboard-copy.vec');
   static const AuraIconData clipboardHeart = AuraIconData('assets/vectors/bold/clipboard-heart.vec');
   static const AuraIconData clipboardList = AuraIconData('assets/vectors/bold/clipboard-list.vec');
+  static const AuraIconData clipboardMinus = AuraIconData('assets/vectors/bold/clipboard-minus.vec');
+  static const AuraIconData clipboardPaste = AuraIconData('assets/vectors/bold/clipboard-paste.vec');
   static const AuraIconData clipboardRemove = AuraIconData('assets/vectors/bold/clipboard-remove.vec');
   static const AuraIconData clipboardText = AuraIconData('assets/vectors/bold/clipboard-text.vec');
+  static const AuraIconData clipboardType = AuraIconData('assets/vectors/bold/clipboard-type.vec');
   static const AuraIconData clockCircle = AuraIconData('assets/vectors/bold/clock-circle.vec');
   static const AuraIconData clockSquare = AuraIconData('assets/vectors/bold/clock-square.vec');
+  static const AuraIconData close = AuraIconData('assets/vectors/bold/close.vec');
   static const AuraIconData closeCircle = AuraIconData('assets/vectors/bold/close-circle.vec');
   static const AuraIconData closeSquare = AuraIconData('assets/vectors/bold/close-square.vec');
   static const AuraIconData closet = AuraIconData('assets/vectors/bold/closet.vec');
@@ -272,8 +351,8 @@ class AuraIconsBold {
   static const AuraIconData cloudCheck = AuraIconData('assets/vectors/bold/cloud-check.vec');
   static const AuraIconData cloudCross = AuraIconData('assets/vectors/bold/cloud-cross.vec');
   static const AuraIconData cloudDownload = AuraIconData('assets/vectors/bold/cloud-download.vec');
-  static const AuraIconData cloudFile = AuraIconData('assets/vectors/bold/cloud-file.vec');
   static const AuraIconData cloudMinus = AuraIconData('assets/vectors/bold/cloud-minus.vec');
+  static const AuraIconData cloudOff = AuraIconData('assets/vectors/bold/cloud-off.vec');
   static const AuraIconData cloudPlus = AuraIconData('assets/vectors/bold/cloud-plus.vec');
   static const AuraIconData cloudRain = AuraIconData('assets/vectors/bold/cloud-rain.vec');
   static const AuraIconData cloudSnowfall = AuraIconData('assets/vectors/bold/cloud-snowfall.vec');
@@ -290,10 +369,14 @@ class AuraIconsBold {
   static const AuraIconData code = AuraIconData('assets/vectors/bold/code.vec');
   static const AuraIconData code2 = AuraIconData('assets/vectors/bold/code-2.vec');
   static const AuraIconData codeCircle = AuraIconData('assets/vectors/bold/code-circle.vec');
-  static const AuraIconData codeFile = AuraIconData('assets/vectors/bold/code-file.vec');
   static const AuraIconData codeScan = AuraIconData('assets/vectors/bold/code-scan.vec');
   static const AuraIconData codeSquare = AuraIconData('assets/vectors/bold/code-square.vec');
+  static const AuraIconData coins = AuraIconData('assets/vectors/bold/coins.vec');
   static const AuraIconData colourTuning = AuraIconData('assets/vectors/bold/colour-tuning.vec');
+  static const AuraIconData columns2 = AuraIconData('assets/vectors/bold/columns-2.vec');
+  static const AuraIconData columns3 = AuraIconData('assets/vectors/bold/columns-3.vec');
+  static const AuraIconData columns3Cog = AuraIconData('assets/vectors/bold/columns-3-cog.vec');
+  static const AuraIconData columns4 = AuraIconData('assets/vectors/bold/columns-4.vec');
   static const AuraIconData command = AuraIconData('assets/vectors/bold/command.vec');
   static const AuraIconData compass = AuraIconData('assets/vectors/bold/compass.vec');
   static const AuraIconData compassBig = AuraIconData('assets/vectors/bold/compass-big.vec');
@@ -304,7 +387,14 @@ class AuraIconsBold {
   static const AuraIconData confettiMinimalistic = AuraIconData('assets/vectors/bold/confetti-minimalistic.vec');
   static const AuraIconData confoundedCircle = AuraIconData('assets/vectors/bold/confounded-circle.vec');
   static const AuraIconData confoundedSquare = AuraIconData('assets/vectors/bold/confounded-square.vec');
+  static const AuraIconData container = AuraIconData('assets/vectors/bold/container.vec');
+  static const AuraIconData contrast = AuraIconData('assets/vectors/bold/contrast.vec');
+  static const AuraIconData cookie = AuraIconData('assets/vectors/bold/cookie.vec');
   static const AuraIconData copy = AuraIconData('assets/vectors/bold/copy.vec');
+  static const AuraIconData copyAdd = AuraIconData('assets/vectors/bold/copy-add.vec');
+  static const AuraIconData copyCheck = AuraIconData('assets/vectors/bold/copy-check.vec');
+  static const AuraIconData copyClose = AuraIconData('assets/vectors/bold/copy-close.vec');
+  static const AuraIconData copyMinus = AuraIconData('assets/vectors/bold/copy-minus.vec');
   static const AuraIconData copyright = AuraIconData('assets/vectors/bold/copyright.vec');
   static const AuraIconData corkscrew = AuraIconData('assets/vectors/bold/corkscrew.vec');
   static const AuraIconData cosmetic = AuraIconData('assets/vectors/bold/cosmetic.vec');
@@ -326,6 +416,7 @@ class AuraIconsBold {
   static const AuraIconData cupPaper = AuraIconData('assets/vectors/bold/cup-paper.vec');
   static const AuraIconData cupStar = AuraIconData('assets/vectors/bold/cup-star.vec');
   static const AuraIconData cursor = AuraIconData('assets/vectors/bold/cursor.vec');
+  static const AuraIconData cursorClick = AuraIconData('assets/vectors/bold/cursor-click.vec');
   static const AuraIconData cursorSquare = AuraIconData('assets/vectors/bold/cursor-square.vec');
   static const AuraIconData danger = AuraIconData('assets/vectors/bold/danger.vec');
   static const AuraIconData dangerCircle = AuraIconData('assets/vectors/bold/danger-circle.vec');
@@ -338,11 +429,15 @@ class AuraIconsBold {
   static const AuraIconData diagramUp = AuraIconData('assets/vectors/bold/diagram-up.vec');
   static const AuraIconData dialog = AuraIconData('assets/vectors/bold/dialog.vec');
   static const AuraIconData dialog2 = AuraIconData('assets/vectors/bold/dialog-2.vec');
+  static const AuraIconData diamond = AuraIconData('assets/vectors/bold/diamond.vec');
+  static const AuraIconData dice = AuraIconData('assets/vectors/bold/dice.vec');
   static const AuraIconData diploma = AuraIconData('assets/vectors/bold/diploma.vec');
   static const AuraIconData diplomaVerified = AuraIconData('assets/vectors/bold/diploma-verified.vec');
   static const AuraIconData diskette = AuraIconData('assets/vectors/bold/diskette.vec');
   static const AuraIconData dislike = AuraIconData('assets/vectors/bold/dislike.vec');
   static const AuraIconData display = AuraIconData('assets/vectors/bold/display.vec');
+  static const AuraIconData distort = AuraIconData('assets/vectors/bold/distort.vec');
+  static const AuraIconData divide = AuraIconData('assets/vectors/bold/divide.vec');
   static const AuraIconData dna = AuraIconData('assets/vectors/bold/dna.vec');
   static const AuraIconData document = AuraIconData('assets/vectors/bold/document.vec');
   static const AuraIconData document2 = AuraIconData('assets/vectors/bold/document-2.vec');
@@ -355,6 +450,7 @@ class AuraIconsBold {
   static const AuraIconData dollarMinimalistic = AuraIconData('assets/vectors/bold/dollar-minimalistic.vec');
   static const AuraIconData donut = AuraIconData('assets/vectors/bold/donut.vec');
   static const AuraIconData donutBitten = AuraIconData('assets/vectors/bold/donut-bitten.vec');
+  static const AuraIconData doorClosed = AuraIconData('assets/vectors/bold/door-closed.vec');
   static const AuraIconData doubleAltArrowDown = AuraIconData('assets/vectors/bold/double-alt-arrow-down.vec');
   static const AuraIconData doubleAltArrowLeft = AuraIconData('assets/vectors/bold/double-alt-arrow-left.vec');
   static const AuraIconData doubleAltArrowRight = AuraIconData('assets/vectors/bold/double-alt-arrow-right.vec');
@@ -376,14 +472,18 @@ class AuraIconsBold {
   static const AuraIconData dumbbells2 = AuraIconData('assets/vectors/bold/dumbbells-2.vec');
   static const AuraIconData earth = AuraIconData('assets/vectors/bold/earth.vec');
   static const AuraIconData electricRefueling = AuraIconData('assets/vectors/bold/electric-refueling.vec');
+  static const AuraIconData ellipse = AuraIconData('assets/vectors/bold/ellipse.vec');
   static const AuraIconData emojiFunnyCircle = AuraIconData('assets/vectors/bold/emoji-funny-circle.vec');
   static const AuraIconData emojiFunnySquare = AuraIconData('assets/vectors/bold/emoji-funny-square.vec');
   static const AuraIconData endCall = AuraIconData('assets/vectors/bold/end-call.vec');
   static const AuraIconData endCallRounded = AuraIconData('assets/vectors/bold/end-call-rounded.vec');
+  static const AuraIconData equal = AuraIconData('assets/vectors/bold/equal.vec');
   static const AuraIconData eraser = AuraIconData('assets/vectors/bold/eraser.vec');
   static const AuraIconData eraserCircle = AuraIconData('assets/vectors/bold/eraser-circle.vec');
   static const AuraIconData eraserSquare = AuraIconData('assets/vectors/bold/eraser-square.vec');
   static const AuraIconData euro = AuraIconData('assets/vectors/bold/euro.vec');
+  static const AuraIconData exclamationMark = AuraIconData('assets/vectors/bold/exclamation-mark.vec');
+  static const AuraIconData exclude = AuraIconData('assets/vectors/bold/exclude.vec');
   static const AuraIconData exit = AuraIconData('assets/vectors/bold/exit.vec');
   static const AuraIconData explicit = AuraIconData('assets/vectors/bold/explicit.vec');
   static const AuraIconData exportIcon = AuraIconData('assets/vectors/bold/export.vec');
@@ -391,60 +491,115 @@ class AuraIconsBold {
   static const AuraIconData expressionlessSquare = AuraIconData('assets/vectors/bold/expressionless-square.vec');
   static const AuraIconData eye = AuraIconData('assets/vectors/bold/eye.vec');
   static const AuraIconData eyeClosed = AuraIconData('assets/vectors/bold/eye-closed.vec');
+  static const AuraIconData eyeOff = AuraIconData('assets/vectors/bold/eye-off.vec');
   static const AuraIconData eyeScan = AuraIconData('assets/vectors/bold/eye-scan.vec');
   static const AuraIconData faceScanCircle = AuraIconData('assets/vectors/bold/face-scan-circle.vec');
   static const AuraIconData faceScanSquare = AuraIconData('assets/vectors/bold/face-scan-square.vec');
   static const AuraIconData facemaskCircle = AuraIconData('assets/vectors/bold/facemask-circle.vec');
   static const AuraIconData facemaskSquare = AuraIconData('assets/vectors/bold/facemask-square.vec');
+  static const AuraIconData factoryIcon = AuraIconData('assets/vectors/bold/factory.vec');
   static const AuraIconData feed = AuraIconData('assets/vectors/bold/feed.vec');
   static const AuraIconData ferrisWheel = AuraIconData('assets/vectors/bold/ferris-wheel.vec');
   static const AuraIconData figma = AuraIconData('assets/vectors/bold/figma.vec');
-  static const AuraIconData figmaFile = AuraIconData('assets/vectors/bold/figma-file.vec');
   static const AuraIconData file = AuraIconData('assets/vectors/bold/file.vec');
+  static const AuraIconData fileAdd = AuraIconData('assets/vectors/bold/file-add.vec');
+  static const AuraIconData fileAudio = AuraIconData('assets/vectors/bold/file-audio.vec');
+  static const AuraIconData fileBadge = AuraIconData('assets/vectors/bold/file-badge.vec');
+  static const AuraIconData fileBraces = AuraIconData('assets/vectors/bold/file-braces.vec');
+  static const AuraIconData fileChart = AuraIconData('assets/vectors/bold/file-chart.vec');
+  static const AuraIconData fileChart2 = AuraIconData('assets/vectors/bold/file-chart-2.vec');
   static const AuraIconData fileCheck = AuraIconData('assets/vectors/bold/file-check.vec');
+  static const AuraIconData fileCloud = AuraIconData('assets/vectors/bold/file-cloud.vec');
+  static const AuraIconData fileCode = AuraIconData('assets/vectors/bold/file-code.vec');
+  static const AuraIconData fileCog = AuraIconData('assets/vectors/bold/file-cog.vec');
   static const AuraIconData fileCorrupted = AuraIconData('assets/vectors/bold/file-corrupted.vec');
   static const AuraIconData fileDownload = AuraIconData('assets/vectors/bold/file-download.vec');
   static const AuraIconData fileFavorite = AuraIconData('assets/vectors/bold/file-favorite.vec');
+  static const AuraIconData fileFigma = AuraIconData('assets/vectors/bold/file-figma.vec');
+  static const AuraIconData fileImage = AuraIconData('assets/vectors/bold/file-image.vec');
   static const AuraIconData fileLeft = AuraIconData('assets/vectors/bold/file-left.vec');
+  static const AuraIconData fileLock = AuraIconData('assets/vectors/bold/file-lock.vec');
+  static const AuraIconData fileMinus = AuraIconData('assets/vectors/bold/file-minus.vec');
+  static const AuraIconData filePen = AuraIconData('assets/vectors/bold/file-pen.vec');
+  static const AuraIconData filePlay = AuraIconData('assets/vectors/bold/file-play.vec');
+  static const AuraIconData fileQuestionMark = AuraIconData('assets/vectors/bold/file-question-mark.vec');
   static const AuraIconData fileRemove = AuraIconData('assets/vectors/bold/file-remove.vec');
   static const AuraIconData fileRight = AuraIconData('assets/vectors/bold/file-right.vec');
+  static const AuraIconData fileSearch = AuraIconData('assets/vectors/bold/file-search.vec');
   static const AuraIconData fileSend = AuraIconData('assets/vectors/bold/file-send.vec');
-  static const AuraIconData fileSmile = AuraIconData('assets/vectors/bold/file-smile-.vec');
+  static const AuraIconData fileSignal = AuraIconData('assets/vectors/bold/file-signal.vec');
+  static const AuraIconData fileSliders = AuraIconData('assets/vectors/bold/file-sliders.vec');
+  static const AuraIconData fileSmile = AuraIconData('assets/vectors/bold/file-smile.vec');
+  static const AuraIconData fileSpreadsheet = AuraIconData('assets/vectors/bold/file-spreadsheet.vec');
+  static const AuraIconData fileStack = AuraIconData('assets/vectors/bold/file-stack.vec');
+  static const AuraIconData fileTerminal = AuraIconData('assets/vectors/bold/file-terminal.vec');
   static const AuraIconData fileText = AuraIconData('assets/vectors/bold/file-text.vec');
+  static const AuraIconData fileType = AuraIconData('assets/vectors/bold/file-type.vec');
+  static const AuraIconData fileUser = AuraIconData('assets/vectors/bold/file-user.vec');
+  static const AuraIconData fileVideoCamera = AuraIconData('assets/vectors/bold/file-video-camera.vec');
+  static const AuraIconData fileWarning = AuraIconData('assets/vectors/bold/file-warning.vec');
+  static const AuraIconData fileZip = AuraIconData('assets/vectors/bold/file-zip.vec');
   static const AuraIconData filter = AuraIconData('assets/vectors/bold/filter.vec');
+  static const AuraIconData filterClose = AuraIconData('assets/vectors/bold/filter-close.vec');
   static const AuraIconData filters = AuraIconData('assets/vectors/bold/filters.vec');
+  static const AuraIconData fingerprint = AuraIconData('assets/vectors/bold/fingerprint.vec');
   static const AuraIconData fire = AuraIconData('assets/vectors/bold/fire.vec');
   static const AuraIconData fireMinimalistic = AuraIconData('assets/vectors/bold/fire-minimalistic.vec');
   static const AuraIconData fireSquare = AuraIconData('assets/vectors/bold/fire-square.vec');
+  static const AuraIconData fish = AuraIconData('assets/vectors/bold/fish.vec');
   static const AuraIconData flag = AuraIconData('assets/vectors/bold/flag.vec');
   static const AuraIconData flag2 = AuraIconData('assets/vectors/bold/flag-2.vec');
+  static const AuraIconData flagOff = AuraIconData('assets/vectors/bold/flag-off.vec');
   static const AuraIconData flame = AuraIconData('assets/vectors/bold/flame.vec');
   static const AuraIconData flashDrive = AuraIconData('assets/vectors/bold/flash-drive.vec');
   static const AuraIconData flashlight = AuraIconData('assets/vectors/bold/flashlight.vec');
   static const AuraIconData flashlightOn = AuraIconData('assets/vectors/bold/flashlight-on.vec');
+  static const AuraIconData flask = AuraIconData('assets/vectors/bold/flask.vec');
+  static const AuraIconData flatBrush = AuraIconData('assets/vectors/bold/flat-brush.vec');
   static const AuraIconData flipHorizontal = AuraIconData('assets/vectors/bold/flip-horizontal.vec');
   static const AuraIconData flipVertical = AuraIconData('assets/vectors/bold/flip-vertical.vec');
   static const AuraIconData floorLamp = AuraIconData('assets/vectors/bold/floor-lamp.vec');
   static const AuraIconData floorLampMinimalistic = AuraIconData('assets/vectors/bold/floor-lamp-minimalistic.vec');
+  static const AuraIconData flower = AuraIconData('assets/vectors/bold/flower.vec');
   static const AuraIconData fog = AuraIconData('assets/vectors/bold/fog.vec');
   static const AuraIconData folder = AuraIconData('assets/vectors/bold/folder.vec');
   static const AuraIconData folder2 = AuraIconData('assets/vectors/bold/folder-2.vec');
   static const AuraIconData folderCheck = AuraIconData('assets/vectors/bold/folder-check.vec');
+  static const AuraIconData folderClock = AuraIconData('assets/vectors/bold/folder-clock.vec');
   static const AuraIconData folderCloud = AuraIconData('assets/vectors/bold/folder-cloud.vec');
+  static const AuraIconData folderCode = AuraIconData('assets/vectors/bold/folder-code.vec');
+  static const AuraIconData folderCog = AuraIconData('assets/vectors/bold/folder-cog.vec');
+  static const AuraIconData folderDot = AuraIconData('assets/vectors/bold/folder-dot.vec');
+  static const AuraIconData folderDotOpen = AuraIconData('assets/vectors/bold/folder-dot-open.vec');
+  static const AuraIconData folderDown = AuraIconData('assets/vectors/bold/folder-down.vec');
   static const AuraIconData folderError = AuraIconData('assets/vectors/bold/folder-error.vec');
   static const AuraIconData folderFavoriteBookmark = AuraIconData('assets/vectors/bold/folder-favorite-bookmark.vec');
   static const AuraIconData folderFavoriteStar = AuraIconData('assets/vectors/bold/folder-favorite-star.vec');
+  static const AuraIconData folderGit = AuraIconData('assets/vectors/bold/folder-git.vec');
+  static const AuraIconData folderKanban = AuraIconData('assets/vectors/bold/folder-kanban.vec');
+  static const AuraIconData folderLock = AuraIconData('assets/vectors/bold/folder-lock.vec');
   static const AuraIconData folderOpen = AuraIconData('assets/vectors/bold/folder-open.vec');
+  static const AuraIconData folderOutput = AuraIconData('assets/vectors/bold/folder-output.vec');
   static const AuraIconData folderPathConnect = AuraIconData('assets/vectors/bold/folder-path-connect.vec');
+  static const AuraIconData folderPen = AuraIconData('assets/vectors/bold/folder-pen.vec');
+  static const AuraIconData folderSearch = AuraIconData('assets/vectors/bold/folder-search.vec');
   static const AuraIconData folderSecurity = AuraIconData('assets/vectors/bold/folder-security.vec');
+  static const AuraIconData folderSymlink = AuraIconData('assets/vectors/bold/folder-symlink.vec');
+  static const AuraIconData folderSync = AuraIconData('assets/vectors/bold/folder-sync.vec');
+  static const AuraIconData folderTree = AuraIconData('assets/vectors/bold/folder-tree.vec');
+  static const AuraIconData folderUp = AuraIconData('assets/vectors/bold/folder-up.vec');
   static const AuraIconData folderWithFiles = AuraIconData('assets/vectors/bold/folder-with-files.vec');
+  static const AuraIconData folderZip = AuraIconData('assets/vectors/bold/folder-zip.vec');
+  static const AuraIconData folders = AuraIconData('assets/vectors/bold/folders.vec');
   static const AuraIconData football = AuraIconData('assets/vectors/bold/football.vec');
   static const AuraIconData forbidden = AuraIconData('assets/vectors/bold/forbidden.vec');
   static const AuraIconData forbiddenCircle = AuraIconData('assets/vectors/bold/forbidden-circle.vec');
+  static const AuraIconData forkKnife = AuraIconData('assets/vectors/bold/fork-knife.vec');
   static const AuraIconData forward = AuraIconData('assets/vectors/bold/forward.vec');
   static const AuraIconData forward2 = AuraIconData('assets/vectors/bold/forward-2.vec');
   static const AuraIconData forwardRight = AuraIconData('assets/vectors/bold/forward-right.vec');
   static const AuraIconData fourK = AuraIconData('assets/vectors/bold/four-k.vec');
+  static const AuraIconData frame = AuraIconData('assets/vectors/bold/frame.vec');
   static const AuraIconData fridge = AuraIconData('assets/vectors/bold/fridge.vec');
   static const AuraIconData fuel = AuraIconData('assets/vectors/bold/fuel.vec');
   static const AuraIconData fullScreen = AuraIconData('assets/vectors/bold/full-screen.vec');
@@ -458,6 +613,7 @@ class AuraIconsBold {
   static const AuraIconData galleryEdit = AuraIconData('assets/vectors/bold/gallery-edit.vec');
   static const AuraIconData galleryFavorite = AuraIconData('assets/vectors/bold/gallery-favorite.vec');
   static const AuraIconData galleryMinimalistic = AuraIconData('assets/vectors/bold/gallery-minimalistic.vec');
+  static const AuraIconData galleryOff = AuraIconData('assets/vectors/bold/gallery-off.vec');
   static const AuraIconData galleryRemove = AuraIconData('assets/vectors/bold/gallery-remove.vec');
   static const AuraIconData galleryRound = AuraIconData('assets/vectors/bold/gallery-round.vec');
   static const AuraIconData gallerySend = AuraIconData('assets/vectors/bold/gallery-send.vec');
@@ -470,21 +626,41 @@ class AuraIconsBold {
   static const AuraIconData gamepadOld = AuraIconData('assets/vectors/bold/gamepad-old.vec');
   static const AuraIconData garage = AuraIconData('assets/vectors/bold/garage.vec');
   static const AuraIconData gasStation = AuraIconData('assets/vectors/bold/gas-station.vec');
+  static const AuraIconData gavel = AuraIconData('assets/vectors/bold/gavel.vec');
   static const AuraIconData ghost = AuraIconData('assets/vectors/bold/ghost.vec');
   static const AuraIconData ghostSmile = AuraIconData('assets/vectors/bold/ghost-smile.vec');
   static const AuraIconData gift = AuraIconData('assets/vectors/bold/gift.vec');
+  static const AuraIconData gitBranch = AuraIconData('assets/vectors/bold/git-branch.vec');
+  static const AuraIconData gitCommit = AuraIconData('assets/vectors/bold/git-commit.vec');
+  static const AuraIconData gitDiff = AuraIconData('assets/vectors/bold/git-diff.vec');
+  static const AuraIconData gitFork = AuraIconData('assets/vectors/bold/git-fork.vec');
+  static const AuraIconData gitGraph = AuraIconData('assets/vectors/bold/git-graph.vec');
+  static const AuraIconData gitMerge = AuraIconData('assets/vectors/bold/git-merge.vec');
+  static const AuraIconData gitPullRequest = AuraIconData('assets/vectors/bold/git-pull-request.vec');
   static const AuraIconData glasses = AuraIconData('assets/vectors/bold/glasses.vec');
   static const AuraIconData global = AuraIconData('assets/vectors/bold/global.vec');
   static const AuraIconData globe = AuraIconData('assets/vectors/bold/globe.vec');
   static const AuraIconData golf = AuraIconData('assets/vectors/bold/golf.vec');
   static const AuraIconData gps = AuraIconData('assets/vectors/bold/gps.vec');
+  static const AuraIconData gradient = AuraIconData('assets/vectors/bold/gradient.vec');
   static const AuraIconData graph = AuraIconData('assets/vectors/bold/graph.vec');
   static const AuraIconData graphDown = AuraIconData('assets/vectors/bold/graph-down.vec');
   static const AuraIconData graphDownNew = AuraIconData('assets/vectors/bold/graph-down-new.vec');
   static const AuraIconData graphNew = AuraIconData('assets/vectors/bold/graph-new.vec');
   static const AuraIconData graphNewUp = AuraIconData('assets/vectors/bold/graph-new-up.vec');
   static const AuraIconData graphUp = AuraIconData('assets/vectors/bold/graph-up.vec');
+  static const AuraIconData grid2x2 = AuraIconData('assets/vectors/bold/grid-2x2.vec');
+  static const AuraIconData grid2x2Add = AuraIconData('assets/vectors/bold/grid-2x2-add.vec');
+  static const AuraIconData grid2x2Check = AuraIconData('assets/vectors/bold/grid-2x2-check.vec');
+  static const AuraIconData grid2x2Close = AuraIconData('assets/vectors/bold/grid-2x2-close.vec');
+  static const AuraIconData grid3x2 = AuraIconData('assets/vectors/bold/grid-3x2.vec');
+  static const AuraIconData grid3x3 = AuraIconData('assets/vectors/bold/grid-3x3.vec');
+  static const AuraIconData grip = AuraIconData('assets/vectors/bold/grip.vec');
+  static const AuraIconData gripHorizontal = AuraIconData('assets/vectors/bold/grip-horizontal.vec');
+  static const AuraIconData gripVertical = AuraIconData('assets/vectors/bold/grip-vertical.vec');
   static const AuraIconData hamburgerMenu = AuraIconData('assets/vectors/bold/hamburger-menu.vec');
+  static const AuraIconData hand = AuraIconData('assets/vectors/bold/hand.vec');
+  static const AuraIconData handGrab = AuraIconData('assets/vectors/bold/hand-grab.vec');
   static const AuraIconData handHeart = AuraIconData('assets/vectors/bold/hand-heart.vec');
   static const AuraIconData handMoney = AuraIconData('assets/vectors/bold/hand-money.vec');
   static const AuraIconData handPills = AuraIconData('assets/vectors/bold/hand-pills.vec');
@@ -505,6 +681,7 @@ class AuraIconsBold {
   static const AuraIconData heartAngle = AuraIconData('assets/vectors/bold/heart-angle.vec');
   static const AuraIconData heartCrack = AuraIconData('assets/vectors/bold/heart-crack.vec');
   static const AuraIconData heartLock = AuraIconData('assets/vectors/bold/heart-lock.vec');
+  static const AuraIconData heartOff = AuraIconData('assets/vectors/bold/heart-off.vec');
   static const AuraIconData heartPulse = AuraIconData('assets/vectors/bold/heart-pulse.vec');
   static const AuraIconData heartPulse2 = AuraIconData('assets/vectors/bold/heart-pulse-2.vec');
   static const AuraIconData heartShine = AuraIconData('assets/vectors/bold/heart-shine.vec');
@@ -513,6 +690,7 @@ class AuraIconsBold {
   static const AuraIconData help = AuraIconData('assets/vectors/bold/help.vec');
   static const AuraIconData highDefinition = AuraIconData('assets/vectors/bold/high-definition.vec');
   static const AuraIconData highQuality = AuraIconData('assets/vectors/bold/high-quality.vec');
+  static const AuraIconData highlighter = AuraIconData('assets/vectors/bold/highlighter.vec');
   static const AuraIconData hiking = AuraIconData('assets/vectors/bold/hiking.vec');
   static const AuraIconData hikingMinimalistic = AuraIconData('assets/vectors/bold/hiking-minimalistic.vec');
   static const AuraIconData hikingRound = AuraIconData('assets/vectors/bold/hiking-round.vec');
@@ -534,6 +712,7 @@ class AuraIconsBold {
   static const AuraIconData hourglassLine = AuraIconData('assets/vectors/bold/hourglass-line.vec');
   static const AuraIconData house = AuraIconData('assets/vectors/bold/house.vec');
   static const AuraIconData iPhone = AuraIconData('assets/vectors/bold/i-phone.vec');
+  static const AuraIconData iceCreamCone = AuraIconData('assets/vectors/bold/ice-cream-cone.vec');
   static const AuraIconData importIcon = AuraIconData('assets/vectors/bold/import.vec');
   static const AuraIconData inbox = AuraIconData('assets/vectors/bold/inbox.vec');
   static const AuraIconData inboxArchive = AuraIconData('assets/vectors/bold/inbox-archive.vec');
@@ -547,8 +726,13 @@ class AuraIconsBold {
   static const AuraIconData infinite = AuraIconData('assets/vectors/bold/infinite.vec');
   static const AuraIconData infoCircle = AuraIconData('assets/vectors/bold/info-circle.vec');
   static const AuraIconData infoSquare = AuraIconData('assets/vectors/bold/info-square.vec');
+  static const AuraIconData intersect = AuraIconData('assets/vectors/bold/intersect.vec');
+  static const AuraIconData intersectMinimalistic = AuraIconData('assets/vectors/bold/intersect-minimalistic.vec');
   static const AuraIconData jarOfPills = AuraIconData('assets/vectors/bold/jar-of-pills.vec');
   static const AuraIconData jarOfPills2 = AuraIconData('assets/vectors/bold/jar-of-pills-2.vec');
+  static const AuraIconData justiceScale = AuraIconData('assets/vectors/bold/justice-scale.vec');
+  static const AuraIconData kanban = AuraIconData('assets/vectors/bold/kanban.vec');
+  static const AuraIconData kanbanSquare = AuraIconData('assets/vectors/bold/kanban-square.vec');
   static const AuraIconData key = AuraIconData('assets/vectors/bold/key.vec');
   static const AuraIconData keyMinimalistic = AuraIconData('assets/vectors/bold/key-minimalistic.vec');
   static const AuraIconData keyMinimalistic2 = AuraIconData('assets/vectors/bold/key-minimalistic-2.vec');
@@ -565,8 +749,14 @@ class AuraIconsBold {
   static const AuraIconData laptop2 = AuraIconData('assets/vectors/bold/laptop-2.vec');
   static const AuraIconData laptop3 = AuraIconData('assets/vectors/bold/laptop-3.vec');
   static const AuraIconData laptopMinimalistic = AuraIconData('assets/vectors/bold/laptop-minimalistic.vec');
+  static const AuraIconData layerArrowDown = AuraIconData('assets/vectors/bold/layer-arrow-down.vec');
+  static const AuraIconData layerArrowUp = AuraIconData('assets/vectors/bold/layer-arrow-up.vec');
   static const AuraIconData layers = AuraIconData('assets/vectors/bold/layers.vec');
+  static const AuraIconData layersArrowDown = AuraIconData('assets/vectors/bold/layers-arrow-down.vec');
+  static const AuraIconData layersArrowUp = AuraIconData('assets/vectors/bold/layers-arrow-up.vec');
   static const AuraIconData layersMinimalistic = AuraIconData('assets/vectors/bold/layers-minimalistic.vec');
+  static const AuraIconData layoutFreeform = AuraIconData('assets/vectors/bold/layout-freeform.vec');
+  static const AuraIconData layoutList = AuraIconData('assets/vectors/bold/layout-list.vec');
   static const AuraIconData leaf = AuraIconData('assets/vectors/bold/leaf.vec');
   static const AuraIconData letter = AuraIconData('assets/vectors/bold/letter.vec');
   static const AuraIconData letterOpened = AuraIconData('assets/vectors/bold/letter-opened.vec');
@@ -575,6 +765,7 @@ class AuraIconsBold {
   static const AuraIconData lightbulb = AuraIconData('assets/vectors/bold/lightbulb.vec');
   static const AuraIconData lightbulbBolt = AuraIconData('assets/vectors/bold/lightbulb-bolt.vec');
   static const AuraIconData lightbulbMinimalistic = AuraIconData('assets/vectors/bold/lightbulb-minimalistic.vec');
+  static const AuraIconData lightbulbOff = AuraIconData('assets/vectors/bold/lightbulb-off.vec');
   static const AuraIconData lightning = AuraIconData('assets/vectors/bold/lightning.vec');
   static const AuraIconData like = AuraIconData('assets/vectors/bold/like.vec');
   static const AuraIconData link = AuraIconData('assets/vectors/bold/link.vec');
@@ -591,15 +782,28 @@ class AuraIconsBold {
   static const AuraIconData listArrowUpMinimalistic = AuraIconData('assets/vectors/bold/list-arrow-up-minimalistic.vec');
   static const AuraIconData listCheck = AuraIconData('assets/vectors/bold/list-check.vec');
   static const AuraIconData listCheckMinimalistic = AuraIconData('assets/vectors/bold/list-check-minimalistic.vec');
+  static const AuraIconData listCollapse = AuraIconData('assets/vectors/bold/list-collapse.vec');
+  static const AuraIconData listCollapseMinimalistic = AuraIconData('assets/vectors/bold/list-collapse-minimalistic.vec');
   static const AuraIconData listCross = AuraIconData('assets/vectors/bold/list-cross.vec');
   static const AuraIconData listCrossMinimalistic = AuraIconData('assets/vectors/bold/list-cross-minimalistic.vec');
   static const AuraIconData listDown = AuraIconData('assets/vectors/bold/list-down.vec');
   static const AuraIconData listDownMinimalistic = AuraIconData('assets/vectors/bold/list-down-minimalistic.vec');
   static const AuraIconData listHeart = AuraIconData('assets/vectors/bold/list-heart.vec');
   static const AuraIconData listHeartMinimalistic = AuraIconData('assets/vectors/bold/list-heart-minimalistic.vec');
+  static const AuraIconData listIndentDecrease = AuraIconData('assets/vectors/bold/list-indent-decrease.vec');
+  static const AuraIconData listIndentIncrease = AuraIconData('assets/vectors/bold/list-indent-increase.vec');
+  static const AuraIconData listMinus = AuraIconData('assets/vectors/bold/list-minus.vec');
+  static const AuraIconData listMinusMinimalistic = AuraIconData('assets/vectors/bold/list-minus-minimalistic.vec');
+  static const AuraIconData listOrdered = AuraIconData('assets/vectors/bold/list-ordered.vec');
+  static const AuraIconData listOrderedMinimalistic = AuraIconData('assets/vectors/bold/list-ordered-minimalistic.vec');
+  static const AuraIconData listPlus = AuraIconData('assets/vectors/bold/list-plus.vec');
+  static const AuraIconData listPlusMinimalistic = AuraIconData('assets/vectors/bold/list-plus-minimalistic.vec');
+  static const AuraIconData listUnordered = AuraIconData('assets/vectors/bold/list-unordered.vec');
+  static const AuraIconData listUnorderedMinimalistic = AuraIconData('assets/vectors/bold/list-unordered-minimalistic.vec');
   static const AuraIconData listUp = AuraIconData('assets/vectors/bold/list-up.vec');
   static const AuraIconData listUpMinimalistic = AuraIconData('assets/vectors/bold/list-up-minimalistic.vec');
   static const AuraIconData listVertical = AuraIconData('assets/vectors/bold/list-vertical.vec');
+  static const AuraIconData loader = AuraIconData('assets/vectors/bold/loader.vec');
   static const AuraIconData lock = AuraIconData('assets/vectors/bold/lock.vec');
   static const AuraIconData lockKeyhole = AuraIconData('assets/vectors/bold/lock-keyhole.vec');
   static const AuraIconData lockKeyholeMinimalistic = AuraIconData('assets/vectors/bold/lock-keyhole-minimalistic.vec');
@@ -611,6 +815,7 @@ class AuraIconsBold {
   static const AuraIconData login = AuraIconData('assets/vectors/bold/login.vec');
   static const AuraIconData login2 = AuraIconData('assets/vectors/bold/login-2.vec');
   static const AuraIconData login3 = AuraIconData('assets/vectors/bold/login-3.vec');
+  static const AuraIconData logout = AuraIconData('assets/vectors/bold/logout.vec');
   static const AuraIconData logout2 = AuraIconData('assets/vectors/bold/logout-2.vec');
   static const AuraIconData logout3 = AuraIconData('assets/vectors/bold/logout-3.vec');
   static const AuraIconData magicWand = AuraIconData('assets/vectors/bold/magic-wand.vec');
@@ -620,6 +825,9 @@ class AuraIconsBold {
   static const AuraIconData magnetWave = AuraIconData('assets/vectors/bold/magnet-wave.vec');
   static const AuraIconData magnifier = AuraIconData('assets/vectors/bold/magnifier.vec');
   static const AuraIconData magnifierBug = AuraIconData('assets/vectors/bold/magnifier-bug.vec');
+  static const AuraIconData magnifierCheck = AuraIconData('assets/vectors/bold/magnifier-check.vec');
+  static const AuraIconData magnifierClose = AuraIconData('assets/vectors/bold/magnifier-close.vec');
+  static const AuraIconData magnifierSlash = AuraIconData('assets/vectors/bold/magnifier-slash.vec');
   static const AuraIconData magnifierZoomIn = AuraIconData('assets/vectors/bold/magnifier-zoom-in.vec');
   static const AuraIconData magnifierZoomOut = AuraIconData('assets/vectors/bold/magnifier-zoom-out.vec');
   static const AuraIconData mailbox = AuraIconData('assets/vectors/bold/mailbox.vec');
@@ -633,6 +841,7 @@ class AuraIconsBold {
   static const AuraIconData mapPointAdd = AuraIconData('assets/vectors/bold/map-point-add.vec');
   static const AuraIconData mapPointFavorite = AuraIconData('assets/vectors/bold/map-point-favorite.vec');
   static const AuraIconData mapPointHospital = AuraIconData('assets/vectors/bold/map-point-hospital.vec');
+  static const AuraIconData mapPointOff = AuraIconData('assets/vectors/bold/map-point-off.vec');
   static const AuraIconData mapPointRemove = AuraIconData('assets/vectors/bold/map-point-remove.vec');
   static const AuraIconData mapPointRotate = AuraIconData('assets/vectors/bold/map-point-rotate.vec');
   static const AuraIconData mapPointSchool = AuraIconData('assets/vectors/bold/map-point-school.vec');
@@ -655,18 +864,28 @@ class AuraIconsBold {
   static const AuraIconData medicalKit = AuraIconData('assets/vectors/bold/medical-kit.vec');
   static const AuraIconData meditation = AuraIconData('assets/vectors/bold/meditation.vec');
   static const AuraIconData meditationRound = AuraIconData('assets/vectors/bold/meditation-round.vec');
+  static const AuraIconData megaphone = AuraIconData('assets/vectors/bold/megaphone.vec');
   static const AuraIconData men = AuraIconData('assets/vectors/bold/men.vec');
   static const AuraIconData mentionCircle = AuraIconData('assets/vectors/bold/mention-circle.vec');
   static const AuraIconData mentionSquare = AuraIconData('assets/vectors/bold/mention-square.vec');
   static const AuraIconData menuDots = AuraIconData('assets/vectors/bold/menu-dots.vec');
   static const AuraIconData menuDotsCircle = AuraIconData('assets/vectors/bold/menu-dots-circle.vec');
   static const AuraIconData menuDotsSquare = AuraIconData('assets/vectors/bold/menu-dots-square.vec');
+  static const AuraIconData menuDotsVertical = AuraIconData('assets/vectors/bold/menu-dots-vertical.vec');
   static const AuraIconData microphone = AuraIconData('assets/vectors/bold/microphone.vec');
   static const AuraIconData microphone2 = AuraIconData('assets/vectors/bold/microphone-2.vec');
+  static const AuraIconData microphone2Off = AuraIconData('assets/vectors/bold/microphone-2-off.vec');
   static const AuraIconData microphone3 = AuraIconData('assets/vectors/bold/microphone-3.vec');
+  static const AuraIconData microphone3Off = AuraIconData('assets/vectors/bold/microphone-3-off.vec');
   static const AuraIconData microphoneLarge = AuraIconData('assets/vectors/bold/microphone-large.vec');
+  static const AuraIconData microphoneLargeOff = AuraIconData('assets/vectors/bold/microphone-large-off.vec');
+  static const AuraIconData microphoneOff = AuraIconData('assets/vectors/bold/microphone-off.vec');
+  static const AuraIconData microscope = AuraIconData('assets/vectors/bold/microscope.vec');
   static const AuraIconData minimalisticMagnifier = AuraIconData('assets/vectors/bold/minimalistic-magnifier.vec');
   static const AuraIconData minimalisticMagnifierBug = AuraIconData('assets/vectors/bold/minimalistic-magnifier-bug.vec');
+  static const AuraIconData minimalisticMagnifierCheck = AuraIconData('assets/vectors/bold/minimalistic-magnifier-check.vec');
+  static const AuraIconData minimalisticMagnifierClose = AuraIconData('assets/vectors/bold/minimalistic-magnifier-close.vec');
+  static const AuraIconData minimalisticMagnifierSlash = AuraIconData('assets/vectors/bold/minimalistic-magnifier-slash.vec');
   static const AuraIconData minimalisticMagnifierZoomIn = AuraIconData('assets/vectors/bold/minimalistic-magnifier-zoom-in.vec');
   static const AuraIconData minimalisticMagnifierZoomOut = AuraIconData('assets/vectors/bold/minimalistic-magnifier-zoom-out.vec');
   static const AuraIconData minimize = AuraIconData('assets/vectors/bold/minimize.vec');
@@ -674,6 +893,7 @@ class AuraIconsBold {
   static const AuraIconData minimizeSquare2 = AuraIconData('assets/vectors/bold/minimize-square-2.vec');
   static const AuraIconData minimizeSquare3 = AuraIconData('assets/vectors/bold/minimize-square-3.vec');
   static const AuraIconData minimizeSquareMinimalistic = AuraIconData('assets/vectors/bold/minimize-square-minimalistic.vec');
+  static const AuraIconData minus = AuraIconData('assets/vectors/bold/minus.vec');
   static const AuraIconData minusCircle = AuraIconData('assets/vectors/bold/minus-circle.vec');
   static const AuraIconData minusSquare = AuraIconData('assets/vectors/bold/minus-square.vec');
   static const AuraIconData mirror = AuraIconData('assets/vectors/bold/mirror.vec');
@@ -684,15 +904,23 @@ class AuraIconsBold {
   static const AuraIconData moneyRoll = AuraIconData('assets/vectors/bold/money-roll.vec');
   static const AuraIconData monitor = AuraIconData('assets/vectors/bold/monitor.vec');
   static const AuraIconData monitorCamera = AuraIconData('assets/vectors/bold/monitor-camera.vec');
+  static const AuraIconData monitorOff = AuraIconData('assets/vectors/bold/monitor-off.vec');
   static const AuraIconData monitorSmartphone = AuraIconData('assets/vectors/bold/monitor-smartphone.vec');
   static const AuraIconData moon = AuraIconData('assets/vectors/bold/moon.vec');
   static const AuraIconData moonFog = AuraIconData('assets/vectors/bold/moon-fog.vec');
   static const AuraIconData moonSleep = AuraIconData('assets/vectors/bold/moon-sleep.vec');
   static const AuraIconData moonStars = AuraIconData('assets/vectors/bold/moon-stars.vec');
+  static const AuraIconData mountains = AuraIconData('assets/vectors/bold/mountains.vec');
   static const AuraIconData mouse = AuraIconData('assets/vectors/bold/mouse.vec');
   static const AuraIconData mouseCircle = AuraIconData('assets/vectors/bold/mouse-circle.vec');
   static const AuraIconData mouseMinimalistic = AuraIconData('assets/vectors/bold/mouse-minimalistic.vec');
+  static const AuraIconData move = AuraIconData('assets/vectors/bold/move.vec');
+  static const AuraIconData move3d = AuraIconData('assets/vectors/bold/move-3d.vec');
+  static const AuraIconData moveCircle = AuraIconData('assets/vectors/bold/move-circle.vec');
+  static const AuraIconData moveHorizontal = AuraIconData('assets/vectors/bold/move-horizontal.vec');
+  static const AuraIconData moveSquare = AuraIconData('assets/vectors/bold/move-square.vec');
   static const AuraIconData moveToFolder = AuraIconData('assets/vectors/bold/move-to-folder.vec');
+  static const AuraIconData moveVertical = AuraIconData('assets/vectors/bold/move-vertical.vec');
   static const AuraIconData mug = AuraIconData('assets/vectors/bold/mug.vec');
   static const AuraIconData multipleForwardLeft = AuraIconData('assets/vectors/bold/multiple-forward-left.vec');
   static const AuraIconData multipleForwardRight = AuraIconData('assets/vectors/bold/multiple-forward-right.vec');
@@ -706,6 +934,7 @@ class AuraIconsBold {
   static const AuraIconData musicNoteSlider2 = AuraIconData('assets/vectors/bold/music-note-slider-2.vec');
   static const AuraIconData musicNotes = AuraIconData('assets/vectors/bold/music-notes.vec');
   static const AuraIconData muted = AuraIconData('assets/vectors/bold/muted.vec');
+  static const AuraIconData noiseSquare = AuraIconData('assets/vectors/bold/noise-square.vec');
   static const AuraIconData notebook = AuraIconData('assets/vectors/bold/notebook.vec');
   static const AuraIconData notebook2 = AuraIconData('assets/vectors/bold/notebook-2.vec');
   static const AuraIconData notebookBookmark = AuraIconData('assets/vectors/bold/notebook-bookmark.vec');
@@ -718,21 +947,43 @@ class AuraIconsBold {
   static const AuraIconData notificationUnread = AuraIconData('assets/vectors/bold/notification-unread.vec');
   static const AuraIconData notificationUnreadLines = AuraIconData('assets/vectors/bold/notification-unread-lines.vec');
   static const AuraIconData objectScan = AuraIconData('assets/vectors/bold/object-scan.vec');
+  static const AuraIconData opacity = AuraIconData('assets/vectors/bold/opacity.vec');
   static const AuraIconData outgoingCall = AuraIconData('assets/vectors/bold/outgoing-call.vec');
   static const AuraIconData outgoingCallRounded = AuraIconData('assets/vectors/bold/outgoing-call-rounded.vec');
   static const AuraIconData ovenMitts = AuraIconData('assets/vectors/bold/oven-mitts.vec');
   static const AuraIconData ovenMittsMinimalistic = AuraIconData('assets/vectors/bold/oven-mitts-minimalistic.vec');
+  static const AuraIconData paintBrush = AuraIconData('assets/vectors/bold/paint-brush.vec');
+  static const AuraIconData paintBucket = AuraIconData('assets/vectors/bold/paint-bucket.vec');
   static const AuraIconData paintRoller = AuraIconData('assets/vectors/bold/paint-roller.vec');
   static const AuraIconData palette = AuraIconData('assets/vectors/bold/palette.vec');
   static const AuraIconData palette2 = AuraIconData('assets/vectors/bold/palette-2.vec');
   static const AuraIconData paletteRound = AuraIconData('assets/vectors/bold/palette-round.vec');
+  static const AuraIconData panelBottom = AuraIconData('assets/vectors/bold/panel-bottom.vec');
+  static const AuraIconData panelBottomClose = AuraIconData('assets/vectors/bold/panel-bottom-close.vec');
+  static const AuraIconData panelBottomOpen = AuraIconData('assets/vectors/bold/panel-bottom-open.vec');
+  static const AuraIconData panelLeft = AuraIconData('assets/vectors/bold/panel-left.vec');
+  static const AuraIconData panelLeftClose = AuraIconData('assets/vectors/bold/panel-left-close.vec');
+  static const AuraIconData panelLeftOpen = AuraIconData('assets/vectors/bold/panel-left-open.vec');
+  static const AuraIconData panelRight = AuraIconData('assets/vectors/bold/panel-right.vec');
+  static const AuraIconData panelRightClose = AuraIconData('assets/vectors/bold/panel-right-close.vec');
+  static const AuraIconData panelRightOpen = AuraIconData('assets/vectors/bold/panel-right-open.vec');
+  static const AuraIconData panelTextRight = AuraIconData('assets/vectors/bold/panel-text-right.vec');
+  static const AuraIconData panelTop = AuraIconData('assets/vectors/bold/panel-top.vec');
+  static const AuraIconData panelTopClose = AuraIconData('assets/vectors/bold/panel-top-close.vec');
+  static const AuraIconData panelTopOpen = AuraIconData('assets/vectors/bold/panel-top-open.vec');
+  static const AuraIconData panelsBottomLeft = AuraIconData('assets/vectors/bold/panels-bottom-left.vec');
+  static const AuraIconData panelsBottomRight = AuraIconData('assets/vectors/bold/panels-bottom-right.vec');
+  static const AuraIconData panelsTopLeft = AuraIconData('assets/vectors/bold/panels-top-left.vec');
+  static const AuraIconData panelsTopRight = AuraIconData('assets/vectors/bold/panels-top-right.vec');
   static const AuraIconData panorama = AuraIconData('assets/vectors/bold/panorama.vec');
   static const AuraIconData paperBin = AuraIconData('assets/vectors/bold/paper-bin.vec');
   static const AuraIconData paperclip = AuraIconData('assets/vectors/bold/paperclip.vec');
   static const AuraIconData paperclip2 = AuraIconData('assets/vectors/bold/paperclip-2.vec');
   static const AuraIconData paperclipRounded = AuraIconData('assets/vectors/bold/paperclip-rounded.vec');
   static const AuraIconData paperclipRounded2 = AuraIconData('assets/vectors/bold/paperclip-rounded-2.vec');
+  static const AuraIconData paragraph = AuraIconData('assets/vectors/bold/paragraph.vec');
   static const AuraIconData paragraphSpacing = AuraIconData('assets/vectors/bold/paragraph-spacing.vec');
+  static const AuraIconData parentheses = AuraIconData('assets/vectors/bold/parentheses.vec');
   static const AuraIconData passport = AuraIconData('assets/vectors/bold/passport.vec');
   static const AuraIconData passportMinimalistic = AuraIconData('assets/vectors/bold/passport-minimalistic.vec');
   static const AuraIconData password = AuraIconData('assets/vectors/bold/password.vec');
@@ -745,7 +996,9 @@ class AuraIconsBold {
   static const AuraIconData pen2 = AuraIconData('assets/vectors/bold/pen-2.vec');
   static const AuraIconData penNewRound = AuraIconData('assets/vectors/bold/pen-new-round.vec');
   static const AuraIconData penNewSquare = AuraIconData('assets/vectors/bold/pen-new-square.vec');
+  static const AuraIconData penTool = AuraIconData('assets/vectors/bold/pen-tool.vec');
   static const AuraIconData peopleNearby = AuraIconData('assets/vectors/bold/people-nearby.vec');
+  static const AuraIconData percent = AuraIconData('assets/vectors/bold/percent.vec');
   static const AuraIconData perfume = AuraIconData('assets/vectors/bold/perfume.vec');
   static const AuraIconData phone = AuraIconData('assets/vectors/bold/phone.vec');
   static const AuraIconData phoneCalling = AuraIconData('assets/vectors/bold/phone-calling.vec');
@@ -754,6 +1007,7 @@ class AuraIconsBold {
   static const AuraIconData pieChart = AuraIconData('assets/vectors/bold/pie-chart.vec');
   static const AuraIconData pieChart2 = AuraIconData('assets/vectors/bold/pie-chart-2.vec');
   static const AuraIconData pieChart3 = AuraIconData('assets/vectors/bold/pie-chart-3.vec');
+  static const AuraIconData piggyBank = AuraIconData('assets/vectors/bold/piggy-bank.vec');
   static const AuraIconData pill = AuraIconData('assets/vectors/bold/pill.vec');
   static const AuraIconData pills = AuraIconData('assets/vectors/bold/pills.vec');
   static const AuraIconData pills2 = AuraIconData('assets/vectors/bold/pills-2.vec');
@@ -764,6 +1018,7 @@ class AuraIconsBold {
   static const AuraIconData pip = AuraIconData('assets/vectors/bold/pip.vec');
   static const AuraIconData pip2 = AuraIconData('assets/vectors/bold/pip-2.vec');
   static const AuraIconData pipette = AuraIconData('assets/vectors/bold/pipette.vec');
+  static const AuraIconData pizza = AuraIconData('assets/vectors/bold/pizza.vec');
   static const AuraIconData plane = AuraIconData('assets/vectors/bold/plane.vec');
   static const AuraIconData plane2 = AuraIconData('assets/vectors/bold/plane-2.vec');
   static const AuraIconData plane3 = AuraIconData('assets/vectors/bold/plane-3.vec');
@@ -781,6 +1036,7 @@ class AuraIconsBold {
   static const AuraIconData playlistMinimalistic = AuraIconData('assets/vectors/bold/playlist-minimalistic.vec');
   static const AuraIconData playlistMinimalistic2 = AuraIconData('assets/vectors/bold/playlist-minimalistic-2.vec');
   static const AuraIconData playlistMinimalistic3 = AuraIconData('assets/vectors/bold/playlist-minimalistic-3.vec');
+  static const AuraIconData plug = AuraIconData('assets/vectors/bold/plug.vec');
   static const AuraIconData plugCircle = AuraIconData('assets/vectors/bold/plug-circle.vec');
   static const AuraIconData plusMinus = AuraIconData('assets/vectors/bold/plus-minus.vec');
   static const AuraIconData podcast = AuraIconData('assets/vectors/bold/podcast.vec');
@@ -788,6 +1044,7 @@ class AuraIconsBold {
   static const AuraIconData pointOnMapPerspective = AuraIconData('assets/vectors/bold/point-on-map-perspective.vec');
   static const AuraIconData postsCarouselHorizontal = AuraIconData('assets/vectors/bold/posts-carousel-horizontal.vec');
   static const AuraIconData postsCarouselVertical = AuraIconData('assets/vectors/bold/posts-carousel-vertical.vec');
+  static const AuraIconData pound = AuraIconData('assets/vectors/bold/pound.vec');
   static const AuraIconData power = AuraIconData('assets/vectors/bold/power.vec');
   static const AuraIconData presentationGraph = AuraIconData('assets/vectors/bold/presentation-graph.vec');
   static const AuraIconData printer = AuraIconData('assets/vectors/bold/printer.vec');
@@ -797,13 +1054,18 @@ class AuraIconsBold {
   static const AuraIconData projector = AuraIconData('assets/vectors/bold/projector.vec');
   static const AuraIconData pulse = AuraIconData('assets/vectors/bold/pulse.vec');
   static const AuraIconData pulse2 = AuraIconData('assets/vectors/bold/pulse-2.vec');
+  static const AuraIconData puzzle = AuraIconData('assets/vectors/bold/puzzle.vec');
   static const AuraIconData qrCode = AuraIconData('assets/vectors/bold/qr-code.vec');
   static const AuraIconData questionCircle = AuraIconData('assets/vectors/bold/question-circle.vec');
+  static const AuraIconData questionMark = AuraIconData('assets/vectors/bold/question-mark.vec');
   static const AuraIconData questionSquare = AuraIconData('assets/vectors/bold/question-square.vec');
   static const AuraIconData quitFullScreen = AuraIconData('assets/vectors/bold/quit-full-screen.vec');
   static const AuraIconData quitFullScreenCircle = AuraIconData('assets/vectors/bold/quit-full-screen-circle.vec');
   static const AuraIconData quitFullScreenSquare = AuraIconData('assets/vectors/bold/quit-full-screen-square.vec');
   static const AuraIconData quitPip = AuraIconData('assets/vectors/bold/quit-pip.vec');
+  static const AuraIconData quote = AuraIconData('assets/vectors/bold/quote.vec');
+  static const AuraIconData quoteCircle = AuraIconData('assets/vectors/bold/quote-circle.vec');
+  static const AuraIconData quoteSquare = AuraIconData('assets/vectors/bold/quote-square.vec');
   static const AuraIconData radar = AuraIconData('assets/vectors/bold/radar.vec');
   static const AuraIconData radar2 = AuraIconData('assets/vectors/bold/radar-2.vec');
   static const AuraIconData radialBlur = AuraIconData('assets/vectors/bold/radial-blur.vec');
@@ -817,6 +1079,7 @@ class AuraIconsBold {
   static const AuraIconData recordCircle = AuraIconData('assets/vectors/bold/record-circle.vec');
   static const AuraIconData recordMinimalistic = AuraIconData('assets/vectors/bold/record-minimalistic.vec');
   static const AuraIconData recordSquare = AuraIconData('assets/vectors/bold/record-square.vec');
+  static const AuraIconData rectangle = AuraIconData('assets/vectors/bold/rectangle.vec');
   static const AuraIconData reel = AuraIconData('assets/vectors/bold/reel.vec');
   static const AuraIconData reel2 = AuraIconData('assets/vectors/bold/reel-2.vec');
   static const AuraIconData refresh = AuraIconData('assets/vectors/bold/refresh.vec');
@@ -850,6 +1113,10 @@ class AuraIconsBold {
   static const AuraIconData rocket = AuraIconData('assets/vectors/bold/rocket.vec');
   static const AuraIconData rocket2 = AuraIconData('assets/vectors/bold/rocket-2.vec');
   static const AuraIconData rollingPin = AuraIconData('assets/vectors/bold/rolling-pin.vec');
+  static const AuraIconData rotateAnticlockwise = AuraIconData('assets/vectors/bold/rotate-anticlockwise.vec');
+  static const AuraIconData rotateAnticlockwise2 = AuraIconData('assets/vectors/bold/rotate-anticlockwise-2.vec');
+  static const AuraIconData rotateClockwise = AuraIconData('assets/vectors/bold/rotate-clockwise.vec');
+  static const AuraIconData rotateClockwise2 = AuraIconData('assets/vectors/bold/rotate-clockwise-2.vec');
   static const AuraIconData roundAltArrowDown = AuraIconData('assets/vectors/bold/round-alt-arrow-down.vec');
   static const AuraIconData roundAltArrowLeft = AuraIconData('assets/vectors/bold/round-alt-arrow-left.vec');
   static const AuraIconData roundAltArrowRight = AuraIconData('assets/vectors/bold/round-alt-arrow-right.vec');
@@ -874,12 +1141,19 @@ class AuraIconsBold {
   static const AuraIconData roundTransferVertical = AuraIconData('assets/vectors/bold/round-transfer-vertical.vec');
   static const AuraIconData roundedMagnifier = AuraIconData('assets/vectors/bold/rounded-magnifier.vec');
   static const AuraIconData roundedMagnifierBug = AuraIconData('assets/vectors/bold/rounded-magnifier-bug.vec');
+  static const AuraIconData roundedMagnifierCheck = AuraIconData('assets/vectors/bold/rounded-magnifier-check.vec');
+  static const AuraIconData roundedMagnifierClose = AuraIconData('assets/vectors/bold/rounded-magnifier-close.vec');
+  static const AuraIconData roundedMagnifierSlash = AuraIconData('assets/vectors/bold/rounded-magnifier-slash.vec');
   static const AuraIconData roundedMagnifierZoomIn = AuraIconData('assets/vectors/bold/rounded-magnifier-zoom-in.vec');
   static const AuraIconData roundedMagnifierZoomOut = AuraIconData('assets/vectors/bold/rounded-magnifier-zoom-out.vec');
   static const AuraIconData route = AuraIconData('assets/vectors/bold/route.vec');
   static const AuraIconData routing = AuraIconData('assets/vectors/bold/routing.vec');
   static const AuraIconData routing2 = AuraIconData('assets/vectors/bold/routing-2.vec');
   static const AuraIconData routing3 = AuraIconData('assets/vectors/bold/routing-3.vec');
+  static const AuraIconData rows2 = AuraIconData('assets/vectors/bold/rows-2.vec');
+  static const AuraIconData rows3 = AuraIconData('assets/vectors/bold/rows-3.vec');
+  static const AuraIconData rows4 = AuraIconData('assets/vectors/bold/rows-4.vec');
+  static const AuraIconData rss = AuraIconData('assets/vectors/bold/rss.vec');
   static const AuraIconData ruble = AuraIconData('assets/vectors/bold/ruble.vec');
   static const AuraIconData rugby = AuraIconData('assets/vectors/bold/rugby.vec');
   static const AuraIconData ruler = AuraIconData('assets/vectors/bold/ruler.vec');
@@ -889,6 +1163,7 @@ class AuraIconsBold {
   static const AuraIconData running = AuraIconData('assets/vectors/bold/running.vec');
   static const AuraIconData running2 = AuraIconData('assets/vectors/bold/running-2.vec');
   static const AuraIconData runningRound = AuraIconData('assets/vectors/bold/running-round.vec');
+  static const AuraIconData rupee = AuraIconData('assets/vectors/bold/rupee.vec');
   static const AuraIconData sadCircle = AuraIconData('assets/vectors/bold/sad-circle.vec');
   static const AuraIconData sadSquare = AuraIconData('assets/vectors/bold/sad-square.vec');
   static const AuraIconData safe2 = AuraIconData('assets/vectors/bold/safe-2.vec');
@@ -908,8 +1183,11 @@ class AuraIconsBold {
   static const AuraIconData screencast = AuraIconData('assets/vectors/bold/screencast.vec');
   static const AuraIconData screencast2 = AuraIconData('assets/vectors/bold/screencast-2.vec');
   static const AuraIconData sdCard = AuraIconData('assets/vectors/bold/sd-card.vec');
+  static const AuraIconData selection = AuraIconData('assets/vectors/bold/selection.vec');
   static const AuraIconData sendSquare = AuraIconData('assets/vectors/bold/send-square.vec');
   static const AuraIconData sendTwiceSquare = AuraIconData('assets/vectors/bold/send-twice-square.vec');
+  static const AuraIconData separatorHorizontal = AuraIconData('assets/vectors/bold/separator-horizontal.vec');
+  static const AuraIconData separatorVertical = AuraIconData('assets/vectors/bold/separator-vertical.vec');
   static const AuraIconData server = AuraIconData('assets/vectors/bold/server.vec');
   static const AuraIconData server2 = AuraIconData('assets/vectors/bold/server-2.vec');
   static const AuraIconData serverMinimalistic = AuraIconData('assets/vectors/bold/server-minimalistic.vec');
@@ -919,8 +1197,11 @@ class AuraIconsBold {
   static const AuraIconData serverSquareUpdate = AuraIconData('assets/vectors/bold/server-square-update.vec');
   static const AuraIconData settings = AuraIconData('assets/vectors/bold/settings.vec');
   static const AuraIconData settingsMinimalistic = AuraIconData('assets/vectors/bold/settings-minimalistic.vec');
+  static const AuraIconData shadow = AuraIconData('assets/vectors/bold/shadow.vec');
+  static const AuraIconData shapeRotate = AuraIconData('assets/vectors/bold/shape-rotate.vec');
   static const AuraIconData share = AuraIconData('assets/vectors/bold/share.vec');
   static const AuraIconData shareCircle = AuraIconData('assets/vectors/bold/share-circle.vec');
+  static const AuraIconData sheet = AuraIconData('assets/vectors/bold/sheet.vec');
   static const AuraIconData shield = AuraIconData('assets/vectors/bold/shield.vec');
   static const AuraIconData shieldCheck = AuraIconData('assets/vectors/bold/shield-check.vec');
   static const AuraIconData shieldCross = AuraIconData('assets/vectors/bold/shield-cross.vec');
@@ -929,19 +1210,24 @@ class AuraIconsBold {
   static const AuraIconData shieldMinimalistic = AuraIconData('assets/vectors/bold/shield-minimalistic.vec');
   static const AuraIconData shieldMinus = AuraIconData('assets/vectors/bold/shield-minus.vec');
   static const AuraIconData shieldNetwork = AuraIconData('assets/vectors/bold/shield-network.vec');
+  static const AuraIconData shieldOff = AuraIconData('assets/vectors/bold/shield-off.vec');
   static const AuraIconData shieldPlus = AuraIconData('assets/vectors/bold/shield-plus.vec');
   static const AuraIconData shieldStar = AuraIconData('assets/vectors/bold/shield-star.vec');
   static const AuraIconData shieldUp = AuraIconData('assets/vectors/bold/shield-up.vec');
   static const AuraIconData shieldUser = AuraIconData('assets/vectors/bold/shield-user.vec');
   static const AuraIconData shieldWarning = AuraIconData('assets/vectors/bold/shield-warning.vec');
+  static const AuraIconData ship = AuraIconData('assets/vectors/bold/ship.vec');
   static const AuraIconData shockAbsorber = AuraIconData('assets/vectors/bold/shock-absorber.vec');
   static const AuraIconData shop = AuraIconData('assets/vectors/bold/shop.vec');
   static const AuraIconData shop2 = AuraIconData('assets/vectors/bold/shop-2.vec');
   static const AuraIconData shopMinimalistic = AuraIconData('assets/vectors/bold/shop-minimalistic.vec');
   static const AuraIconData shuffle = AuraIconData('assets/vectors/bold/shuffle.vec');
-  static const AuraIconData sidebar = AuraIconData('assets/vectors/bold/sidebar.vec');
   static const AuraIconData sidebarCode = AuraIconData('assets/vectors/bold/sidebar-code.vec');
-  static const AuraIconData sidebarMinimalistic = AuraIconData('assets/vectors/bold/sidebar-minimalistic.vec');
+  static const AuraIconData signal = AuraIconData('assets/vectors/bold/signal.vec');
+  static const AuraIconData signalHigh = AuraIconData('assets/vectors/bold/signal-high.vec');
+  static const AuraIconData signalLow = AuraIconData('assets/vectors/bold/signal-low.vec');
+  static const AuraIconData signalMedium = AuraIconData('assets/vectors/bold/signal-medium.vec');
+  static const AuraIconData signalZero = AuraIconData('assets/vectors/bold/signal-zero.vec');
   static const AuraIconData signpost = AuraIconData('assets/vectors/bold/signpost.vec');
   static const AuraIconData signpost2 = AuraIconData('assets/vectors/bold/signpost-2.vec');
   static const AuraIconData simCard = AuraIconData('assets/vectors/bold/sim-card.vec');
@@ -955,6 +1241,7 @@ class AuraIconsBold {
   static const AuraIconData skipNext = AuraIconData('assets/vectors/bold/skip-next.vec');
   static const AuraIconData skipPrevious = AuraIconData('assets/vectors/bold/skip-previous.vec');
   static const AuraIconData skirt = AuraIconData('assets/vectors/bold/skirt.vec');
+  static const AuraIconData skull = AuraIconData('assets/vectors/bold/skull.vec');
   static const AuraIconData slashCircle = AuraIconData('assets/vectors/bold/slash-circle.vec');
   static const AuraIconData slashSquare = AuraIconData('assets/vectors/bold/slash-square.vec');
   static const AuraIconData sledgehammer = AuraIconData('assets/vectors/bold/sledgehammer.vec');
@@ -996,12 +1283,14 @@ class AuraIconsBold {
   static const AuraIconData soundwave = AuraIconData('assets/vectors/bold/soundwave.vec');
   static const AuraIconData soundwaveCircle = AuraIconData('assets/vectors/bold/soundwave-circle.vec');
   static const AuraIconData soundwaveSquare = AuraIconData('assets/vectors/bold/soundwave-square.vec');
+  static const AuraIconData sparkles = AuraIconData('assets/vectors/bold/sparkles.vec');
   static const AuraIconData speaker = AuraIconData('assets/vectors/bold/speaker.vec');
   static const AuraIconData speakerMinimalistic = AuraIconData('assets/vectors/bold/speaker-minimalistic.vec');
   static const AuraIconData specialEffects = AuraIconData('assets/vectors/bold/special-effects.vec');
   static const AuraIconData speedometerLow = AuraIconData('assets/vectors/bold/speedometer-low.vec');
   static const AuraIconData speedometerMax = AuraIconData('assets/vectors/bold/speedometer-max.vec');
   static const AuraIconData speedometerMiddle = AuraIconData('assets/vectors/bold/speedometer-middle.vec');
+  static const AuraIconData sprout = AuraIconData('assets/vectors/bold/sprout.vec');
   static const AuraIconData squareAcademicCap = AuraIconData('assets/vectors/bold/square-academic-cap.vec');
   static const AuraIconData squareAcademicCap2 = AuraIconData('assets/vectors/bold/square-academic-cap-2.vec');
   static const AuraIconData squareAltArrowDown = AuraIconData('assets/vectors/bold/square-alt-arrow-down.vec');
@@ -1018,6 +1307,9 @@ class AuraIconsBold {
   static const AuraIconData squareArrowUp = AuraIconData('assets/vectors/bold/square-arrow-up.vec');
   static const AuraIconData squareBottomDown = AuraIconData('assets/vectors/bold/square-bottom-down.vec');
   static const AuraIconData squareBottomUp = AuraIconData('assets/vectors/bold/square-bottom-up.vec');
+  static const AuraIconData squareDashed = AuraIconData('assets/vectors/bold/square-dashed.vec');
+  static const AuraIconData squareDot = AuraIconData('assets/vectors/bold/square-dot.vec');
+  static const AuraIconData squareDotDashed = AuraIconData('assets/vectors/bold/square-dot-dashed.vec');
   static const AuraIconData squareDoubleAltArrowDown = AuraIconData('assets/vectors/bold/square-double-alt-arrow-down.vec');
   static const AuraIconData squareDoubleAltArrowLeft = AuraIconData('assets/vectors/bold/square-double-alt-arrow-left.vec');
   static const AuraIconData squareDoubleAltArrowRight = AuraIconData('assets/vectors/bold/square-double-alt-arrow-right.vec');
@@ -1040,6 +1332,8 @@ class AuraIconsBold {
   static const AuraIconData starFall2 = AuraIconData('assets/vectors/bold/star-fall-2.vec');
   static const AuraIconData starFallMinimalistic = AuraIconData('assets/vectors/bold/star-fall-minimalistic.vec');
   static const AuraIconData starFallMinimalistic2 = AuraIconData('assets/vectors/bold/star-fall-minimalistic-2.vec');
+  static const AuraIconData starHalf = AuraIconData('assets/vectors/bold/star-half.vec');
+  static const AuraIconData starOff = AuraIconData('assets/vectors/bold/star-off.vec');
   static const AuraIconData starRainbow = AuraIconData('assets/vectors/bold/star-rainbow.vec');
   static const AuraIconData starRing = AuraIconData('assets/vectors/bold/star-ring.vec');
   static const AuraIconData starRings = AuraIconData('assets/vectors/bold/star-rings.vec');
@@ -1068,7 +1362,10 @@ class AuraIconsBold {
   static const AuraIconData stretching = AuraIconData('assets/vectors/bold/stretching.vec');
   static const AuraIconData stretchingRound = AuraIconData('assets/vectors/bold/stretching-round.vec');
   static const AuraIconData structure = AuraIconData('assets/vectors/bold/structure.vec');
+  static const AuraIconData subscript = AuraIconData('assets/vectors/bold/subscript.vec');
   static const AuraIconData subtitles = AuraIconData('assets/vectors/bold/subtitles.vec');
+  static const AuraIconData subtract = AuraIconData('assets/vectors/bold/subtract.vec');
+  static const AuraIconData subtractMinimalistic = AuraIconData('assets/vectors/bold/subtract-minimalistic.vec');
   static const AuraIconData suitcase = AuraIconData('assets/vectors/bold/suitcase.vec');
   static const AuraIconData suitcaseLines = AuraIconData('assets/vectors/bold/suitcase-lines.vec');
   static const AuraIconData suitcaseTag = AuraIconData('assets/vectors/bold/suitcase-tag.vec');
@@ -1077,12 +1374,20 @@ class AuraIconsBold {
   static const AuraIconData sunFog = AuraIconData('assets/vectors/bold/sun-fog.vec');
   static const AuraIconData sunrise = AuraIconData('assets/vectors/bold/sunrise.vec');
   static const AuraIconData sunset = AuraIconData('assets/vectors/bold/sunset.vec');
+  static const AuraIconData superscript = AuraIconData('assets/vectors/bold/superscript.vec');
   static const AuraIconData suspension = AuraIconData('assets/vectors/bold/suspension.vec');
   static const AuraIconData suspensionBolt = AuraIconData('assets/vectors/bold/suspension-bolt.vec');
   static const AuraIconData suspensionCross = AuraIconData('assets/vectors/bold/suspension-cross.vec');
   static const AuraIconData swimming = AuraIconData('assets/vectors/bold/swimming.vec');
   static const AuraIconData syringe = AuraIconData('assets/vectors/bold/syringe.vec');
   static const AuraIconData tShirt = AuraIconData('assets/vectors/bold/t-shirt.vec');
+  static const AuraIconData table = AuraIconData('assets/vectors/bold/table.vec');
+  static const AuraIconData tableCellsMerge = AuraIconData('assets/vectors/bold/table-cells-merge.vec');
+  static const AuraIconData tableCellsSplit = AuraIconData('assets/vectors/bold/table-cells-split.vec');
+  static const AuraIconData tableColumnsSplit = AuraIconData('assets/vectors/bold/table-columns-split.vec');
+  static const AuraIconData tableMinimalistic = AuraIconData('assets/vectors/bold/table-minimalistic.vec');
+  static const AuraIconData tableProperties = AuraIconData('assets/vectors/bold/table-properties.vec');
+  static const AuraIconData tableRowsSplit = AuraIconData('assets/vectors/bold/table-rows-split.vec');
   static const AuraIconData tablet = AuraIconData('assets/vectors/bold/tablet.vec');
   static const AuraIconData tag = AuraIconData('assets/vectors/bold/tag.vec');
   static const AuraIconData tagHorizontal = AuraIconData('assets/vectors/bold/tag-horizontal.vec');
@@ -1095,6 +1400,9 @@ class AuraIconsBold {
   static const AuraIconData tennis2 = AuraIconData('assets/vectors/bold/tennis-2.vec');
   static const AuraIconData testTube = AuraIconData('assets/vectors/bold/test-tube.vec');
   static const AuraIconData testTubeMinimalistic = AuraIconData('assets/vectors/bold/test-tube-minimalistic.vec');
+  static const AuraIconData textAlignCenter = AuraIconData('assets/vectors/bold/text-align-center.vec');
+  static const AuraIconData textAlignLeft = AuraIconData('assets/vectors/bold/text-align-left.vec');
+  static const AuraIconData textAlignRight = AuraIconData('assets/vectors/bold/text-align-right.vec');
   static const AuraIconData textBold = AuraIconData('assets/vectors/bold/text-bold.vec');
   static const AuraIconData textBoldCircle = AuraIconData('assets/vectors/bold/text-bold-circle.vec');
   static const AuraIconData textBoldSquare = AuraIconData('assets/vectors/bold/text-bold-square.vec');
@@ -1105,6 +1413,7 @@ class AuraIconsBold {
   static const AuraIconData textField = AuraIconData('assets/vectors/bold/text-field.vec');
   static const AuraIconData textFieldFocus = AuraIconData('assets/vectors/bold/text-field-focus.vec');
   static const AuraIconData textFormat = AuraIconData('assets/vectors/bold/text-format.vec');
+  static const AuraIconData textHeading = AuraIconData('assets/vectors/bold/text-heading.vec');
   static const AuraIconData textItalic = AuraIconData('assets/vectors/bold/text-italic.vec');
   static const AuraIconData textItalicCircle = AuraIconData('assets/vectors/bold/text-italic-circle.vec');
   static const AuraIconData textItalicSquare = AuraIconData('assets/vectors/bold/text-italic-square.vec');
@@ -1116,10 +1425,13 @@ class AuraIconsBold {
   static const AuraIconData textUnderlineCross = AuraIconData('assets/vectors/bold/text-underline-cross.vec');
   static const AuraIconData thermometer = AuraIconData('assets/vectors/bold/thermometer.vec');
   static const AuraIconData threeSquares = AuraIconData('assets/vectors/bold/three-squares.vec');
-  static const AuraIconData tickerStar = AuraIconData('assets/vectors/bold/ticker-star.vec');
   static const AuraIconData ticket = AuraIconData('assets/vectors/bold/ticket.vec');
   static const AuraIconData ticketSale = AuraIconData('assets/vectors/bold/ticket-sale.vec');
+  static const AuraIconData ticketStar = AuraIconData('assets/vectors/bold/ticket-star.vec');
   static const AuraIconData toPip = AuraIconData('assets/vectors/bold/to-pip.vec');
+  static const AuraIconData toggleLeft = AuraIconData('assets/vectors/bold/toggle-left.vec');
+  static const AuraIconData toggleRight = AuraIconData('assets/vectors/bold/toggle-right.vec');
+  static const AuraIconData toolbox = AuraIconData('assets/vectors/bold/toolbox.vec');
   static const AuraIconData tornado = AuraIconData('assets/vectors/bold/tornado.vec');
   static const AuraIconData tornadoSmall = AuraIconData('assets/vectors/bold/tornado-small.vec');
   static const AuraIconData traffic = AuraIconData('assets/vectors/bold/traffic.vec');
@@ -1127,6 +1439,7 @@ class AuraIconsBold {
   static const AuraIconData tram = AuraIconData('assets/vectors/bold/tram.vec');
   static const AuraIconData transferHorizontal = AuraIconData('assets/vectors/bold/transfer-horizontal.vec');
   static const AuraIconData transferVertical = AuraIconData('assets/vectors/bold/transfer-vertical.vec');
+  static const AuraIconData translate = AuraIconData('assets/vectors/bold/translate.vec');
   static const AuraIconData translation = AuraIconData('assets/vectors/bold/translation.vec');
   static const AuraIconData translation2 = AuraIconData('assets/vectors/bold/translation-2.vec');
   static const AuraIconData transmission = AuraIconData('assets/vectors/bold/transmission.vec');
@@ -1138,6 +1451,8 @@ class AuraIconsBold {
   static const AuraIconData trashBinTrash = AuraIconData('assets/vectors/bold/trash-bin-trash.vec');
   static const AuraIconData treadmill = AuraIconData('assets/vectors/bold/treadmill.vec');
   static const AuraIconData treadmillRound = AuraIconData('assets/vectors/bold/treadmill-round.vec');
+  static const AuraIconData tree = AuraIconData('assets/vectors/bold/tree.vec');
+  static const AuraIconData truck = AuraIconData('assets/vectors/bold/truck.vec');
   static const AuraIconData tuning = AuraIconData('assets/vectors/bold/tuning.vec');
   static const AuraIconData tuning2 = AuraIconData('assets/vectors/bold/tuning-2.vec');
   static const AuraIconData tuning3 = AuraIconData('assets/vectors/bold/tuning-3.vec');
@@ -1160,6 +1475,7 @@ class AuraIconsBold {
   static const AuraIconData undoRightRound = AuraIconData('assets/vectors/bold/undo-right-round.vec');
   static const AuraIconData undoRightRoundSquare = AuraIconData('assets/vectors/bold/undo-right-round-square.vec');
   static const AuraIconData undoRightSquare = AuraIconData('assets/vectors/bold/undo-right-square.vec');
+  static const AuraIconData union = AuraIconData('assets/vectors/bold/union.vec');
   static const AuraIconData unlink = AuraIconData('assets/vectors/bold/unlink.vec');
   static const AuraIconData unlinkMinimalistic = AuraIconData('assets/vectors/bold/unlink-minimalistic.vec');
   static const AuraIconData unread = AuraIconData('assets/vectors/bold/unread.vec');
@@ -1195,6 +1511,8 @@ class AuraIconsBold {
   static const AuraIconData usersGroupRounded = AuraIconData('assets/vectors/bold/users-group-rounded.vec');
   static const AuraIconData usersGroupTwoRounded = AuraIconData('assets/vectors/bold/users-group-two-rounded.vec');
   static const AuraIconData vanity = AuraIconData('assets/vectors/bold/vanity.vec');
+  static const AuraIconData variableBrackets = AuraIconData('assets/vectors/bold/variable-brackets.vec');
+  static const AuraIconData variableSquare = AuraIconData('assets/vectors/bold/variable-square.vec');
   static const AuraIconData verifiedCheck = AuraIconData('assets/vectors/bold/verified-check.vec');
   static const AuraIconData videoFrame = AuraIconData('assets/vectors/bold/video-frame.vec');
   static const AuraIconData videoFrame2 = AuraIconData('assets/vectors/bold/video-frame-2.vec');
@@ -1206,6 +1524,7 @@ class AuraIconsBold {
   static const AuraIconData videoLibrary = AuraIconData('assets/vectors/bold/video-library.vec');
   static const AuraIconData videocamera = AuraIconData('assets/vectors/bold/videocamera.vec');
   static const AuraIconData videocameraAdd = AuraIconData('assets/vectors/bold/videocamera-add.vec');
+  static const AuraIconData videocameraOff = AuraIconData('assets/vectors/bold/videocamera-off.vec');
   static const AuraIconData videocameraRecord = AuraIconData('assets/vectors/bold/videocamera-record.vec');
   static const AuraIconData vinyl = AuraIconData('assets/vectors/bold/vinyl.vec');
   static const AuraIconData vinylRecord = AuraIconData('assets/vectors/bold/vinyl-record.vec');
@@ -1223,6 +1542,7 @@ class AuraIconsBold {
   static const AuraIconData wallet2 = AuraIconData('assets/vectors/bold/wallet-2.vec');
   static const AuraIconData walletMoney = AuraIconData('assets/vectors/bold/wallet-money.vec');
   static const AuraIconData wallpaper = AuraIconData('assets/vectors/bold/wallpaper.vec');
+  static const AuraIconData warp = AuraIconData('assets/vectors/bold/warp.vec');
   static const AuraIconData washingMachine = AuraIconData('assets/vectors/bold/washing-machine.vec');
   static const AuraIconData washingMachineMinimalistic = AuraIconData('assets/vectors/bold/washing-machine-minimalistic.vec');
   static const AuraIconData watchRound = AuraIconData('assets/vectors/bold/watch-round.vec');
@@ -1233,9 +1553,18 @@ class AuraIconsBold {
   static const AuraIconData waterSun = AuraIconData('assets/vectors/bold/water-sun.vec');
   static const AuraIconData waterdrop = AuraIconData('assets/vectors/bold/waterdrop.vec');
   static const AuraIconData waterdrops = AuraIconData('assets/vectors/bold/waterdrops.vec');
+  static const AuraIconData webcam = AuraIconData('assets/vectors/bold/webcam.vec');
+  static const AuraIconData webcamOff = AuraIconData('assets/vectors/bold/webcam-off.vec');
   static const AuraIconData wheel = AuraIconData('assets/vectors/bold/wheel.vec');
   static const AuraIconData wheelAngle = AuraIconData('assets/vectors/bold/wheel-angle.vec');
   static const AuraIconData whisk = AuraIconData('assets/vectors/bold/whisk.vec');
+  static const AuraIconData wiFi = AuraIconData('assets/vectors/bold/wi-fi.vec');
+  static const AuraIconData wiFiCog = AuraIconData('assets/vectors/bold/wi-fi-cog.vec');
+  static const AuraIconData wiFiCross = AuraIconData('assets/vectors/bold/wi-fi-cross.vec');
+  static const AuraIconData wiFiHigh = AuraIconData('assets/vectors/bold/wi-fi-high.vec');
+  static const AuraIconData wiFiLow = AuraIconData('assets/vectors/bold/wi-fi-low.vec');
+  static const AuraIconData wiFiNone = AuraIconData('assets/vectors/bold/wi-fi-none.vec');
+  static const AuraIconData wiFiOff = AuraIconData('assets/vectors/bold/wi-fi-off.vec');
   static const AuraIconData wiFiRouter = AuraIconData('assets/vectors/bold/wi-fi-router.vec');
   static const AuraIconData wiFiRouterMinimalistic = AuraIconData('assets/vectors/bold/wi-fi-router-minimalistic.vec');
   static const AuraIconData wiFiRouterRound = AuraIconData('assets/vectors/bold/wi-fi-router-round.vec');
@@ -1253,12 +1582,15 @@ class AuraIconsBold {
   static const AuraIconData wineglassTriangle = AuraIconData('assets/vectors/bold/wineglass-triangle.vec');
   static const AuraIconData wirelessCharge = AuraIconData('assets/vectors/bold/wireless-charge.vec');
   static const AuraIconData women = AuraIconData('assets/vectors/bold/women.vec');
+  static const AuraIconData workflow = AuraIconData('assets/vectors/bold/workflow.vec');
+  static const AuraIconData wrench = AuraIconData('assets/vectors/bold/wrench.vec');
   static const AuraIconData xxx = AuraIconData('assets/vectors/bold/xxx.vec');
-  static const AuraIconData zipFile = AuraIconData('assets/vectors/bold/zip-file.vec');
+  static const AuraIconData yen = AuraIconData('assets/vectors/bold/yen.vec');
 
   /// Dart-identifier -> icon data, for enumeration (tests, example app).
   static const Map<String, AuraIconData> all = {
     'accessibility': accessibility,
+    'add': add,
     'addCircle': addCircle,
     'addFolder': addFolder,
     'addSquare': addSquare,
@@ -1274,6 +1606,7 @@ class AuraIconsBold {
     'airbudsLeft': airbudsLeft,
     'airbudsRemove': airbudsRemove,
     'airbudsRight': airbudsRight,
+    'airplane': airplane,
     'alarm': alarm,
     'alarmAdd': alarmAdd,
     'alarmPause': alarmPause,
@@ -1294,27 +1627,40 @@ class AuraIconsBold {
     'altArrowLeft': altArrowLeft,
     'altArrowRight': altArrowRight,
     'altArrowUp': altArrowUp,
+    'anchor': anchor,
+    'apple': apple,
     'archive': archive,
     'archiveCheck': archiveCheck,
+    'archiveClose': archiveClose,
     'archiveDown': archiveDown,
     'archiveDownMinimalistic': archiveDownMinimalistic,
     'archiveMinimalistic': archiveMinimalistic,
+    'archiveMinimalisticClose': archiveMinimalisticClose,
     'archiveUp': archiveUp,
     'archiveUpMinimalistic': archiveUpMinimalistic,
     'armchair': armchair,
     'armchair2': armchair2,
     'arrowDown': arrowDown,
+    'arrowDownFromLine': arrowDownFromLine,
+    'arrowDownToLine': arrowDownToLine,
     'arrowLeft': arrowLeft,
     'arrowLeftDown': arrowLeftDown,
+    'arrowLeftFromLine': arrowLeftFromLine,
+    'arrowLeftToLine': arrowLeftToLine,
     'arrowLeftUp': arrowLeftUp,
     'arrowRight': arrowRight,
     'arrowRightDown': arrowRightDown,
+    'arrowRightFromLine': arrowRightFromLine,
+    'arrowRightToLine': arrowRightToLine,
     'arrowRightUp': arrowRightUp,
     'arrowToDownLeft': arrowToDownLeft,
     'arrowToDownRight': arrowToDownRight,
     'arrowToTopLeft': arrowToTopLeft,
     'arrowToTopRight': arrowToTopRight,
     'arrowUp': arrowUp,
+    'arrowUpFromLine': arrowUpFromLine,
+    'arrowUpToLine': arrowUpToLine,
+    'asterisk': asterisk,
     'asteroid': asteroid,
     'atom': atom,
     'augmentedReality': augmentedReality,
@@ -1334,9 +1680,12 @@ class AuraIconsBold {
     'bagSmile': bagSmile,
     'balloon': balloon,
     'balls': balls,
+    'bank': bank,
     'banknote': banknote,
     'banknote2': banknote2,
     'barChair': barChair,
+    'barcode': barcode,
+    'barcodeScan': barcodeScan,
     'basketball': basketball,
     'bath': bath,
     'batteryCharge': batteryCharge,
@@ -1356,6 +1705,7 @@ class AuraIconsBold {
     'bellOff': bellOff,
     'bellRing': bellRing,
     'benzeneRing': benzeneRing,
+    'bicycle': bicycle,
     'bicycling': bicycling,
     'bicyclingRound': bicyclingRound,
     'bill': bill,
@@ -1363,11 +1713,16 @@ class AuraIconsBold {
     'billCheck': billCheck,
     'billCross': billCross,
     'billList': billList,
+    'binoculars': binoculars,
+    'bitcoin': bitcoin,
     'blackHole': blackHole,
     'blackHole2': blackHole2,
     'blackHole3': blackHole3,
+    'blend': blend,
+    'blocks': blocks,
     'bluetooth': bluetooth,
     'bluetoothCircle': bluetoothCircle,
+    'bluetoothOff': bluetoothOff,
     'bluetoothSquare': bluetoothSquare,
     'bluetoothWave': bluetoothWave,
     'body': body,
@@ -1389,31 +1744,46 @@ class AuraIconsBold {
     'bookBookmarkMinimalistic': bookBookmarkMinimalistic,
     'bookMinimalistic': bookMinimalistic,
     'bookmark': bookmark,
+    'bookmarkCheck': bookmarkCheck,
     'bookmarkCircle': bookmarkCircle,
+    'bookmarkMinus': bookmarkMinus,
+    'bookmarkOff': bookmarkOff,
     'bookmarkOpened': bookmarkOpened,
+    'bookmarkPlus': bookmarkPlus,
     'bookmarkSquare': bookmarkSquare,
     'bookmarkSquareMinimalistic': bookmarkSquareMinimalistic,
+    'bookmarkX': bookmarkX,
     'boombox': boombox,
+    'bot': bot,
     'bottle': bottle,
     'bowling': bowling,
     'box': box,
     'boxMinimalistic': boxMinimalistic,
+    'braces': braces,
+    'brackets': brackets,
+    'brain': brain,
     'branchingPathsDown': branchingPathsDown,
     'branchingPathsUp': branchingPathsUp,
     'broom': broom,
+    'brushCrossPen': brushCrossPen,
     'bug': bug,
     'bugMinimalistic': bugMinimalistic,
     'buildings': buildings,
     'buildings2': buildings2,
     'buildings3': buildings3,
+    'burger': burger,
     'bus': bus,
+    'cake': cake,
     'calculator': calculator,
     'calculatorMinimalistic': calculatorMinimalistic,
     'calendar': calendar,
     'calendarAdd': calendarAdd,
+    'calendarCheck': calendarCheck,
+    'calendarClose': calendarClose,
     'calendarDate': calendarDate,
     'calendarMark': calendarMark,
     'calendarMinimalistic': calendarMinimalistic,
+    'calendarRange': calendarRange,
     'calendarSearch': calendarSearch,
     'callCancel': callCancel,
     'callCancelRounded': callCancelRounded,
@@ -1426,8 +1796,10 @@ class AuraIconsBold {
     'camera': camera,
     'cameraAdd': cameraAdd,
     'cameraMinimalistic': cameraMinimalistic,
+    'cameraOff': cameraOff,
     'cameraRotate': cameraRotate,
     'cameraSquare': cameraSquare,
+    'car': car,
     'carBattery': carBattery,
     'card': card,
     'card2': card2,
@@ -1462,36 +1834,68 @@ class AuraIconsBold {
     'chandelier': chandelier,
     'chart': chart,
     'chart2': chart2,
+    'chartArea': chartArea,
+    'chartCandlestick': chartCandlestick,
+    'chartGantt': chartGantt,
+    'chartScatter': chartScatter,
     'chartSquare': chartSquare,
-    'chatDots': chatDots,
-    'chatLine': chatLine,
+    'chartSquare2': chartSquare2,
     'chatRound': chatRound,
+    'chatRoundAdd': chatRoundAdd,
     'chatRoundCall': chatRoundCall,
     'chatRoundCheck': chatRoundCheck,
+    'chatRoundClose': chatRoundClose,
+    'chatRoundCode': chatRoundCode,
     'chatRoundDots': chatRoundDots,
     'chatRoundLike': chatRoundLike,
     'chatRoundLine': chatRoundLine,
     'chatRoundMoney': chatRoundMoney,
+    'chatRoundOff': chatRoundOff,
+    'chatRoundQuestionMark': chatRoundQuestionMark,
+    'chatRoundQuote': chatRoundQuote,
+    'chatRoundReplay': chatRoundReplay,
     'chatRoundUnread': chatRoundUnread,
     'chatRoundVideo': chatRoundVideo,
+    'chatRoundWarning': chatRoundWarning,
     'chatSquare': chatSquare,
-    'chatSquare2': chatSquare2,
+    'chatSquareAdd': chatSquareAdd,
     'chatSquareArrow': chatSquareArrow,
     'chatSquareCall': chatSquareCall,
     'chatSquareCheck': chatSquareCheck,
+    'chatSquareClose': chatSquareClose,
     'chatSquareCode': chatSquareCode,
+    'chatSquareDots': chatSquareDots,
     'chatSquareLike': chatSquareLike,
-    'chatUnread': chatUnread,
+    'chatSquareLine': chatSquareLine,
+    'chatSquareOff': chatSquareOff,
+    'chatSquareQuestionMark': chatSquareQuestionMark,
+    'chatSquareQuote': chatSquareQuote,
+    'chatSquareReplay': chatSquareReplay,
+    'chatSquareUnread': chatSquareUnread,
+    'chatSquareWarning': chatSquareWarning,
+    'check': check,
     'checkCircle': checkCircle,
     'checkRead': checkRead,
     'checkSquare': checkSquare,
+    'checkerboard': checkerboard,
     'checklist': checklist,
     'checklistMinimalistic': checklistMinimalistic,
     'chefHat': chefHat,
     'chefHatHeart': chefHatHeart,
     'chefHatMinimalistic': chefHatMinimalistic,
+    'chevronFirst': chevronFirst,
+    'chevronLast': chevronLast,
+    'chevronsDownUp': chevronsDownUp,
+    'chevronsLeftRight': chevronsLeftRight,
+    'chevronsLeftRightEllipsis': chevronsLeftRightEllipsis,
+    'chevronsRightLeft': chevronsRightLeft,
+    'chevronsUpDown': chevronsUpDown,
+    'circle': circle,
     'circleBottomDown': circleBottomDown,
     'circleBottomUp': circleBottomUp,
+    'circleDashed': circleDashed,
+    'circleDot': circleDot,
+    'circleDotDashed': circleDotDashed,
     'circleTopDown': circleTopDown,
     'circleTopUp': circleTopUp,
     'city': city,
@@ -1504,12 +1908,18 @@ class AuraIconsBold {
     'clipboard': clipboard,
     'clipboardAdd': clipboardAdd,
     'clipboardCheck': clipboardCheck,
+    'clipboardClock': clipboardClock,
+    'clipboardCopy': clipboardCopy,
     'clipboardHeart': clipboardHeart,
     'clipboardList': clipboardList,
+    'clipboardMinus': clipboardMinus,
+    'clipboardPaste': clipboardPaste,
     'clipboardRemove': clipboardRemove,
     'clipboardText': clipboardText,
+    'clipboardType': clipboardType,
     'clockCircle': clockCircle,
     'clockSquare': clockSquare,
+    'close': close,
     'closeCircle': closeCircle,
     'closeSquare': closeSquare,
     'closet': closet,
@@ -1520,8 +1930,8 @@ class AuraIconsBold {
     'cloudCheck': cloudCheck,
     'cloudCross': cloudCross,
     'cloudDownload': cloudDownload,
-    'cloudFile': cloudFile,
     'cloudMinus': cloudMinus,
+    'cloudOff': cloudOff,
     'cloudPlus': cloudPlus,
     'cloudRain': cloudRain,
     'cloudSnowfall': cloudSnowfall,
@@ -1538,10 +1948,14 @@ class AuraIconsBold {
     'code': code,
     'code2': code2,
     'codeCircle': codeCircle,
-    'codeFile': codeFile,
     'codeScan': codeScan,
     'codeSquare': codeSquare,
+    'coins': coins,
     'colourTuning': colourTuning,
+    'columns2': columns2,
+    'columns3': columns3,
+    'columns3Cog': columns3Cog,
+    'columns4': columns4,
     'command': command,
     'compass': compass,
     'compassBig': compassBig,
@@ -1552,7 +1966,14 @@ class AuraIconsBold {
     'confettiMinimalistic': confettiMinimalistic,
     'confoundedCircle': confoundedCircle,
     'confoundedSquare': confoundedSquare,
+    'container': container,
+    'contrast': contrast,
+    'cookie': cookie,
     'copy': copy,
+    'copyAdd': copyAdd,
+    'copyCheck': copyCheck,
+    'copyClose': copyClose,
+    'copyMinus': copyMinus,
     'copyright': copyright,
     'corkscrew': corkscrew,
     'cosmetic': cosmetic,
@@ -1574,6 +1995,7 @@ class AuraIconsBold {
     'cupPaper': cupPaper,
     'cupStar': cupStar,
     'cursor': cursor,
+    'cursorClick': cursorClick,
     'cursorSquare': cursorSquare,
     'danger': danger,
     'dangerCircle': dangerCircle,
@@ -1586,11 +2008,15 @@ class AuraIconsBold {
     'diagramUp': diagramUp,
     'dialog': dialog,
     'dialog2': dialog2,
+    'diamond': diamond,
+    'dice': dice,
     'diploma': diploma,
     'diplomaVerified': diplomaVerified,
     'diskette': diskette,
     'dislike': dislike,
     'display': display,
+    'distort': distort,
+    'divide': divide,
     'dna': dna,
     'document': document,
     'document2': document2,
@@ -1603,6 +2029,7 @@ class AuraIconsBold {
     'dollarMinimalistic': dollarMinimalistic,
     'donut': donut,
     'donutBitten': donutBitten,
+    'doorClosed': doorClosed,
     'doubleAltArrowDown': doubleAltArrowDown,
     'doubleAltArrowLeft': doubleAltArrowLeft,
     'doubleAltArrowRight': doubleAltArrowRight,
@@ -1624,14 +2051,18 @@ class AuraIconsBold {
     'dumbbells2': dumbbells2,
     'earth': earth,
     'electricRefueling': electricRefueling,
+    'ellipse': ellipse,
     'emojiFunnyCircle': emojiFunnyCircle,
     'emojiFunnySquare': emojiFunnySquare,
     'endCall': endCall,
     'endCallRounded': endCallRounded,
+    'equal': equal,
     'eraser': eraser,
     'eraserCircle': eraserCircle,
     'eraserSquare': eraserSquare,
     'euro': euro,
+    'exclamationMark': exclamationMark,
+    'exclude': exclude,
     'exit': exit,
     'explicit': explicit,
     'exportIcon': exportIcon,
@@ -1639,60 +2070,115 @@ class AuraIconsBold {
     'expressionlessSquare': expressionlessSquare,
     'eye': eye,
     'eyeClosed': eyeClosed,
+    'eyeOff': eyeOff,
     'eyeScan': eyeScan,
     'faceScanCircle': faceScanCircle,
     'faceScanSquare': faceScanSquare,
     'facemaskCircle': facemaskCircle,
     'facemaskSquare': facemaskSquare,
+    'factoryIcon': factoryIcon,
     'feed': feed,
     'ferrisWheel': ferrisWheel,
     'figma': figma,
-    'figmaFile': figmaFile,
     'file': file,
+    'fileAdd': fileAdd,
+    'fileAudio': fileAudio,
+    'fileBadge': fileBadge,
+    'fileBraces': fileBraces,
+    'fileChart': fileChart,
+    'fileChart2': fileChart2,
     'fileCheck': fileCheck,
+    'fileCloud': fileCloud,
+    'fileCode': fileCode,
+    'fileCog': fileCog,
     'fileCorrupted': fileCorrupted,
     'fileDownload': fileDownload,
     'fileFavorite': fileFavorite,
+    'fileFigma': fileFigma,
+    'fileImage': fileImage,
     'fileLeft': fileLeft,
+    'fileLock': fileLock,
+    'fileMinus': fileMinus,
+    'filePen': filePen,
+    'filePlay': filePlay,
+    'fileQuestionMark': fileQuestionMark,
     'fileRemove': fileRemove,
     'fileRight': fileRight,
+    'fileSearch': fileSearch,
     'fileSend': fileSend,
+    'fileSignal': fileSignal,
+    'fileSliders': fileSliders,
     'fileSmile': fileSmile,
+    'fileSpreadsheet': fileSpreadsheet,
+    'fileStack': fileStack,
+    'fileTerminal': fileTerminal,
     'fileText': fileText,
+    'fileType': fileType,
+    'fileUser': fileUser,
+    'fileVideoCamera': fileVideoCamera,
+    'fileWarning': fileWarning,
+    'fileZip': fileZip,
     'filter': filter,
+    'filterClose': filterClose,
     'filters': filters,
+    'fingerprint': fingerprint,
     'fire': fire,
     'fireMinimalistic': fireMinimalistic,
     'fireSquare': fireSquare,
+    'fish': fish,
     'flag': flag,
     'flag2': flag2,
+    'flagOff': flagOff,
     'flame': flame,
     'flashDrive': flashDrive,
     'flashlight': flashlight,
     'flashlightOn': flashlightOn,
+    'flask': flask,
+    'flatBrush': flatBrush,
     'flipHorizontal': flipHorizontal,
     'flipVertical': flipVertical,
     'floorLamp': floorLamp,
     'floorLampMinimalistic': floorLampMinimalistic,
+    'flower': flower,
     'fog': fog,
     'folder': folder,
     'folder2': folder2,
     'folderCheck': folderCheck,
+    'folderClock': folderClock,
     'folderCloud': folderCloud,
+    'folderCode': folderCode,
+    'folderCog': folderCog,
+    'folderDot': folderDot,
+    'folderDotOpen': folderDotOpen,
+    'folderDown': folderDown,
     'folderError': folderError,
     'folderFavoriteBookmark': folderFavoriteBookmark,
     'folderFavoriteStar': folderFavoriteStar,
+    'folderGit': folderGit,
+    'folderKanban': folderKanban,
+    'folderLock': folderLock,
     'folderOpen': folderOpen,
+    'folderOutput': folderOutput,
     'folderPathConnect': folderPathConnect,
+    'folderPen': folderPen,
+    'folderSearch': folderSearch,
     'folderSecurity': folderSecurity,
+    'folderSymlink': folderSymlink,
+    'folderSync': folderSync,
+    'folderTree': folderTree,
+    'folderUp': folderUp,
     'folderWithFiles': folderWithFiles,
+    'folderZip': folderZip,
+    'folders': folders,
     'football': football,
     'forbidden': forbidden,
     'forbiddenCircle': forbiddenCircle,
+    'forkKnife': forkKnife,
     'forward': forward,
     'forward2': forward2,
     'forwardRight': forwardRight,
     'fourK': fourK,
+    'frame': frame,
     'fridge': fridge,
     'fuel': fuel,
     'fullScreen': fullScreen,
@@ -1706,6 +2192,7 @@ class AuraIconsBold {
     'galleryEdit': galleryEdit,
     'galleryFavorite': galleryFavorite,
     'galleryMinimalistic': galleryMinimalistic,
+    'galleryOff': galleryOff,
     'galleryRemove': galleryRemove,
     'galleryRound': galleryRound,
     'gallerySend': gallerySend,
@@ -1718,21 +2205,41 @@ class AuraIconsBold {
     'gamepadOld': gamepadOld,
     'garage': garage,
     'gasStation': gasStation,
+    'gavel': gavel,
     'ghost': ghost,
     'ghostSmile': ghostSmile,
     'gift': gift,
+    'gitBranch': gitBranch,
+    'gitCommit': gitCommit,
+    'gitDiff': gitDiff,
+    'gitFork': gitFork,
+    'gitGraph': gitGraph,
+    'gitMerge': gitMerge,
+    'gitPullRequest': gitPullRequest,
     'glasses': glasses,
     'global': global,
     'globe': globe,
     'golf': golf,
     'gps': gps,
+    'gradient': gradient,
     'graph': graph,
     'graphDown': graphDown,
     'graphDownNew': graphDownNew,
     'graphNew': graphNew,
     'graphNewUp': graphNewUp,
     'graphUp': graphUp,
+    'grid2x2': grid2x2,
+    'grid2x2Add': grid2x2Add,
+    'grid2x2Check': grid2x2Check,
+    'grid2x2Close': grid2x2Close,
+    'grid3x2': grid3x2,
+    'grid3x3': grid3x3,
+    'grip': grip,
+    'gripHorizontal': gripHorizontal,
+    'gripVertical': gripVertical,
     'hamburgerMenu': hamburgerMenu,
+    'hand': hand,
+    'handGrab': handGrab,
     'handHeart': handHeart,
     'handMoney': handMoney,
     'handPills': handPills,
@@ -1753,6 +2260,7 @@ class AuraIconsBold {
     'heartAngle': heartAngle,
     'heartCrack': heartCrack,
     'heartLock': heartLock,
+    'heartOff': heartOff,
     'heartPulse': heartPulse,
     'heartPulse2': heartPulse2,
     'heartShine': heartShine,
@@ -1761,6 +2269,7 @@ class AuraIconsBold {
     'help': help,
     'highDefinition': highDefinition,
     'highQuality': highQuality,
+    'highlighter': highlighter,
     'hiking': hiking,
     'hikingMinimalistic': hikingMinimalistic,
     'hikingRound': hikingRound,
@@ -1782,6 +2291,7 @@ class AuraIconsBold {
     'hourglassLine': hourglassLine,
     'house': house,
     'iPhone': iPhone,
+    'iceCreamCone': iceCreamCone,
     'importIcon': importIcon,
     'inbox': inbox,
     'inboxArchive': inboxArchive,
@@ -1795,8 +2305,13 @@ class AuraIconsBold {
     'infinite': infinite,
     'infoCircle': infoCircle,
     'infoSquare': infoSquare,
+    'intersect': intersect,
+    'intersectMinimalistic': intersectMinimalistic,
     'jarOfPills': jarOfPills,
     'jarOfPills2': jarOfPills2,
+    'justiceScale': justiceScale,
+    'kanban': kanban,
+    'kanbanSquare': kanbanSquare,
     'key': key,
     'keyMinimalistic': keyMinimalistic,
     'keyMinimalistic2': keyMinimalistic2,
@@ -1813,8 +2328,14 @@ class AuraIconsBold {
     'laptop2': laptop2,
     'laptop3': laptop3,
     'laptopMinimalistic': laptopMinimalistic,
+    'layerArrowDown': layerArrowDown,
+    'layerArrowUp': layerArrowUp,
     'layers': layers,
+    'layersArrowDown': layersArrowDown,
+    'layersArrowUp': layersArrowUp,
     'layersMinimalistic': layersMinimalistic,
+    'layoutFreeform': layoutFreeform,
+    'layoutList': layoutList,
     'leaf': leaf,
     'letter': letter,
     'letterOpened': letterOpened,
@@ -1823,6 +2344,7 @@ class AuraIconsBold {
     'lightbulb': lightbulb,
     'lightbulbBolt': lightbulbBolt,
     'lightbulbMinimalistic': lightbulbMinimalistic,
+    'lightbulbOff': lightbulbOff,
     'lightning': lightning,
     'like': like,
     'link': link,
@@ -1839,15 +2361,28 @@ class AuraIconsBold {
     'listArrowUpMinimalistic': listArrowUpMinimalistic,
     'listCheck': listCheck,
     'listCheckMinimalistic': listCheckMinimalistic,
+    'listCollapse': listCollapse,
+    'listCollapseMinimalistic': listCollapseMinimalistic,
     'listCross': listCross,
     'listCrossMinimalistic': listCrossMinimalistic,
     'listDown': listDown,
     'listDownMinimalistic': listDownMinimalistic,
     'listHeart': listHeart,
     'listHeartMinimalistic': listHeartMinimalistic,
+    'listIndentDecrease': listIndentDecrease,
+    'listIndentIncrease': listIndentIncrease,
+    'listMinus': listMinus,
+    'listMinusMinimalistic': listMinusMinimalistic,
+    'listOrdered': listOrdered,
+    'listOrderedMinimalistic': listOrderedMinimalistic,
+    'listPlus': listPlus,
+    'listPlusMinimalistic': listPlusMinimalistic,
+    'listUnordered': listUnordered,
+    'listUnorderedMinimalistic': listUnorderedMinimalistic,
     'listUp': listUp,
     'listUpMinimalistic': listUpMinimalistic,
     'listVertical': listVertical,
+    'loader': loader,
     'lock': lock,
     'lockKeyhole': lockKeyhole,
     'lockKeyholeMinimalistic': lockKeyholeMinimalistic,
@@ -1859,6 +2394,7 @@ class AuraIconsBold {
     'login': login,
     'login2': login2,
     'login3': login3,
+    'logout': logout,
     'logout2': logout2,
     'logout3': logout3,
     'magicWand': magicWand,
@@ -1868,6 +2404,9 @@ class AuraIconsBold {
     'magnetWave': magnetWave,
     'magnifier': magnifier,
     'magnifierBug': magnifierBug,
+    'magnifierCheck': magnifierCheck,
+    'magnifierClose': magnifierClose,
+    'magnifierSlash': magnifierSlash,
     'magnifierZoomIn': magnifierZoomIn,
     'magnifierZoomOut': magnifierZoomOut,
     'mailbox': mailbox,
@@ -1881,6 +2420,7 @@ class AuraIconsBold {
     'mapPointAdd': mapPointAdd,
     'mapPointFavorite': mapPointFavorite,
     'mapPointHospital': mapPointHospital,
+    'mapPointOff': mapPointOff,
     'mapPointRemove': mapPointRemove,
     'mapPointRotate': mapPointRotate,
     'mapPointSchool': mapPointSchool,
@@ -1903,18 +2443,28 @@ class AuraIconsBold {
     'medicalKit': medicalKit,
     'meditation': meditation,
     'meditationRound': meditationRound,
+    'megaphone': megaphone,
     'men': men,
     'mentionCircle': mentionCircle,
     'mentionSquare': mentionSquare,
     'menuDots': menuDots,
     'menuDotsCircle': menuDotsCircle,
     'menuDotsSquare': menuDotsSquare,
+    'menuDotsVertical': menuDotsVertical,
     'microphone': microphone,
     'microphone2': microphone2,
+    'microphone2Off': microphone2Off,
     'microphone3': microphone3,
+    'microphone3Off': microphone3Off,
     'microphoneLarge': microphoneLarge,
+    'microphoneLargeOff': microphoneLargeOff,
+    'microphoneOff': microphoneOff,
+    'microscope': microscope,
     'minimalisticMagnifier': minimalisticMagnifier,
     'minimalisticMagnifierBug': minimalisticMagnifierBug,
+    'minimalisticMagnifierCheck': minimalisticMagnifierCheck,
+    'minimalisticMagnifierClose': minimalisticMagnifierClose,
+    'minimalisticMagnifierSlash': minimalisticMagnifierSlash,
     'minimalisticMagnifierZoomIn': minimalisticMagnifierZoomIn,
     'minimalisticMagnifierZoomOut': minimalisticMagnifierZoomOut,
     'minimize': minimize,
@@ -1922,6 +2472,7 @@ class AuraIconsBold {
     'minimizeSquare2': minimizeSquare2,
     'minimizeSquare3': minimizeSquare3,
     'minimizeSquareMinimalistic': minimizeSquareMinimalistic,
+    'minus': minus,
     'minusCircle': minusCircle,
     'minusSquare': minusSquare,
     'mirror': mirror,
@@ -1932,15 +2483,23 @@ class AuraIconsBold {
     'moneyRoll': moneyRoll,
     'monitor': monitor,
     'monitorCamera': monitorCamera,
+    'monitorOff': monitorOff,
     'monitorSmartphone': monitorSmartphone,
     'moon': moon,
     'moonFog': moonFog,
     'moonSleep': moonSleep,
     'moonStars': moonStars,
+    'mountains': mountains,
     'mouse': mouse,
     'mouseCircle': mouseCircle,
     'mouseMinimalistic': mouseMinimalistic,
+    'move': move,
+    'move3d': move3d,
+    'moveCircle': moveCircle,
+    'moveHorizontal': moveHorizontal,
+    'moveSquare': moveSquare,
     'moveToFolder': moveToFolder,
+    'moveVertical': moveVertical,
     'mug': mug,
     'multipleForwardLeft': multipleForwardLeft,
     'multipleForwardRight': multipleForwardRight,
@@ -1954,6 +2513,7 @@ class AuraIconsBold {
     'musicNoteSlider2': musicNoteSlider2,
     'musicNotes': musicNotes,
     'muted': muted,
+    'noiseSquare': noiseSquare,
     'notebook': notebook,
     'notebook2': notebook2,
     'notebookBookmark': notebookBookmark,
@@ -1966,21 +2526,43 @@ class AuraIconsBold {
     'notificationUnread': notificationUnread,
     'notificationUnreadLines': notificationUnreadLines,
     'objectScan': objectScan,
+    'opacity': opacity,
     'outgoingCall': outgoingCall,
     'outgoingCallRounded': outgoingCallRounded,
     'ovenMitts': ovenMitts,
     'ovenMittsMinimalistic': ovenMittsMinimalistic,
+    'paintBrush': paintBrush,
+    'paintBucket': paintBucket,
     'paintRoller': paintRoller,
     'palette': palette,
     'palette2': palette2,
     'paletteRound': paletteRound,
+    'panelBottom': panelBottom,
+    'panelBottomClose': panelBottomClose,
+    'panelBottomOpen': panelBottomOpen,
+    'panelLeft': panelLeft,
+    'panelLeftClose': panelLeftClose,
+    'panelLeftOpen': panelLeftOpen,
+    'panelRight': panelRight,
+    'panelRightClose': panelRightClose,
+    'panelRightOpen': panelRightOpen,
+    'panelTextRight': panelTextRight,
+    'panelTop': panelTop,
+    'panelTopClose': panelTopClose,
+    'panelTopOpen': panelTopOpen,
+    'panelsBottomLeft': panelsBottomLeft,
+    'panelsBottomRight': panelsBottomRight,
+    'panelsTopLeft': panelsTopLeft,
+    'panelsTopRight': panelsTopRight,
     'panorama': panorama,
     'paperBin': paperBin,
     'paperclip': paperclip,
     'paperclip2': paperclip2,
     'paperclipRounded': paperclipRounded,
     'paperclipRounded2': paperclipRounded2,
+    'paragraph': paragraph,
     'paragraphSpacing': paragraphSpacing,
+    'parentheses': parentheses,
     'passport': passport,
     'passportMinimalistic': passportMinimalistic,
     'password': password,
@@ -1993,7 +2575,9 @@ class AuraIconsBold {
     'pen2': pen2,
     'penNewRound': penNewRound,
     'penNewSquare': penNewSquare,
+    'penTool': penTool,
     'peopleNearby': peopleNearby,
+    'percent': percent,
     'perfume': perfume,
     'phone': phone,
     'phoneCalling': phoneCalling,
@@ -2002,6 +2586,7 @@ class AuraIconsBold {
     'pieChart': pieChart,
     'pieChart2': pieChart2,
     'pieChart3': pieChart3,
+    'piggyBank': piggyBank,
     'pill': pill,
     'pills': pills,
     'pills2': pills2,
@@ -2012,6 +2597,7 @@ class AuraIconsBold {
     'pip': pip,
     'pip2': pip2,
     'pipette': pipette,
+    'pizza': pizza,
     'plane': plane,
     'plane2': plane2,
     'plane3': plane3,
@@ -2029,6 +2615,7 @@ class AuraIconsBold {
     'playlistMinimalistic': playlistMinimalistic,
     'playlistMinimalistic2': playlistMinimalistic2,
     'playlistMinimalistic3': playlistMinimalistic3,
+    'plug': plug,
     'plugCircle': plugCircle,
     'plusMinus': plusMinus,
     'podcast': podcast,
@@ -2036,6 +2623,7 @@ class AuraIconsBold {
     'pointOnMapPerspective': pointOnMapPerspective,
     'postsCarouselHorizontal': postsCarouselHorizontal,
     'postsCarouselVertical': postsCarouselVertical,
+    'pound': pound,
     'power': power,
     'presentationGraph': presentationGraph,
     'printer': printer,
@@ -2045,13 +2633,18 @@ class AuraIconsBold {
     'projector': projector,
     'pulse': pulse,
     'pulse2': pulse2,
+    'puzzle': puzzle,
     'qrCode': qrCode,
     'questionCircle': questionCircle,
+    'questionMark': questionMark,
     'questionSquare': questionSquare,
     'quitFullScreen': quitFullScreen,
     'quitFullScreenCircle': quitFullScreenCircle,
     'quitFullScreenSquare': quitFullScreenSquare,
     'quitPip': quitPip,
+    'quote': quote,
+    'quoteCircle': quoteCircle,
+    'quoteSquare': quoteSquare,
     'radar': radar,
     'radar2': radar2,
     'radialBlur': radialBlur,
@@ -2065,6 +2658,7 @@ class AuraIconsBold {
     'recordCircle': recordCircle,
     'recordMinimalistic': recordMinimalistic,
     'recordSquare': recordSquare,
+    'rectangle': rectangle,
     'reel': reel,
     'reel2': reel2,
     'refresh': refresh,
@@ -2098,6 +2692,10 @@ class AuraIconsBold {
     'rocket': rocket,
     'rocket2': rocket2,
     'rollingPin': rollingPin,
+    'rotateAnticlockwise': rotateAnticlockwise,
+    'rotateAnticlockwise2': rotateAnticlockwise2,
+    'rotateClockwise': rotateClockwise,
+    'rotateClockwise2': rotateClockwise2,
     'roundAltArrowDown': roundAltArrowDown,
     'roundAltArrowLeft': roundAltArrowLeft,
     'roundAltArrowRight': roundAltArrowRight,
@@ -2122,12 +2720,19 @@ class AuraIconsBold {
     'roundTransferVertical': roundTransferVertical,
     'roundedMagnifier': roundedMagnifier,
     'roundedMagnifierBug': roundedMagnifierBug,
+    'roundedMagnifierCheck': roundedMagnifierCheck,
+    'roundedMagnifierClose': roundedMagnifierClose,
+    'roundedMagnifierSlash': roundedMagnifierSlash,
     'roundedMagnifierZoomIn': roundedMagnifierZoomIn,
     'roundedMagnifierZoomOut': roundedMagnifierZoomOut,
     'route': route,
     'routing': routing,
     'routing2': routing2,
     'routing3': routing3,
+    'rows2': rows2,
+    'rows3': rows3,
+    'rows4': rows4,
+    'rss': rss,
     'ruble': ruble,
     'rugby': rugby,
     'ruler': ruler,
@@ -2137,6 +2742,7 @@ class AuraIconsBold {
     'running': running,
     'running2': running2,
     'runningRound': runningRound,
+    'rupee': rupee,
     'sadCircle': sadCircle,
     'sadSquare': sadSquare,
     'safe2': safe2,
@@ -2156,8 +2762,11 @@ class AuraIconsBold {
     'screencast': screencast,
     'screencast2': screencast2,
     'sdCard': sdCard,
+    'selection': selection,
     'sendSquare': sendSquare,
     'sendTwiceSquare': sendTwiceSquare,
+    'separatorHorizontal': separatorHorizontal,
+    'separatorVertical': separatorVertical,
     'server': server,
     'server2': server2,
     'serverMinimalistic': serverMinimalistic,
@@ -2167,8 +2776,11 @@ class AuraIconsBold {
     'serverSquareUpdate': serverSquareUpdate,
     'settings': settings,
     'settingsMinimalistic': settingsMinimalistic,
+    'shadow': shadow,
+    'shapeRotate': shapeRotate,
     'share': share,
     'shareCircle': shareCircle,
+    'sheet': sheet,
     'shield': shield,
     'shieldCheck': shieldCheck,
     'shieldCross': shieldCross,
@@ -2177,19 +2789,24 @@ class AuraIconsBold {
     'shieldMinimalistic': shieldMinimalistic,
     'shieldMinus': shieldMinus,
     'shieldNetwork': shieldNetwork,
+    'shieldOff': shieldOff,
     'shieldPlus': shieldPlus,
     'shieldStar': shieldStar,
     'shieldUp': shieldUp,
     'shieldUser': shieldUser,
     'shieldWarning': shieldWarning,
+    'ship': ship,
     'shockAbsorber': shockAbsorber,
     'shop': shop,
     'shop2': shop2,
     'shopMinimalistic': shopMinimalistic,
     'shuffle': shuffle,
-    'sidebar': sidebar,
     'sidebarCode': sidebarCode,
-    'sidebarMinimalistic': sidebarMinimalistic,
+    'signal': signal,
+    'signalHigh': signalHigh,
+    'signalLow': signalLow,
+    'signalMedium': signalMedium,
+    'signalZero': signalZero,
     'signpost': signpost,
     'signpost2': signpost2,
     'simCard': simCard,
@@ -2203,6 +2820,7 @@ class AuraIconsBold {
     'skipNext': skipNext,
     'skipPrevious': skipPrevious,
     'skirt': skirt,
+    'skull': skull,
     'slashCircle': slashCircle,
     'slashSquare': slashSquare,
     'sledgehammer': sledgehammer,
@@ -2244,12 +2862,14 @@ class AuraIconsBold {
     'soundwave': soundwave,
     'soundwaveCircle': soundwaveCircle,
     'soundwaveSquare': soundwaveSquare,
+    'sparkles': sparkles,
     'speaker': speaker,
     'speakerMinimalistic': speakerMinimalistic,
     'specialEffects': specialEffects,
     'speedometerLow': speedometerLow,
     'speedometerMax': speedometerMax,
     'speedometerMiddle': speedometerMiddle,
+    'sprout': sprout,
     'squareAcademicCap': squareAcademicCap,
     'squareAcademicCap2': squareAcademicCap2,
     'squareAltArrowDown': squareAltArrowDown,
@@ -2266,6 +2886,9 @@ class AuraIconsBold {
     'squareArrowUp': squareArrowUp,
     'squareBottomDown': squareBottomDown,
     'squareBottomUp': squareBottomUp,
+    'squareDashed': squareDashed,
+    'squareDot': squareDot,
+    'squareDotDashed': squareDotDashed,
     'squareDoubleAltArrowDown': squareDoubleAltArrowDown,
     'squareDoubleAltArrowLeft': squareDoubleAltArrowLeft,
     'squareDoubleAltArrowRight': squareDoubleAltArrowRight,
@@ -2288,6 +2911,8 @@ class AuraIconsBold {
     'starFall2': starFall2,
     'starFallMinimalistic': starFallMinimalistic,
     'starFallMinimalistic2': starFallMinimalistic2,
+    'starHalf': starHalf,
+    'starOff': starOff,
     'starRainbow': starRainbow,
     'starRing': starRing,
     'starRings': starRings,
@@ -2316,7 +2941,10 @@ class AuraIconsBold {
     'stretching': stretching,
     'stretchingRound': stretchingRound,
     'structure': structure,
+    'subscript': subscript,
     'subtitles': subtitles,
+    'subtract': subtract,
+    'subtractMinimalistic': subtractMinimalistic,
     'suitcase': suitcase,
     'suitcaseLines': suitcaseLines,
     'suitcaseTag': suitcaseTag,
@@ -2325,12 +2953,20 @@ class AuraIconsBold {
     'sunFog': sunFog,
     'sunrise': sunrise,
     'sunset': sunset,
+    'superscript': superscript,
     'suspension': suspension,
     'suspensionBolt': suspensionBolt,
     'suspensionCross': suspensionCross,
     'swimming': swimming,
     'syringe': syringe,
     'tShirt': tShirt,
+    'table': table,
+    'tableCellsMerge': tableCellsMerge,
+    'tableCellsSplit': tableCellsSplit,
+    'tableColumnsSplit': tableColumnsSplit,
+    'tableMinimalistic': tableMinimalistic,
+    'tableProperties': tableProperties,
+    'tableRowsSplit': tableRowsSplit,
     'tablet': tablet,
     'tag': tag,
     'tagHorizontal': tagHorizontal,
@@ -2343,6 +2979,9 @@ class AuraIconsBold {
     'tennis2': tennis2,
     'testTube': testTube,
     'testTubeMinimalistic': testTubeMinimalistic,
+    'textAlignCenter': textAlignCenter,
+    'textAlignLeft': textAlignLeft,
+    'textAlignRight': textAlignRight,
     'textBold': textBold,
     'textBoldCircle': textBoldCircle,
     'textBoldSquare': textBoldSquare,
@@ -2353,6 +2992,7 @@ class AuraIconsBold {
     'textField': textField,
     'textFieldFocus': textFieldFocus,
     'textFormat': textFormat,
+    'textHeading': textHeading,
     'textItalic': textItalic,
     'textItalicCircle': textItalicCircle,
     'textItalicSquare': textItalicSquare,
@@ -2364,10 +3004,13 @@ class AuraIconsBold {
     'textUnderlineCross': textUnderlineCross,
     'thermometer': thermometer,
     'threeSquares': threeSquares,
-    'tickerStar': tickerStar,
     'ticket': ticket,
     'ticketSale': ticketSale,
+    'ticketStar': ticketStar,
     'toPip': toPip,
+    'toggleLeft': toggleLeft,
+    'toggleRight': toggleRight,
+    'toolbox': toolbox,
     'tornado': tornado,
     'tornadoSmall': tornadoSmall,
     'traffic': traffic,
@@ -2375,6 +3018,7 @@ class AuraIconsBold {
     'tram': tram,
     'transferHorizontal': transferHorizontal,
     'transferVertical': transferVertical,
+    'translate': translate,
     'translation': translation,
     'translation2': translation2,
     'transmission': transmission,
@@ -2386,6 +3030,8 @@ class AuraIconsBold {
     'trashBinTrash': trashBinTrash,
     'treadmill': treadmill,
     'treadmillRound': treadmillRound,
+    'tree': tree,
+    'truck': truck,
     'tuning': tuning,
     'tuning2': tuning2,
     'tuning3': tuning3,
@@ -2408,6 +3054,7 @@ class AuraIconsBold {
     'undoRightRound': undoRightRound,
     'undoRightRoundSquare': undoRightRoundSquare,
     'undoRightSquare': undoRightSquare,
+    'union': union,
     'unlink': unlink,
     'unlinkMinimalistic': unlinkMinimalistic,
     'unread': unread,
@@ -2443,6 +3090,8 @@ class AuraIconsBold {
     'usersGroupRounded': usersGroupRounded,
     'usersGroupTwoRounded': usersGroupTwoRounded,
     'vanity': vanity,
+    'variableBrackets': variableBrackets,
+    'variableSquare': variableSquare,
     'verifiedCheck': verifiedCheck,
     'videoFrame': videoFrame,
     'videoFrame2': videoFrame2,
@@ -2454,6 +3103,7 @@ class AuraIconsBold {
     'videoLibrary': videoLibrary,
     'videocamera': videocamera,
     'videocameraAdd': videocameraAdd,
+    'videocameraOff': videocameraOff,
     'videocameraRecord': videocameraRecord,
     'vinyl': vinyl,
     'vinylRecord': vinylRecord,
@@ -2471,6 +3121,7 @@ class AuraIconsBold {
     'wallet2': wallet2,
     'walletMoney': walletMoney,
     'wallpaper': wallpaper,
+    'warp': warp,
     'washingMachine': washingMachine,
     'washingMachineMinimalistic': washingMachineMinimalistic,
     'watchRound': watchRound,
@@ -2481,9 +3132,18 @@ class AuraIconsBold {
     'waterSun': waterSun,
     'waterdrop': waterdrop,
     'waterdrops': waterdrops,
+    'webcam': webcam,
+    'webcamOff': webcamOff,
     'wheel': wheel,
     'wheelAngle': wheelAngle,
     'whisk': whisk,
+    'wiFi': wiFi,
+    'wiFiCog': wiFiCog,
+    'wiFiCross': wiFiCross,
+    'wiFiHigh': wiFiHigh,
+    'wiFiLow': wiFiLow,
+    'wiFiNone': wiFiNone,
+    'wiFiOff': wiFiOff,
     'wiFiRouter': wiFiRouter,
     'wiFiRouterMinimalistic': wiFiRouterMinimalistic,
     'wiFiRouterRound': wiFiRouterRound,
@@ -2501,7 +3161,9 @@ class AuraIconsBold {
     'wineglassTriangle': wineglassTriangle,
     'wirelessCharge': wirelessCharge,
     'women': women,
+    'workflow': workflow,
+    'wrench': wrench,
     'xxx': xxx,
-    'zipFile': zipFile,
+    'yen': yen,
   };
 }
