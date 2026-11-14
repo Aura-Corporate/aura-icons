@@ -14,7 +14,7 @@ The SVG source files were pulled from the community-maintained repackaging at
 (`packages/core/svgs/`), pinned at commit:
 
 ```
-750ab81d2c31164463d168bdfd52e8a7632deeaf
+daab4e55280334a0e9089ca5c3273a012696c2dc
 ```
 
 That repository's own code (the parser/normalization logic this package's
